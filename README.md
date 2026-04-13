@@ -70,16 +70,16 @@ print(df.head())
 | creator.properties  | available | $10.99    | $50.99        | 70             | 45     | 7      | name.com          |
 | home.properties     | resell    | —         | —             | 100            | 62     | 4      | Sav.com, LLC      |
 | game.properties     | premium   | $250      | $250          | 120            | 50     | 4      | name.com          |
-| forge.properties    | available | $10.99    | $50.99        | 62             | 45     | 5      | name.com          |
+| forge.properties    | available | $10.99    | $50.99        | 62             | 44     | 5      | name.com          |
 | open.properties     | resell    | —         | —             | 106            | 60     | 4      | Porkbun LLC       |
 | life.properties     | premium   | $260      | $260          | 84             | 50     | 4      | namecheap         |
 | wizard.properties   | available | $10.99    | $50.99        | 118            | 43     | 6      | name.com          |
 | data.properties     | resell    | —         | —             | 70             | 56     | 4      | Porkbun LLC       |
 | gold.properties     | premium   | $260      | $260          | 72             | 48     | 4      | namecheap         |
-| order.properties    | available | $10.99    | $50.99        | 78             | 41     | 5      | name.com          |
+| service.properties  | available | $43.98    | —             | 70             | 41     | 7      | namecheap         |
 | future.properties   | resell    | —         | —             | 94             | 55     | 6      | Sav.com, LLC - 17 |
 | zen.properties      | premium   | $82.50    | —             | 80             | 47     | 3      | name.com          |
-| service.properties  | available | $43.98    | —             | 70             | 41     | 7      | namecheap         |
+| order.properties    | available | $10.99    | $50.99        | 78             | 40     | 5      | name.com          |
 | good.properties     | resell    | —         | —             | 82             | 55     | 4      | Sav.com, LLC - 20 |
 | trade.properties    | premium   | $42.90    | $42.90        | 116            | 46     | 5      | namecheap         |
 | stock.properties    | available | $43.98    | —             | 68             | 40     | 5      | namecheap         |
