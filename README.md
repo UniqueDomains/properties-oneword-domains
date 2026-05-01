@@ -1,10 +1,10 @@
-# Available .PROPERTIES One-Word Domains (11,583)
+# Available .PROPERTIES One-Word Domains (12,041)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C583%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C041%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .properties one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,583 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,041 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,583 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,041 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/properties`  
 **Best for:** founders, investors, studios
 
@@ -67,23 +67,23 @@ print(df.head())
 | skills.properties      | available | $10.99    | —             | 58             | 47     | 6      | name.com     |
 | online.properties      | resell    | —         | —             | 70             | 62     | 7      | Sav.com, LLC |
 | cars.properties        | premium   | $250      | —             | 66             | 47     | 4      | name.com     |
-| Ryan.properties        | available | $43.98    | —             | 60             | 44     | 4      | namecheap    |
+| tokens.properties      | available | $10.99    | —             | 51             | 36     | 6      | name.com     |
 | WhiteHouse.properties  | resell    | —         | —             | 66             | 33     | 11     | Dynadot Inc  |
 | events.properties      | premium   | $250      | —             | 68             | 37     | 6      | name.com     |
-| tokens.properties      | available | $10.99    | —             | 51             | 36     | 6      | name.com     |
-| solutions.properties   | premium   | $250      | —             | 56             | 31     | 9      | name.com     |
 | Cats.properties        | available | $43.98    | —             | 59             | 33     | 4      | namecheap    |
-| toys.properties        | premium   | $242      | $242          | 60             | 24     | 4      | namesilo     |
+| solutions.properties   | premium   | $250      | —             | 56             | 31     | 9      | name.com     |
 | letsgo.properties      | available | $10.99    | —             | 57             | 31     | 7      | name.com     |
-| holidays.properties    | premium   | $242      | $242          | 78             | 23     | 8      | namesilo     |
+| toys.properties        | premium   | $242      | $242          | 60             | 24     | 4      | namesilo     |
 | popup.properties       | available | $10.99    | —             | 84             | 29     | 6      | name.com     |
-| restaurants.properties | premium   | $250      | —             | 57             | 21     | 11     | name.com     |
+| holidays.properties    | premium   | $242      | $242          | 78             | 23     | 8      | namesilo     |
 | quotes.properties      | available | $10.99    | —             | 58             | 29     | 6      | name.com     |
-| pools.properties       | premium   | $250      | —             | 61             | 19     | 5      | name.com     |
+| restaurants.properties | premium   | $250      | —             | 57             | 21     | 11     | name.com     |
 | gems.properties        | available | $10.99    | —             | 70             | 28     | 4      | name.com     |
-| rocks.properties       | premium   | $250      | —             | 78             | 18     | 5      | name.com     |
+| webs.properties        | premium   | $242      | $242          | 56             | 21     | 4      | namesilo     |
 | forms.properties       | available | $10.99    | —             | 54             | 28     | 5      | name.com     |
-| pictures.properties    | premium   | $250      | —             | 82             | 17     | 8      | name.com     |
+| pools.properties       | premium   | $250      | —             | 61             | 19     | 5      | name.com     |
+| pages.properties       | available | $10.99    | —             | 52             | 28     | 5      | name.com     |
+| rocks.properties       | premium   | $250      | —             | 78             | 18     | 5      | name.com     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,583 live domains                              |
+| 1,000-row public sample | 12,041 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PROPERTIES One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PROPERTIES One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
