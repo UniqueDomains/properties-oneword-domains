@@ -280,6 +280,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 17486029-3e99-4e58-af81-5f38d2fce2c8,lostandfound.properties,available,10.99,,64,19,14,name.com,,
 174b11c0-1738-4b19-995c-dba6900474b4,revenues.properties,available,10.99,,54,6,8,name.com,,
 176c8724-83ef-485d-86a6-b36ffb98e52e,stepping.properties,available,10.99,,73,5,8,name.com,,
+1774737e-35aa-45f6-b5aa-54293c68f92e,exhale.properties,available,10.99,,76,13,6,name.com,,
 1780276c-d55f-4695-a6a5-f36450806448,continentalplate.properties,available,10.99,,42,1,17,name.com,,
 1786783a-0b4d-43dc-acda-225685da3cea,mortgages.properties,available,10.99,,50,16,9,name.com,,
 1796fdb6-4a4b-4149-89f7-06649fa54629,getoutthevote.properties,available,10.99,,70,2,16,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 562e1acc-7eb7-4a3e-b3dc-1fdb83dfcf8d,introducing.properties,available,10.99,,58,8,11,name.com,,
 565c93a9-a225-4e5d-a69b-be073a8fe205,toys.properties,premium,242,242,60,24,4,namesilo,,
 56a55ec4-d86b-4c2a-9ff7-a137962c021d,differed.properties,available,10.99,,48,2,8,name.com,,
-56b33914-a7bd-4ebb-bdd5-7a00ce00ab7e,stitches.properties,available,10.99,,46,10,8,name.com,,
