@@ -195,6 +195,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 1001e9bf-6ec3-48fa-8264-59051d1c948d,keepto.properties,available,10.99,,72,2,7,name.com,,
 1043d3fc-8203-4880-b0ba-b6d16e2e2cd0,reflects.properties,available,10.99,,50,6,8,name.com,,
 104ef593-0e62-4669-859f-7f4514be221c,noodlebar.properties,available,10.99,,62,2,10,name.com,,
+106cb081-cab7-4750-b17a-cd372e67f40d,chatbot.properties,available,10.99,,82,40,7,name.com,,
 107173f6-fe8a-4f69-8249-90a1bdf8a542,pools.properties,premium,250,,61,19,5,name.com,,
 108f94f1-9e6f-4f4e-8132-badafbf8c5d7,overcasted.properties,available,10.99,,48,1,10,name.com,,
 10ad1292-d14d-49b9-b191-b2bd1dc321e4,arrested.properties,available,10.99,,60,7,8,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5610b6e9-4893-46c1-9a3a-e73dd68ae8c0,leavemealone.properties,available,10.99,,42,7,14,name.com,,
 562e1acc-7eb7-4a3e-b3dc-1fdb83dfcf8d,introducing.properties,available,10.99,,58,8,11,name.com,,
 565c93a9-a225-4e5d-a69b-be073a8fe205,toys.properties,premium,242,242,60,24,4,namesilo,,
-56a55ec4-d86b-4c2a-9ff7-a137962c021d,differed.properties,available,10.99,,48,2,8,name.com,,
