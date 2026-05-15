@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .properties one-word domain
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,046 domains · **Median ask:** $22.16 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-13  
+**Last updated:** 2026-05-15  
 **Canonical page:** `https://unique.domains/domains/tld/properties`  
 **Best for:** founders, investors, studios
 
@@ -68,7 +68,7 @@ print(df.head())
 | online.properties      | resell    | —         | —             | 70             | 62     | 7      | Sav.com, LLC |
 | cars.properties        | premium   | $250      | —             | 66             | 47     | 4      | name.com     |
 | chatbot.properties     | available | $10.99    | —             | 82             | 40     | 7      | name.com     |
-| WhiteHouse.properties  | resell    | —         | —             | 66             | 33     | 11     | Dynadot Inc  |
+| WhiteHouse.properties  | resell    | —         | —             | 66             | 25     | 11     | Dynadot Inc  |
 | events.properties      | premium   | $250      | —             | 68             | 37     | 6      | name.com     |
 | tokens.properties      | available | $10.99    | —             | 51             | 36     | 6      | name.com     |
 | solutions.properties   | premium   | $250      | —             | 56             | 31     | 9      | name.com     |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PROPERTIES One-Word Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PROPERTIES One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

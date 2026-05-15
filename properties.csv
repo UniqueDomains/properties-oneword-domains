@@ -580,7 +580,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 30a3eed8-fe52-40e7-8fbd-6885e58c5fe3,leaveoffice.properties,available,10.99,,58,0,12,name.com,,
 30b46522-7fa3-4b9c-ad09-4baf4ce9529b,havenoneofit.properties,available,10.99,,56,1,15,name.com,,
 30f749a6-95ae-471d-abb6-b4a1f3b7a71d,gohome.properties,available,10.99,,76,14,7,name.com,,
-30ff09ee-2bd7-42ed-a3f9-537285ec8b86,WhiteHouse.properties,resell,,,66,33,11,Dynadot Inc,07/02/2026 17:00,07/02/2027 17:00
+30ff09ee-2bd7-42ed-a3f9-537285ec8b86,WhiteHouse.properties,resell,,,66,25,11,Dynadot Inc,07/02/2026 17:00,07/02/2027 17:00
 3104cea3-8af8-4b2b-8a50-7c82d7d4e1a7,devoured.properties,available,10.99,,40,3,8,name.com,,
 31107d0a-49d1-4659-b70d-8a8af29c95f5,notalittle.properties,available,10.99,,60,1,12,name.com,,
 3120fba1-2973-4387-bf1e-2181113c3f18,hitwith.properties,available,10.99,,76,2,8,name.com,,
@@ -882,7 +882,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4a630ce4-a7a5-405a-a4d6-f8ab83f61f65,backtaxes.properties,available,10.99,,62,3,10,name.com,,
 4a81b167-11f9-4998-83fc-c99a5b0ce4ed,tightened.properties,available,10.99,,50,1,9,name.com,,
 4a855d54-2fc4-42df-b993-c4585449e8e6,mosquitoes.properties,available,10.99,,42,4,10,name.com,,
-4a897abd-9303-49b4-a35e-b22954c24f61,greenbuilding.properties,available,10.99,,72,16,14,name.com,,
+4a897abd-9303-49b4-a35e-b22954c24f61,greenbuilding.properties,available,10.99,,72,7,14,name.com,,
 4a959dad-09ee-4a20-a531-c05e8d2671e6,vendors.properties,available,10.99,,56,12,7,name.com,,
 4aa96e6c-4520-471d-913f-9da338571e05,manycoloured.properties,available,10.99,,60,1,13,name.com,,
 4aeb02d8-182d-4622-8827-a4dce8ac1ecf,demoting.properties,available,10.99,,46,1,8,name.com,,
