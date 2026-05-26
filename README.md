@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .properties one-word domain
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,046 domains · **Median ask:** $22.16 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/properties`  
 **Best for:** founders, investors, studios
 
@@ -76,9 +76,9 @@ print(df.head())
 | toys.properties        | premium   | $242      | $242          | 60             | 24     | 4      | namesilo     |
 | letsgo.properties      | available | $10.99    | —             | 57             | 31     | 7      | name.com     |
 | holidays.properties    | premium   | $242      | $242          | 78             | 23     | 8      | namesilo     |
-| popup.properties       | available | $10.99    | —             | 84             | 29     | 6      | name.com     |
-| restaurants.properties | premium   | $250      | —             | 57             | 21     | 11     | name.com     |
 | quotes.properties      | available | $10.99    | —             | 58             | 29     | 6      | name.com     |
+| restaurants.properties | premium   | $250      | —             | 57             | 21     | 11     | name.com     |
+| popup.properties       | available | $10.99    | —             | 84             | 28     | 6      | name.com     |
 | webs.properties        | premium   | $242      | $242          | 56             | 21     | 4      | namesilo     |
 | gems.properties        | available | $10.99    | —             | 70             | 28     | 4      | name.com     |
 | pools.properties       | premium   | $250      | —             | 61             | 19     | 5      | name.com     |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PROPERTIES One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PROPERTIES One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
