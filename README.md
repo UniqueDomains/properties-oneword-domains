@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .properties one-word domain
 
 **Public extract:** 1,000 rows · **Live catalog:** 24,578 domains · **Median ask:** $19.78 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-16
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/tld/properties`
 **Best for:** founders, investors, studios
 
@@ -80,10 +80,10 @@ print(df.head())
 | brain.properties | resell    | —         | —             | high           | medium | 5      | Sav.com, LLC - 28                           |
 | cup.properties   | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                    |
 | UML.properties   | available | $10.99    | —             | high           | low    | 3      | name.com                                    |
-| happy.properties | resell    | —         | —             | high           | medium | 5      | Porkbun LLC                                 |
+| noble.properties | resell    | —         | —             | medium         | low    | 5      | Sav.com, LLC                                |
 | cut.properties   | premium   | $82.50    | $82.50        | high           | low    | 3      | name.com                                    |
 | xix.properties   | available | $10.99    | $50.99        | high           | low    | 3      | name.com                                    |
-| noble.properties | resell    | —         | —             | medium         | low    | 5      | Sav.com, LLC                                |
+| sweet.properties | resell    | —         | —             | high           | low    | 5      | Dynadot Inc                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PROPERTIES One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PROPERTIES One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

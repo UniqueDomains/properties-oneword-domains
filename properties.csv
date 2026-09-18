@@ -33,7 +33,7 @@ c459bf91-55eb-4fe8-9386-60b5f3e59d87,colours.properties,available,10.99,,high,lo
 13bd237b-9779-483d-af69-70f98beb894a,asthesayinggoes.properties,available,10.99,,medium,low,18,name.com,,,
 516fc7a4-afe2-4100-bb14-fef76b646e34,atonic.properties,available,10.99,50.99,low,low,6,name.com,,,07/08/2026 13:54
 07c3e668-8c93-4d79-b763-f1d6604fca3b,trimdown.properties,available,10.99,,medium,low,9,name.com,,,
-93964955-4b2d-4408-b62b-c2e58eefcd5a,touchon.properties,available,10.99,,low,low,8,name.com,,,
+93964955-4b2d-4408-b62b-c2e58eefcd5a,touchon.properties,available,18.99,39.99,low,low,8,namesilo,,,17/09/2026 14:12
 ee11e194-ef19-4bbe-a014-7233daa0caa2,tasking.properties,available,10.99,,medium,low,7,name.com,,,
 ab26eaba-bb55-4dc1-a01a-772a2e111d31,Audi.properties,available,,,high,low,4,,,,
 d880f452-2d03-4ab3-bb19-38405aebedc0,reminder.properties,available,10.99,,medium,low,8,name.com,,,
@@ -132,7 +132,7 @@ c4b15a40-8507-4b86-b051-95542aee7400,gym.properties,premium,123.75,,high,low,3,n
 a48bc6aa-13d9-4b6a-ac6c-11a1d7046eb7,execrable.properties,available,10.99,50.99,low,low,9,name.com,,,
 eda49d13-1658-43d2-8a32-e0bb66874b82,corrupted.properties,available,10.99,50.99,medium,low,9,name.com,,,
 e6e7903a-3bb2-4bd6-9815-e00a430c620e,takeastand.properties,available,10.99,,low,low,12,name.com,,,
-70e309e4-90dc-4a08-8de4-9aee2b207c56,pickuptruck.properties,available,10.99,,medium,low,13,name.com,,,
+70e309e4-90dc-4a08-8de4-9aee2b207c56,pickuptruck.properties,available,18.99,39.99,low,low,13,namesilo,,,17/09/2026 14:44
 5f5c5d43-3037-4da2-b2cf-08c1bbe6a536,goodfriend.properties,available,10.99,,medium,low,11,name.com,,,
 733119c8-63db-4c88-b2bc-82aedf7c4686,sextet.properties,available,10.99,50.99,low,low,6,name.com,,,
 ddfe6933-ddac-4ac1-bd53-062ead11e27f,fence.properties,available,10.99,,high,low,5,name.com,,,
@@ -172,7 +172,6 @@ c6f61593-3698-4584-9646-4ca6d2fc44fa,axile.properties,available,10.99,50.99,low,
 6ebbb443-3e18-47c3-bc13-0ff496238a95,played.properties,available,10.99,,high,low,6,name.com,,,
 3bd06c18-4d8d-49d5-ad14-226b45f00160,haywire.properties,available,10.99,50.99,low,low,7,name.com,,,
 239b4061-3b73-4ecb-8cf8-7ae55799abc1,digitally.properties,available,10.99,,medium,low,9,name.com,,,
-80fce35b-2391-4b0b-aca0-6e311f942965,happy.properties,resell,,,high,medium,5,Porkbun LLC,03/07/2021 08:20,03/07/2026 08:20,
 e01edb4d-2312-4b9b-9367-7631df80a2d6,bestfriend.properties,available,10.99,,high,low,11,name.com,,,
 5337833f-62dd-470a-8df5-8ddd4ec6d073,armless.properties,available,10.99,50.99,low,low,7,name.com,,,06/08/2026 19:54
 baef6dd6-b09b-4538-824f-3f25067ae9b1,ambulant.properties,available,10.99,50.99,low,low,8,name.com,,,
@@ -999,3 +998,4 @@ ce6e9239-ce99-4f78-bf8c-d7a12c3b2405,touchbase.properties,available,10.99,,mediu
 132fcb51-dc02-4375-b938-55762a70576b,rigorous.properties,available,10.99,,medium,low,8,name.com,,,
 bc9ff6a7-9c06-487b-8b11-5657960ec95b,citizen.properties,available,10.99,,high,low,7,name.com,,,
 5877ae11-d1ab-4684-95aa-bbe762ed7855,bowleg.properties,available,10.99,50.99,low,low,6,name.com,,,08/08/2026 11:50
+f71a8118-7a3b-4fe0-843b-8726ba58ea3e,blurry.properties,available,10.99,,medium,low,6,name.com,,,
