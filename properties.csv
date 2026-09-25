@@ -1,1001 +1,1001 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 5210e736-ccdd-4f5b-90ff-fda37156e07e,brotherhood.properties,available,10.99,,high,low,11,name.com,,,
 8b05a353-88a2-4d5e-9bf6-4f3c84e66122,supermodel.properties,available,10.99,,high,low,10,name.com,,,
-f21358f3-013c-45ee-bfcd-fd8d3570e4b5,neutrality.properties,available,10.99,,medium,low,10,name.com,,,
-02a79852-9d8e-4609-be4e-45039d386f7c,departmentstore.properties,available,10.99,,high,low,16,name.com,,,
-55591663-3f64-460a-a1c1-e2616c0c1183,scornful.properties,available,18.99,39.99,low,low,8,namesilo,,,23/09/2026 21:53
-7859fb2b-b8aa-40f4-823c-dcb853dff4e1,finalwords.properties,available,10.99,,high,low,11,name.com,,,
-d451200f-f98f-4ba9-9b2a-4c35fec85283,aspherical.properties,available,10.99,50.99,low,low,10,name.com,,,07/08/2026 04:57
-8f754313-941d-40e0-8b5a-12c57fe0c945,hunkydory.properties,available,18.99,39.99,medium,low,10,namesilo,,,22/09/2026 01:09
+f21358f3-013c-45ee-bfcd-fd8d3570e4b5,neutrality.properties,available,10.99,,high,low,10,name.com,,,
+d451200f-f98f-4ba9-9b2a-4c35fec85283,aspherical.properties,available,10.99,50.99,medium,low,10,name.com,,,07/08/2026 04:57
 db47ea1f-b07e-4c41-aca5-7de4ed4bed40,era.properties,premium,118.8,118.8,high,medium,3,namesilo,,,
 39151050-b401-4227-a6be-9b39e38de3bb,rectangle.properties,available,10.99,,high,low,9,name.com,,,
 9a69e0da-e47c-49ef-b178-38123ca90855,inviting.properties,available,10.99,,high,low,8,name.com,,,
 fa4632a0-5539-4d47-aeec-3fe12b538e8e,bridges.properties,available,10.99,,high,low,7,name.com,,,
-d804c8e8-e02e-44a4-b3a1-b336951fd9dd,prescription.properties,available,10.99,,medium,low,12,name.com,,,
-a1dbc5cf-3be1-418b-9dc5-f8cc139d291c,ammonitic.properties,available,10.99,50.99,low,low,9,name.com,,,
+d804c8e8-e02e-44a4-b3a1-b336951fd9dd,prescription.properties,available,10.99,,high,low,12,name.com,,,
 2248cffd-1aae-45b2-9279-21a8070d5050,spirit.properties,available,10.99,,high,low,6,name.com,,,
-2b423dc1-9a1b-4fa7-8469-a01a49833b03,yawn.properties,available,10.99,,medium,low,4,name.com,,,
+2b423dc1-9a1b-4fa7-8469-a01a49833b03,yawn.properties,available,10.99,,high,low,4,name.com,,,
 2ad58e1f-791e-4f18-91b8-ae1977299aa1,worry.properties,available,10.99,,high,low,5,name.com,,,
-5e183167-f66a-460d-8202-50a851ed4ca0,glittering.properties,available,10.99,50.99,low,low,10,name.com,,,
-93c49a90-5976-4784-9211-dbdd7e5867a4,pray.properties,available,10.99,,medium,low,4,name.com,,,
-87fc2f6c-e0e4-40a7-8455-e983e27e6023,short.properties,available,18.99,39.99,medium,low,5,namesilo,,,24/09/2026 04:44
-0d4bd288-d1a7-4bf5-a6b9-3c0466cec331,pastrychef.properties,available,18.99,39.99,medium,low,11,namesilo,,,23/09/2026 09:00
+5e183167-f66a-460d-8202-50a851ed4ca0,glittering.properties,available,10.99,50.99,high,low,10,name.com,,,
+93c49a90-5976-4784-9211-dbdd7e5867a4,pray.properties,available,10.99,,high,low,4,name.com,,,
 d8abd4c5-bdd6-412f-8aa5-6b3cf755d4a1,incentive.properties,available,10.99,,high,low,9,name.com,,,
-373d6682-70c5-4e93-82bb-bb976cefc253,haiti.properties,available,,,medium,low,5,,,,
+373d6682-70c5-4e93-82bb-bb976cefc253,haiti.properties,available,,,high,low,5,,,,
 2c9b49f0-3932-490b-848a-1249d32a1c16,kid.properties,premium,242,242,high,low,3,namesilo,,,
-642b6ea3-e210-47b3-900d-3a37bd53739b,arminian.properties,available,10.99,50.99,low,low,8,name.com,,,06/08/2026 19:49
-8e95567d-5a78-4e03-ae92-3476a64c2f0c,confession.properties,available,10.99,,medium,low,10,name.com,,,
-4e10d3c9-d948-4872-a53b-ed03e1a48cea,astimesgo.properties,available,10.99,,medium,low,11,name.com,,,
-0c3fb64c-3820-46a1-a2da-b738b01372a6,gosing.properties,available,10.99,,high,low,7,name.com,,,
-cdfa8cd1-efed-471f-b251-c21b3914acf2,agog.properties,available,10.99,50.99,low,low,4,name.com,,,
+8e95567d-5a78-4e03-ae92-3476a64c2f0c,confession.properties,available,10.99,,high,low,10,name.com,,,
+cdfa8cd1-efed-471f-b251-c21b3914acf2,agog.properties,available,10.99,50.99,high,low,4,name.com,,,
 a0fe81f7-a149-4bd4-b835-edab32cb893e,hahaha.properties,available,10.99,,high,low,6,name.com,,,
 c459bf91-55eb-4fe8-9386-60b5f3e59d87,colours.properties,available,10.99,,high,low,7,name.com,,,
-13bd237b-9779-483d-af69-70f98beb894a,asthesayinggoes.properties,available,10.99,,medium,low,18,name.com,,,
 516fc7a4-afe2-4100-bb14-fef76b646e34,atonic.properties,available,10.99,50.99,low,low,6,name.com,,,07/08/2026 13:54
-07c3e668-8c93-4d79-b763-f1d6604fca3b,trimdown.properties,available,10.99,,medium,low,9,name.com,,,
-93964955-4b2d-4408-b62b-c2e58eefcd5a,touchon.properties,available,18.99,39.99,low,low,8,namesilo,,,17/09/2026 14:12
-ee11e194-ef19-4bbe-a014-7233daa0caa2,tasking.properties,available,10.99,,medium,low,7,name.com,,,
+ee11e194-ef19-4bbe-a014-7233daa0caa2,tasking.properties,available,10.99,,high,low,7,name.com,,,
 ab26eaba-bb55-4dc1-a01a-772a2e111d31,audi.properties,available,,,high,low,4,,,,
-d880f452-2d03-4ab3-bb19-38405aebedc0,reminder.properties,available,10.99,,medium,low,8,name.com,,,
-ca0e1c3a-8ce5-4ca2-8df0-b46f37214079,asoneman.properties,available,10.99,,medium,low,10,name.com,,,
-253ee658-001a-4c3f-b563-f4fdcede7b1e,gopublic.properties,available,10.99,,medium,low,9,name.com,,,
+d880f452-2d03-4ab3-bb19-38405aebedc0,reminder.properties,available,10.99,,high,low,8,name.com,,,
 37c2cefb-c613-49cc-99c2-91d361dc8a1c,july.properties,available,10.99,,high,low,4,name.com,,,
-c04a4244-0f51-45d9-8393-f966647c4005,ticking.properties,available,10.99,,medium,low,7,name.com,,,
+c04a4244-0f51-45d9-8393-f966647c4005,ticking.properties,available,10.99,,high,low,7,name.com,,,
 d0c3c1d5-b5a6-497c-9c4a-7d7774da8022,height.properties,available,10.99,,high,low,6,name.com,,,
 90aa48ea-d019-49a5-aabc-df8575139699,location.properties,premium,242,242,high,low,8,namesilo,,,
 0c353a03-8a59-47b7-92c9-8be767327d1c,vacuum.properties,available,10.99,,high,low,6,name.com,,,
-029a7c6a-9687-45cb-acc2-22da1b47dc31,acrogenous.properties,available,10.99,50.99,low,low,10,name.com,,,
-b5c79a9f-f0f2-4e98-81c5-db4713fd142f,asofnow.properties,available,10.99,,medium,low,9,name.com,,,
-a78ef1b9-b1ab-463c-a18a-24335804b2da,panel.properties,available,18.99,39.99,low,low,5,namesilo,,,19/09/2026 11:40
-4ab2c93f-cccb-43aa-952c-1cea3de2bb48,togetherwith.properties,available,10.99,,low,low,13,name.com,,,
-8fdf1150-a894-47e8-b344-12d476fa0024,beardless.properties,available,10.99,50.99,low,low,9,name.com,,,09/08/2026 04:43
-b2033181-26dd-4225-a62c-bbb260fb7d71,arched.properties,available,10.99,50.99,low,low,6,name.com,,,06/08/2026 14:34
+8fdf1150-a894-47e8-b344-12d476fa0024,beardless.properties,available,10.99,50.99,medium,low,9,name.com,,,09/08/2026 04:43
+b2033181-26dd-4225-a62c-bbb260fb7d71,arched.properties,available,10.99,50.99,medium,low,6,name.com,,,06/08/2026 14:34
 05b54486-e37f-4fd1-bdd5-977b39307439,grandfather.properties,available,10.99,,high,low,11,name.com,,,
-bc7000f8-b2de-4d6e-bff4-97d6c92ba884,howareyou.properties,available,10.99,,medium,low,11,name.com,,,
-82644759-8eff-420b-a51d-382de57d179d,abuzz.properties,available,10.99,50.99,low,low,5,name.com,,,
-d0d7f9de-bc39-4141-bb6c-c86d1990a2fa,until.properties,available,10.99,,medium,low,5,name.com,,,
+82644759-8eff-420b-a51d-382de57d179d,abuzz.properties,available,10.99,50.99,medium,low,5,name.com,,,
+d0d7f9de-bc39-4141-bb6c-c86d1990a2fa,until.properties,available,10.99,,high,low,5,name.com,,,
 76d0dd02-381c-47a8-8b3d-6524ee0e2430,kiev.properties,premium,118.8,118.8,high,low,4,namesilo,,,
 958db1ee-4c3e-4928-9804-8a7b02d2446c,march.properties,available,,,high,low,5,,,,
-48a2b49c-0ca2-47b5-8ac0-8e69eb49eeaa,worsened.properties,available,10.99,,medium,low,8,name.com,,,
-e420a996-ae4c-4578-9d17-f630ef548f6c,coy.properties,premium,38.94,38.94,low,low,3,namesilo,,,24/09/2026 01:10
 d5662de0-45e4-4903-8b2d-4d1a098b4818,anyway.properties,available,10.99,,high,low,6,name.com,,,
 ab7f2952-721b-484b-8add-e328948910da,msg.properties,premium,82.5,,high,low,3,name.com,,,
-2510cf32-bd61-4803-a567-0e2bc8496515,heartattack.properties,available,10.99,,medium,low,12,name.com,,,
 b7fe3c9c-1012-4552-9170-e4c87bac3b26,estado.properties,available,10.99,,high,low,6,name.com,,,
 d96419da-a1fb-4a9c-a136-9873050ddb5b,mood.properties,available,10.99,,high,low,4,name.com,,,
-f8fe8641-f1ed-40ec-a91a-786a1aeed2cd,inthethickofit.properties,available,10.99,,medium,low,18,name.com,,,
-66887fd3-9166-4be3-91db-c9ca9f445951,blueraspberry.properties,available,10.99,,high,low,14,name.com,,,
-4f9fe09e-fad2-46f9-b006-544c49b6441d,aone.properties,available,10.99,50.99,low,low,5,name.com,,,
-e54b904d-5c1d-49ba-8a4a-4a6050c23388,sexhair.properties,available,10.99,,low,low,8,name.com,,,
-e63bc3a2-3711-432b-91ea-270180e6428d,excellent.properties,premium,242,242,high,low,9,namesilo,,,
-696adcd1-ba33-42b0-b94e-1d0e4ae917f9,careless.properties,available,15.98,43.98,low,low,8,namecheap,,,23/09/2026 12:52
-f6858aa0-877e-4a63-8037-5d4440280354,adjusted.properties,available,15.98,43.98,medium,low,8,namecheap,,,21/09/2026 18:42
-207d939f-89d8-4800-8fbc-1b4e5d95cb80,aliquot.properties,available,10.99,50.99,low,low,7,name.com,,,
-17de1fb3-ba6b-4bbe-8c27-428ab68d05cc,dotmatrixprinter.properties,available,10.99,,medium,low,18,name.com,,,
-06923608-4698-4a37-a40a-0983bee4ff72,letknow.properties,available,10.99,,high,low,8,name.com,,,
-c9a257b0-7f5b-441a-82f7-1c379748c435,dreadful.properties,available,15.98,43.98,low,low,8,namecheap,,,22/09/2026 15:15
-d714005d-8b24-4184-a5a8-20e12e6d8341,duty.properties,available,10.99,,medium,low,4,name.com,,,
-13ffac73-f49d-43e7-abf1-8c1003a7c737,motherfukkah.properties,available,10.99,,medium,low,12,name.com,,,
+207d939f-89d8-4800-8fbc-1b4e5d95cb80,aliquot.properties,available,10.99,50.99,high,low,7,name.com,,,
+d714005d-8b24-4184-a5a8-20e12e6d8341,duty.properties,available,10.99,,high,low,4,name.com,,,
 92809104-7136-45a1-8f67-527d0c387b58,sleeping.properties,available,,,high,low,8,,,,
 5b0e91a5-6713-4b09-b00a-d64fb2c2614f,cookie.properties,available,10.99,,high,low,6,name.com,,,
-1a7cc2c0-f065-4e54-b023-9f8caa0e17ff,cherryontop.properties,available,10.99,,high,low,13,name.com,,,
-98ea7a2c-ae89-45ac-92fd-337ea25b5efa,femalealpha.properties,available,10.99,,medium,low,12,name.com,,,
 210e02fc-570a-43d8-bd44-c05e2de4d338,poll.properties,available,10.99,,high,low,4,name.com,,,
 67ba9fa6-2bdd-4fe1-aca4-2107fa72d5c9,cucumber.properties,available,10.99,,high,low,8,name.com,,,
-4da224e9-ac7d-488c-8419-1f3a5358b62e,jointly.properties,available,10.99,,medium,low,7,name.com,,,
-c049a173-88cf-4d72-84a6-0f406d260ec0,flee.properties,available,10.99,,medium,low,4,name.com,,,
-e509ac99-8593-433e-9ad1-dc1448aeb050,whiz.properties,available,15.98,43.98,medium,low,4,namecheap,,,21/09/2026 18:01
-5aff3040-5e0b-47f2-9e67-afae81cfb0e8,whothehell.properties,available,10.99,,low,low,12,name.com,,,
+4da224e9-ac7d-488c-8419-1f3a5358b62e,jointly.properties,available,10.99,,high,low,7,name.com,,,
+c049a173-88cf-4d72-84a6-0f406d260ec0,flee.properties,available,10.99,,high,low,4,name.com,,,
 f4508f46-6466-44ea-a3f6-6fb53263cf39,recent.properties,available,10.99,,high,low,6,name.com,,,
 018fe7b4-6267-4312-a464-da57a0359137,toy.properties,premium,78.54,78.54,high,low,3,namesilo,,,
-3bda2b59-a887-454c-8899-9576030ac63c,turntup.properties,available,10.99,,high,low,8,name.com,,,
-57d85968-7460-4974-9b85-b0e509ab0918,fond.properties,available,18.99,39.99,medium,low,4,namesilo,,,21/09/2026 21:45
-5ce944dc-b268-4d38-99e2-54bc581bb1c0,bacchant.properties,available,10.99,50.99,low,low,8,name.com,,,08/08/2026 04:35
-aa15edca-1928-4e3c-bfa6-ee512e1d1fce,restless.properties,available,10.99,,medium,low,8,name.com,,,
+aa15edca-1928-4e3c-bfa6-ee512e1d1fce,restless.properties,available,10.99,,high,low,8,name.com,,,
 e1d11c45-4a86-4c5a-a7f2-653224caec30,song.properties,available,10.99,,high,low,4,name.com,,,
-bc1dce03-1b91-41a0-8df0-8cfe5fd2a9c6,exemplary.properties,available,15.98,43.98,medium,low,9,namecheap,,,21/09/2026 18:58
-5938aa43-e84e-4996-af30-8521b8bb16f7,angulate.properties,available,10.99,50.99,low,low,8,name.com,,,
-1df63569-e2b6-4051-af10-47d609efb73f,electric.properties,available,10.99,50.99,high,low,8,name.com,,,
-59bc353c-28f6-41af-a3ff-23f1702b52fc,stillborn.properties,available,10.99,50.99,low,low,9,name.com,,,
-25e9e92d-66fe-41a7-a012-f4bce757bae9,howaboutthat.properties,available,10.99,,medium,low,14,name.com,,,
+5938aa43-e84e-4996-af30-8521b8bb16f7,angulate.properties,available,10.99,50.99,high,low,8,name.com,,,
+59bc353c-28f6-41af-a3ff-23f1702b52fc,stillborn.properties,available,10.99,50.99,high,low,9,name.com,,,
 59e51c27-da0a-4a2a-8870-5ba2c14140ca,invaluable.properties,available,10.99,,high,low,10,name.com,,,
-5962317a-89c1-4612-8e95-181453e67b62,squinty.properties,available,10.99,50.99,low,low,7,name.com,,,07/08/2026 03:20
-8da52a1f-d5c0-4f49-83a0-e3751043d1e1,scientificname.properties,available,10.99,,medium,low,15,name.com,,,
-4de554c1-8776-42c1-8f91-623147be827e,briefing.properties,available,10.99,,medium,low,8,name.com,,,
-c221a51d-b81f-4521-b4dd-f6e34672fbc9,turncoat.properties,available,10.99,50.99,low,low,8,name.com,,,06/08/2026 03:49
-f5d7d58f-6851-4fee-ae97-6b3f30da72d0,senseofsmell.properties,available,10.99,,low,low,14,name.com,,,
-d8de3bb1-4421-464b-a7fa-90dc7426f167,resignation.properties,available,10.99,,medium,low,11,name.com,,,
-d14d59f5-38c3-44cb-8136-7719725f5b10,existing.properties,available,10.99,,medium,low,8,name.com,,,
+5962317a-89c1-4612-8e95-181453e67b62,squinty.properties,available,10.99,50.99,medium,low,7,name.com,,,07/08/2026 03:20
+4de554c1-8776-42c1-8f91-623147be827e,briefing.properties,available,10.99,,high,low,8,name.com,,,
+c221a51d-b81f-4521-b4dd-f6e34672fbc9,turncoat.properties,available,10.99,50.99,medium,low,8,name.com,,,06/08/2026 03:49
+d8de3bb1-4421-464b-a7fa-90dc7426f167,resignation.properties,available,10.99,,high,low,11,name.com,,,
 8a771e9b-22a8-401a-9e5b-7db79d091da4,forehead.properties,available,10.99,,high,low,8,name.com,,,
-71b0507d-a388-45d1-af56-9623aa9ed2c7,checkout.properties,available,10.99,,medium,low,9,name.com,,,
 0469c3a3-3249-4b36-8edf-a6e3fa173796,sat.properties,premium,78.54,78.54,high,low,3,namesilo,,,
-3f579495-4bea-4ba3-8881-337382038938,cooked.properties,available,15.98,43.98,low,low,6,namecheap,,,23/09/2026 22:56
-ece809d1-cc66-49b8-84ef-ac1d1a89138b,ballpointpen.properties,available,10.99,,high,low,14,name.com,,,
-3ceed3b7-a793-4a9f-a33a-ba49769746b5,amiss.properties,available,10.99,50.99,low,low,5,name.com,,,
-582e3f6d-2082-4a7e-a11d-6d8efd5be231,transferableskill.properties,available,10.99,,high,low,18,name.com,,,
+3ceed3b7-a793-4a9f-a33a-ba49769746b5,amiss.properties,available,10.99,50.99,high,low,5,name.com,,,
 ae29aead-9faf-4c5c-bf44-50445673ee72,detail.properties,available,10.99,,high,low,6,name.com,,,
 e9536824-fd44-4329-8381-0fcbd6bfd59f,eclipse.properties,available,10.99,,high,low,7,name.com,,,
 c965c5fd-0f0e-485b-a617-dc7a5dfe36a4,detour.properties,available,10.99,,high,low,6,name.com,,,
-22036c44-b105-410a-852e-53759a6399dd,alarmed.properties,available,10.99,50.99,low,low,7,name.com,,,
+22036c44-b105-410a-852e-53759a6399dd,alarmed.properties,available,10.99,50.99,high,low,7,name.com,,,
 95e3ee9a-05ed-44e5-888f-a5ebbf1011c0,anniversary.properties,available,10.99,,high,low,11,name.com,,,
 23ec8fc3-07cb-4c94-8ff4-3c85087bdd8e,both.properties,available,10.99,,high,low,4,name.com,,,
 c4b15a40-8507-4b86-b051-95542aee7400,gym.properties,premium,123.75,,high,low,3,name.com,,,
 19f45e3c-bdcc-4dcc-8a97-a9917e74a8b3,vein.properties,available,10.99,,high,low,4,name.com,,,
 4f73ba04-a5ac-4bb7-8c61-894da404916b,pies.properties,available,10.99,,medium,low,4,name.com,,,
-3c3e0563-7366-49fa-a50d-4d37f72bfe92,bacillar.properties,available,10.99,50.99,low,low,8,name.com,,,08/08/2026 04:51
-3c117071-4e89-48c3-95c4-ab2dd38248ba,other.properties,available,10.99,,medium,low,5,name.com,,,
+3c117071-4e89-48c3-95c4-ab2dd38248ba,other.properties,available,10.99,,high,low,5,name.com,,,
 6afd6d4e-b32b-4e7d-877f-ee89b772c998,apple.properties,available,,,high,medium,5,,,,
-3357439d-5f61-4cd6-bc83-8ce0201051c1,ninetysix.properties,available,10.99,50.99,low,low,10,name.com,,,
 6eaec4c4-8b8f-4f51-aafb-7353058956bf,irritable.properties,available,10.99,,medium,low,9,name.com,,,
 443588b2-9e75-4f4b-beb5-f48e175b77dd,circuit.properties,available,10.99,,high,low,7,name.com,,,
-a48bc6aa-13d9-4b6a-ac6c-11a1d7046eb7,execrable.properties,available,10.99,50.99,low,low,9,name.com,,,
-eda49d13-1658-43d2-8a32-e0bb66874b82,corrupted.properties,available,18.99,39.99,low,low,9,namesilo,,,23/09/2026 23:59
-e6e7903a-3bb2-4bd6-9815-e00a430c620e,takeastand.properties,available,10.99,,low,low,12,name.com,,,
-70e309e4-90dc-4a08-8de4-9aee2b207c56,pickuptruck.properties,available,18.99,39.99,low,low,13,namesilo,,,17/09/2026 14:44
-5f5c5d43-3037-4da2-b2cf-08c1bbe6a536,goodfriend.properties,available,10.99,,medium,low,11,name.com,,,
-733119c8-63db-4c88-b2bc-82aedf7c4686,sextet.properties,available,10.99,50.99,low,low,6,name.com,,,
+a48bc6aa-13d9-4b6a-ac6c-11a1d7046eb7,execrable.properties,available,10.99,50.99,medium,low,9,name.com,,,
+733119c8-63db-4c88-b2bc-82aedf7c4686,sextet.properties,available,10.99,50.99,high,low,6,name.com,,,
 ddfe6933-ddac-4ac1-bd53-062ead11e27f,fence.properties,available,10.99,,high,low,5,name.com,,,
 202ed4b2-3975-4efa-8cb8-9f0656d37983,roller.properties,available,10.99,,high,low,6,name.com,,,
-6150537d-45fb-4b4d-ac64-27c3984e54c6,ascendible.properties,available,10.99,50.99,low,low,10,name.com,,,07/08/2026 00:40
-ec5698f7-b37e-4b19-b9e0-f1a840bd3b42,actiondoll.properties,available,10.99,,high,low,11,name.com,,,
-75c3e750-5437-4cd1-936f-ea5eb9f8537a,calloff.properties,available,10.99,,medium,low,8,name.com,,,
 c803fb44-8b91-4ff5-ad37-9254487731d8,year.properties,available,10.99,,high,low,4,name.com,,,
-8013e737-1ad7-433c-b861-0ff1c9b10a69,going.properties,available,10.99,,high,low,5,name.com,,,
-7cc75765-b0d0-4b64-8d10-1cac6f588c1b,old.properties,premium,250,,high,low,3,name.com,,,
-6e9d8953-1c40-4e73-8dba-8e89bdef2e81,speedlimit.properties,available,10.99,,medium,low,11,name.com,,,
-e7457a14-22bb-4e8c-b62b-b8eda2f85e57,humongous.properties,available,10.99,50.99,low,low,9,name.com,,,08/08/2026 12:58
+e7457a14-22bb-4e8c-b62b-b8eda2f85e57,humongous.properties,available,10.99,50.99,medium,low,9,name.com,,,08/08/2026 12:58
 12c30991-71e1-4358-9d89-28c04f1f3e78,cali.properties,premium,242,242,high,low,4,namesilo,,,
-634ac71e-40e9-4ae7-8606-2a53b8123dc7,westwood.properties,available,10.99,,low,low,8,name.com,,,
+634ac71e-40e9-4ae7-8606-2a53b8123dc7,westwood.properties,available,10.99,,high,low,8,name.com,,,
 2cb439e3-725b-4819-9087-cd43bed0aacc,sight.properties,available,10.99,,high,low,5,name.com,,,
-7608993a-08b6-4eb5-913d-d58cf3e6be55,seventyfour.properties,available,10.99,,high,low,12,name.com,,,
 68bcb45c-0f37-4771-a6c6-9d0b4a9dfdd4,seeming.properties,available,10.99,,high,low,7,name.com,,,
-2930ab83-b62c-4345-a948-dc58ca0298ea,boards.properties,available,10.99,,medium,low,6,name.com,,,
-b451004d-62ab-4d06-b12b-238d777a9ae6,trimback.properties,available,10.99,,medium,low,9,name.com,,,
-072e91cb-9631-4ea6-a01b-22c951c8a686,apiarian.properties,available,10.99,50.99,low,low,8,name.com,,,05/08/2026 23:53
-1d601d4b-157a-456b-aae4-0c09a787eafa,cock.properties,available,10.99,,medium,low,4,name.com,,,
-37d0b4d9-075c-4251-a22b-2c7dfd8b3e29,earlike.properties,available,10.99,50.99,low,low,8,name.com,,,07/08/2026 18:07
-f29a7948-782c-4027-9dd9-26c35e9900d8,neveragain.properties,available,10.99,,low,low,11,name.com,,,
+2930ab83-b62c-4345-a948-dc58ca0298ea,boards.properties,available,10.99,,high,low,6,name.com,,,
+072e91cb-9631-4ea6-a01b-22c951c8a686,apiarian.properties,available,10.99,50.99,medium,low,8,name.com,,,05/08/2026 23:53
+1d601d4b-157a-456b-aae4-0c09a787eafa,cock.properties,available,10.99,,high,low,4,name.com,,,
 02ca76d5-d8d3-4588-bb1e-1d7f6dfa2868,lucy.properties,available,10.99,,high,low,4,name.com,,,
-43af86b6-2867-42cf-98d2-f35e299af1db,anabolic.properties,available,10.99,50.99,low,low,8,name.com,,,
+43af86b6-2867-42cf-98d2-f35e299af1db,anabolic.properties,available,10.99,50.99,high,low,8,name.com,,,
 22742c0d-dff1-40c4-8b17-f6148264d113,massage.properties,available,10.99,,high,low,7,name.com,,,
-14465966-bd6b-4f19-8c1e-83f37867d041,objects.properties,available,10.99,,low,low,7,name.com,,,
-817d1b5a-0cf9-45e0-8448-0e2ea0d804d0,taal.properties,available,10.99,50.99,low,low,4,name.com,,,
-b2d71788-c91a-4586-a5b1-ecb4a9140a60,babyish.properties,available,10.99,50.99,low,low,7,name.com,,,08/08/2026 03:53
-032101a4-7c2c-4eac-9758-e641c86afd09,working.properties,available,18.99,39.99,medium,low,7,namesilo,,,19/09/2026 07:09
-d17471a8-cef2-47e1-baa8-ff9bd0b65037,bedless.properties,available,10.99,50.99,low,low,7,name.com,,,09/08/2026 07:23
-c6f61593-3698-4584-9646-4ca6d2fc44fa,axile.properties,available,10.99,50.99,low,low,5,name.com,,,08/08/2026 01:56
-35ddba11-ae25-4793-83a3-ac9f3d678c67,lousy.properties,available,10.99,50.99,low,low,5,name.com,,,24/09/2026 01:33
-16f0e905-a0a7-4758-8df1-15da33274114,walkingstick.properties,available,10.99,,high,low,13,name.com,,,
+14465966-bd6b-4f19-8c1e-83f37867d041,objects.properties,available,10.99,,medium,low,7,name.com,,,
+817d1b5a-0cf9-45e0-8448-0e2ea0d804d0,taal.properties,available,10.99,50.99,medium,low,4,name.com,,,
+b2d71788-c91a-4586-a5b1-ecb4a9140a60,babyish.properties,available,10.99,50.99,medium,low,7,name.com,,,08/08/2026 03:53
+c6f61593-3698-4584-9646-4ca6d2fc44fa,axile.properties,available,10.99,50.99,high,low,5,name.com,,,08/08/2026 01:56
 92077286-54b8-426f-b54a-f684807fe5b2,pretty.properties,available,10.99,,high,low,6,name.com,,,
 68adef40-92f7-47bc-9b4f-30a117274169,values.properties,available,10.99,,high,low,6,name.com,,,
 6ebbb443-3e18-47c3-bc13-0ff496238a95,played.properties,available,10.99,,high,low,6,name.com,,,
-3bd06c18-4d8d-49d5-ad14-226b45f00160,haywire.properties,available,10.99,50.99,low,low,7,name.com,,,
-239b4061-3b73-4ecb-8cf8-7ae55799abc1,digitally.properties,available,10.99,,medium,low,9,name.com,,,
-e01edb4d-2312-4b9b-9367-7631df80a2d6,bestfriend.properties,available,10.99,,high,low,11,name.com,,,
-5337833f-62dd-470a-8df5-8ddd4ec6d073,armless.properties,available,10.99,50.99,low,low,7,name.com,,,06/08/2026 19:54
-baef6dd6-b09b-4538-824f-3f25067ae9b1,ambulant.properties,available,10.99,50.99,low,low,8,name.com,,,
-1f57be03-ce7a-4653-8012-488d4de9d608,afrikander.properties,available,10.99,50.99,low,low,10,name.com,,,
+3bd06c18-4d8d-49d5-ad14-226b45f00160,haywire.properties,available,10.99,50.99,high,low,7,name.com,,,
+5337833f-62dd-470a-8df5-8ddd4ec6d073,armless.properties,available,10.99,50.99,high,low,7,name.com,,,06/08/2026 19:54
+baef6dd6-b09b-4538-824f-3f25067ae9b1,ambulant.properties,available,10.99,50.99,high,low,8,name.com,,,
 e9941a75-bade-4d34-87d8-89e535176e66,pamper.properties,available,10.99,,high,low,6,name.com,,,
-c34ebf8a-361e-4996-9125-f4949a3f7302,science.properties,premium,242,242,medium,low,7,namesilo,,,23/09/2026 02:40
-ca5be3c0-41d2-4f1f-b5f0-f7e997401828,thatone.properties,available,10.99,,low,low,8,name.com,,,
-5858c7c5-5dd6-4b32-aabf-21b4d4c1ad1b,damascus.properties,premium,118.8,118.8,medium,low,8,namesilo,,,
-f9cce79c-5db6-45b0-9850-1a4010dbc1ed,tertiary.properties,available,10.99,50.99,low,low,8,name.com,,,
-dd56f5af-a815-44e8-a3a4-5f87b213542b,silotruck.properties,available,10.99,,medium,low,10,name.com,,,
-41b9d12e-e9a6-43dc-879d-a1002407db94,comforted.properties,available,18.99,39.99,medium,low,9,namesilo,,,23/09/2026 15:14
+5858c7c5-5dd6-4b32-aabf-21b4d4c1ad1b,damascus.properties,premium,118.8,118.8,high,low,8,namesilo,,,
+f9cce79c-5db6-45b0-9850-1a4010dbc1ed,tertiary.properties,available,10.99,50.99,medium,low,8,name.com,,,
 cbd7b000-63fa-42d5-b05f-70622bbcf78f,fist.properties,available,10.99,,high,low,4,name.com,,,
 18ccdb95-782c-4822-b9b3-a7640e2079de,fraud.properties,available,10.99,,high,low,5,name.com,,,
-967dce97-153a-41ae-bab5-bdb956f04b7f,pricelist.properties,available,10.99,,medium,low,10,name.com,,,
 4eca0f25-991b-4e49-bdf7-d8d8eae343a1,fibre.properties,available,10.99,,high,low,5,name.com,,,
-5459fc8d-99d4-4600-828a-229b87c718b6,countycourt.properties,available,10.99,,medium,low,12,name.com,,,
 5c254f31-1afd-4eee-af16-a0a06ae4f35c,happily.properties,available,10.99,,high,low,7,name.com,,,
 571b8781-24eb-4518-b5cf-717c48b1bf27,peeved.properties,available,,,medium,low,6,,,,
 ef6ad724-2738-4a7a-9110-f6055b8eecb1,gave.properties,available,10.99,,medium,low,4,name.com,,,
-6f0151ca-94a3-42dc-80db-9d136b4c140b,lxx.properties,available,10.99,50.99,low,low,3,name.com,,,
-ce35836c-ec9e-4a1f-a178-ca867c4448a6,correct.properties,available,18.99,39.99,medium,low,7,namesilo,,,23/09/2026 23:33
+6f0151ca-94a3-42dc-80db-9d136b4c140b,lxx.properties,available,10.99,50.99,medium,low,3,name.com,,,
 35d2b752-1e37-406e-8781-4b5a20e5cdce,cooperation.properties,available,10.99,,high,low,11,name.com,,,
-bd33a01a-6a9f-4fe4-9f7c-1b12d3d8d9d4,cast.properties,available,10.99,,medium,low,4,name.com,,,
-3f248d7e-5186-4e08-812d-554078eeba2a,diamond.properties,premium,242,242,medium,low,7,namesilo,,,21/09/2026 16:47
-515c380e-1279-4668-bd43-a9bcf26c6695,supporter.properties,available,18.99,39.99,low,low,9,namesilo,,,22/09/2026 10:07
-fb0fbae2-23a4-4cac-8ac6-72d21e22bf9b,earliest.properties,available,10.99,50.99,medium,low,8,name.com,,,
-7f366d9e-e4d2-4dda-af74-440a1317627c,oddoneout.properties,available,10.99,,low,low,11,name.com,,,
-8e7f85e1-3fc9-4b4d-a56d-ceb53737f7cd,confusing.properties,available,15.98,43.98,low,low,9,namecheap,,,23/09/2026 20:14
-e8330a99-d480-457c-9c81-957105808c29,treat.properties,available,18.99,39.99,medium,low,5,namesilo,,,24/09/2026 04:23
+bd33a01a-6a9f-4fe4-9f7c-1b12d3d8d9d4,cast.properties,available,10.99,,high,low,4,name.com,,,
 fceb86ea-aa82-4dc0-8c0f-e8046bb3f241,item.properties,available,10.99,,high,low,4,name.com,,,
-959cadaf-83e2-49bd-9836-db25e11e4c08,company.properties,premium,242,242,medium,low,7,namesilo,,,23/09/2026 03:31
-4a67d348-1fc8-44a8-8e85-b5048cc35e4c,cleverly.properties,available,10.99,,medium,low,8,name.com,,,
-7ae153f2-4dd2-448a-905b-eadcc7041dfe,adulterous.properties,available,10.99,50.99,low,low,10,name.com,,,
-ea2b805d-ac3f-4ba5-b57c-f7a00377edee,abyssal.properties,available,10.99,50.99,low,low,7,name.com,,,
-865de6e4-a0b9-4e0f-b2d1-4a40ba60bf2c,everywhere.properties,available,10.99,,medium,low,10,name.com,,,
-e846c7e9-b5f5-434b-97ba-df72aa99f34b,commonmarket.properties,available,10.99,,medium,low,13,name.com,,,
+4a67d348-1fc8-44a8-8e85-b5048cc35e4c,cleverly.properties,available,10.99,,high,low,8,name.com,,,
+7ae153f2-4dd2-448a-905b-eadcc7041dfe,adulterous.properties,available,10.99,50.99,medium,low,10,name.com,,,
+ea2b805d-ac3f-4ba5-b57c-f7a00377edee,abyssal.properties,available,10.99,50.99,medium,low,7,name.com,,,
+865de6e4-a0b9-4e0f-b2d1-4a40ba60bf2c,everywhere.properties,available,10.99,,high,low,10,name.com,,,
 adfc848a-a627-47ca-9b2a-90312b1d1dfb,written.properties,available,10.99,,high,low,7,name.com,,,
-66dd2b6d-3d21-4ac3-8d7d-25963d3b40cd,kissmyass.properties,available,10.99,,medium,low,11,name.com,,,
-733c3a02-3117-409f-99a8-04a8b68f7346,killedinaction.properties,available,10.99,,low,low,16,name.com,,,
 bd013b70-0da9-4317-aa14-34af5a8cf071,allowed.properties,available,10.99,,high,low,7,name.com,,,
-dc2ed2e8-4bf9-4bca-a22c-f3d24898866f,noquarter.properties,available,10.99,,low,low,10,name.com,,,
-f3b8e872-908c-4638-8754-b4011b5e28cf,amidships.properties,available,10.99,50.99,low,low,9,name.com,,,
+f3b8e872-908c-4638-8754-b4011b5e28cf,amidships.properties,available,10.99,50.99,medium,low,9,name.com,,,
 7981f76b-8f26-4818-b87d-79047f774859,eid.properties,available,10.99,,high,low,3,name.com,,,
 947b8dbe-da56-4a46-afdc-ee3e3265fa7d,emotive.properties,available,,,high,low,7,,,,
 90867823-3a3d-4679-bbe2-24e176f5a805,actress.properties,available,10.99,,high,low,7,name.com,,,
 8299fffa-c5a2-45be-ae9e-b491710a4968,dracula.properties,available,10.99,,high,low,7,name.com,,,
-84b997ef-f6d1-4c7a-9675-b622c90b57bb,acre.properties,premium,78.54,78.54,medium,low,4,namesilo,,,
+84b997ef-f6d1-4c7a-9675-b622c90b57bb,acre.properties,premium,78.54,78.54,high,low,4,namesilo,,,
 ebf31300-6a76-4967-a68b-6ca78959a2f4,won.properties,premium,78.54,78.54,high,low,3,namesilo,,,
-f04f92cc-d850-4114-85e5-786ab57f8cff,cometomind.properties,available,10.99,,high,low,12,name.com,,,
 3ac21231-ab23-4cae-ad8d-791887aad050,kind.properties,available,10.99,,high,low,4,name.com,,,
-5fed64e3-cde5-40dc-b297-15eb2de85b61,gregg.properties,available,10.99,,medium,low,5,name.com,,,
-8000324b-1ad3-4281-a14c-d5b869c6b86b,returned.properties,available,10.99,,medium,low,8,name.com,,,
-e71334dc-9d8e-49fb-8c0d-09a94a00a1dc,decade.properties,available,10.99,50.99,medium,low,6,name.com,,,21/09/2026 10:56
+5fed64e3-cde5-40dc-b297-15eb2de85b61,gregg.properties,available,10.99,,high,low,5,name.com,,,
+8000324b-1ad3-4281-a14c-d5b869c6b86b,returned.properties,available,10.99,,high,low,8,name.com,,,
 fec45c40-5d69-4bfd-8752-0ee8f208ca4f,restructure.properties,available,10.99,,high,low,11,name.com,,,
 a081b56f-9026-4147-bc06-2a5991a3dc45,lady.properties,available,10.99,,high,low,4,name.com,,,
-5e0848e5-85bf-4790-bcea-cf1d198ba81b,vouchfor.properties,available,10.99,,low,low,9,name.com,,,
-63ed6ea8-1e5b-4266-9a41-d55fb2ded8f7,retro.properties,available,10.99,,high,medium,5,name.com,,,
 308bb40e-4bc0-47ca-939a-153ad8d2d2f0,apologize.properties,available,10.99,,high,low,9,name.com,,,
-ecfe53cd-fc29-4189-9dcc-e924587e6dd6,firsttime.properties,available,10.99,,high,low,10,name.com,,,
-237b1f05-fdf2-47ad-b1cb-9456fa799f46,alveolar.properties,available,18.99,39.99,low,low,8,namesilo,,,22/09/2026 02:54
-71285b0c-7a1e-482a-9c55-fbc02882a8e1,arrogant.properties,available,18.99,39.99,low,low,8,namesilo,,,22/09/2026 08:39
-0303f36e-f7b2-45f9-9188-f8bd383136a1,fan.properties,premium,242,242,medium,low,3,namesilo,,,23/09/2026 10:11
-f0b13a12-41db-4604-82a0-8692f2dc4176,showandtell.properties,available,10.99,,high,low,13,name.com,,,
 9e26ec75-ca72-4f4f-9e89-3be0e4a1a663,else.properties,available,10.99,,high,low,4,name.com,,,
-36cc613e-9611-4db1-9f90-989fb1fcb24c,appareled.properties,available,10.99,50.99,low,low,9,name.com,,,06/08/2026 04:41
-38c392cd-e18a-4893-bcf8-38e2147c4315,ecological.properties,available,15.98,43.98,medium,low,10,namecheap,,,22/09/2026 21:01
-0a3c905d-d03b-4b9b-a06a-48aeb0f26117,chocolate.properties,available,18.99,39.99,medium,low,9,namesilo,,,24/09/2026 03:16
-64dbd6c3-cfa2-4f23-a140-928d299331d1,globose.properties,available,10.99,50.99,low,low,7,name.com,,,08/08/2026 10:00
-aabe43a0-0481-488c-ae47-ee1f79ec2bfa,noreally.properties,available,10.99,,high,low,9,name.com,,,
 2a8709d9-5419-44f6-994c-063e4869708e,gang.properties,available,10.99,,high,low,4,name.com,,,
-b2db87a3-5a77-4496-bd4f-2949ee47f05c,silverpolish.properties,available,10.99,,low,low,13,name.com,,,
-a17834b1-8299-44f9-8c38-b9a9218db41e,calm.properties,available,18.99,39.99,medium,low,4,namesilo,,,23/09/2026 12:30
-54cb872a-bfae-43f0-99ab-d771f3cc8abf,dilemma.properties,available,10.99,,medium,low,7,name.com,,,
+54cb872a-bfae-43f0-99ab-d771f3cc8abf,dilemma.properties,available,10.99,,high,low,7,name.com,,,
 272b342c-37fb-4cfe-afa4-d65edc89ca78,greatly.properties,available,10.99,,high,low,7,name.com,,,
 8fb7ccbf-4ddb-4324-981b-2d9057e95753,adobe.properties,available,,,high,low,5,,,,
-6619e311-5910-4261-aefe-8633a76bdeb3,saddletree.properties,available,10.99,,low,low,11,name.com,,,
 5b235cf1-7967-4eeb-9666-3bfc9633087c,description.properties,available,10.99,,high,low,11,name.com,,,
-8c4070cc-8659-45d3-982b-8c16ba9c1695,film.properties,premium,242,242,medium,low,4,namesilo,,,23/09/2026 07:55
-27cfd687-e477-4f9e-8870-2b70b77c1b62,mature.properties,available,10.99,,high,low,6,name.com,,,
-5b050ab3-f864-4d54-b8c4-cdd134e37b47,armada.properties,available,10.99,,medium,low,6,name.com,,,
-2b833f32-993e-4ddd-bd8b-234b3d50ced0,among.properties,available,10.99,,medium,low,5,name.com,,,
-8110362c-371a-4243-8596-1338f8e1a4aa,alleged.properties,available,15.98,43.98,low,low,7,namecheap,,,22/09/2026 01:19
+5b050ab3-f864-4d54-b8c4-cdd134e37b47,armada.properties,available,10.99,,high,low,6,name.com,,,
+2b833f32-993e-4ddd-bd8b-234b3d50ced0,among.properties,available,10.99,,high,low,5,name.com,,,
 4bafa64b-9874-47e9-976c-1f8d837829e6,inspirational.properties,available,10.99,,high,low,13,name.com,,,
-53672d53-3e21-4013-bf27-543350c464e2,boots.properties,available,,,medium,low,5,,,,
+53672d53-3e21-4013-bf27-543350c464e2,boots.properties,available,,,high,low,5,,,,
 8055187e-857c-4158-ab94-c4b528086a12,gag.properties,premium,78.54,78.54,high,low,3,namesilo,,,
-6b149faa-6ff5-4e04-ab51-420243444651,backstair.properties,available,10.99,50.99,low,low,9,name.com,,,08/08/2026 06:21
 cbdde9ec-d2a9-43c1-8a66-4df7f7eb71ef,awe.properties,premium,78.54,78.54,high,low,3,namesilo,,,
-259a52e9-b79c-4610-9098-5e6875317a20,bringto.properties,available,10.99,,high,low,8,name.com,,,
 a00f8187-48ac-4f2a-b360-41a4496aab75,uncover.properties,available,10.99,,high,low,7,name.com,,,
-54457ecd-ccff-478d-8915-792911d4a9b4,amoeban.properties,available,10.99,50.99,low,low,7,name.com,,,
 edae40ac-a9ef-49b0-b60e-c899edae77d5,wind.properties,available,10.99,,high,low,4,name.com,,,
-b86d3567-64d5-4e2c-8daa-34a24f7e8d6b,throwabout.properties,available,10.99,,low,low,11,name.com,,,
-5ac94754-60b2-49e3-a91d-efc0822d2d02,experiment.properties,available,18.99,39.99,medium,low,10,namesilo,,,23/09/2026 08:49
-bea3d19a-d52e-4a46-90ba-d6c49db88ce1,coffeebreak.properties,available,10.99,,high,low,12,name.com,,,
-4c6c8cd4-e199-4779-92a6-d888db54e12a,next.properties,premium,242,242,medium,high,4,namesilo,,,
+4c6c8cd4-e199-4779-92a6-d888db54e12a,next.properties,premium,242,242,high,high,4,namesilo,,,
 01a87c6b-3b2d-446f-881e-e5092dda5ebf,exhaustion.properties,available,10.99,,medium,low,10,name.com,,,
-1e2f5889-5475-4cab-8010-8e0eb7f149c0,dingy.properties,available,10.99,50.99,low,low,5,name.com,,,09/08/2026 09:20
-b4cf64d8-3c38-466b-8138-59df63735caf,elusive.properties,available,10.99,50.99,low,low,7,name.com,,,08/08/2026 08:07
-fa13d743-fa19-4ca4-bd4f-d8c3653ab7c6,sterile.properties,available,18.99,39.99,low,low,7,namesilo,,,22/09/2026 09:35
-4c0f8411-5f7b-4da2-a120-42ec11965598,curious.properties,available,18.99,39.99,medium,low,7,namesilo,,,24/09/2026 03:57
+1e2f5889-5475-4cab-8010-8e0eb7f149c0,dingy.properties,available,10.99,50.99,medium,low,5,name.com,,,09/08/2026 09:20
+b4cf64d8-3c38-466b-8138-59df63735caf,elusive.properties,available,10.99,50.99,high,low,7,name.com,,,08/08/2026 08:07
 86628b8b-f036-40ff-81d4-e294f710760c,upstart.properties,available,10.99,,high,low,7,name.com,,,
-32cfbadb-8330-4052-80fc-e801ad14a3d4,windowseat.properties,available,10.99,,high,low,11,name.com,,,
-8ac65ef7-3f64-48e8-878a-e561bc2faf37,atatime.properties,available,10.99,,medium,low,9,name.com,,,
 88f3327f-3829-409a-92c2-643b1ae30cad,piano.properties,available,10.99,,high,low,5,name.com,,,
-25c4ad0b-1261-47f8-81d8-a91e951aa7ed,rightatrium.properties,available,10.99,,low,low,12,name.com,,,
-a237fd56-d461-4a4c-b072-5ad29469019f,premarital.properties,available,18.99,39.99,medium,low,10,namesilo,,,22/09/2026 06:09
 9a00b4f9-df09-431f-ace7-d512d3f7fdcb,quote.properties,available,10.99,,high,low,5,name.com,,,
-a5497002-872c-4133-92bb-67980644517d,europeanhedgehog.properties,available,10.99,,medium,low,17,name.com,,,
-f1d04ffd-1e98-4b3f-8d49-726ee0c2d72a,heck.properties,available,10.99,,medium,low,4,name.com,,,
-87a74d01-7b60-437c-aefd-9529ec6b8b28,stygian.properties,available,10.99,50.99,low,low,7,name.com,,,
-72f2e183-28af-455b-a111-8374d3d8eaef,anestric.properties,available,10.99,50.99,low,low,8,name.com,,,
-39a982e8-0e06-476b-868e-c3f1d9daffb7,deuceace.properties,available,10.99,50.99,low,low,9,name.com,,,
-c7770676-fe7c-4489-a71c-ff5dd6952cf0,dishout.properties,available,10.99,,high,low,8,name.com,,,
+f1d04ffd-1e98-4b3f-8d49-726ee0c2d72a,heck.properties,available,10.99,,high,low,4,name.com,,,
+87a74d01-7b60-437c-aefd-9529ec6b8b28,stygian.properties,available,10.99,50.99,medium,low,7,name.com,,,
 d0817b2a-f144-401d-84d1-d6ef512d53b1,however.properties,available,10.99,,high,low,7,name.com,,,
-3e7953ce-e9ed-4171-8311-9935a4a86729,vicious.properties,available,10.99,50.99,low,low,7,name.com,,,08/08/2026 16:00
-76c3a474-88e4-4a78-9ca5-41a58fa75763,influence.properties,available,15.98,43.98,medium,low,9,namecheap,,,08/09/2026 08:44
+3e7953ce-e9ed-4171-8311-9935a4a86729,vicious.properties,available,10.99,50.99,medium,low,7,name.com,,,08/08/2026 16:00
+76c3a474-88e4-4a78-9ca5-41a58fa75763,influence.properties,available,15.98,43.98,high,low,9,namecheap,,,08/09/2026 08:44
 bdc62217-145d-4b57-a0c2-97b79365c032,disease.properties,available,10.99,,high,low,7,name.com,,,
-8208f94a-3653-4e61-8605-c9bb0754bd3d,drawn.properties,available,18.99,39.99,low,low,5,namesilo,,,23/09/2026 12:57
 79d28d7d-d5ab-453e-ac9e-e4ff81d5845f,builder.properties,available,10.99,,high,low,7,name.com,,,
-2084e098-fda9-49ee-85a3-b51cb4bcc738,donkey.properties,available,10.99,,medium,low,6,name.com,,,
-1b821730-c679-41b9-b7b1-33dbb7f0546f,alienate.properties,available,10.99,50.99,low,low,8,name.com,,,
-8edb6593-8158-4834-a2e6-a3b9d485f420,annakournikova.properties,available,10.99,,high,low,15,name.com,,,
-7af24111-f26e-4842-bdc6-dd5bc15ffe86,ttyl.properties,available,10.99,,low,low,4,name.com,,,
+2084e098-fda9-49ee-85a3-b51cb4bcc738,donkey.properties,available,10.99,,high,low,6,name.com,,,
+1b821730-c679-41b9-b7b1-33dbb7f0546f,alienate.properties,available,10.99,50.99,high,low,8,name.com,,,
+7af24111-f26e-4842-bdc6-dd5bc15ffe86,ttyl.properties,available,10.99,,medium,low,4,name.com,,,
 b084c00a-605f-4ff7-95f6-b27556e197c5,suspect.properties,available,10.99,,high,low,7,name.com,,,
-a1186201-b3d3-4f10-af70-d50d19a0efb9,aleatory.properties,available,10.99,50.99,low,low,8,name.com,,,
-c6a5644f-6bd5-42e8-9d81-c6856304a73e,gas.properties,premium,118.8,118.8,low,low,3,namesilo,,,23/09/2026 01:57
-0b0d4da0-49c5-4ca8-a277-218f40ed0473,eventoed.properties,available,10.99,50.99,low,low,9,name.com,,,06/08/2026 23:36
-3ea8990c-a438-4821-948b-38e0ddee6d5e,beadyeyed.properties,available,10.99,50.99,low,low,10,name.com,,,09/08/2026 03:44
-0560a420-a2a8-4a04-a816-19eeed3e02ce,dorsal.properties,available,10.99,50.99,low,low,6,name.com,,,
-baf34328-cbb6-4b19-898c-b358e4ff8ee6,arciform.properties,available,10.99,50.99,low,low,8,name.com,,,06/08/2026 14:44
+a1186201-b3d3-4f10-af70-d50d19a0efb9,aleatory.properties,available,10.99,50.99,medium,low,8,name.com,,,
+0560a420-a2a8-4a04-a816-19eeed3e02ce,dorsal.properties,available,10.99,50.99,high,low,6,name.com,,,
 7ff28263-10dc-4718-a903-cdbaab7534dc,pup.properties,premium,78.54,78.54,high,low,3,namesilo,,,
-188a6702-ae5d-4b4f-8ed6-dd8bd48ae1da,aflame.properties,available,10.99,50.99,low,low,6,name.com,,,
-76926f59-4c89-41fd-acf2-9ff0138844bd,plotted.properties,available,18.99,39.99,low,low,7,namesilo,,,21/09/2026 22:10
+188a6702-ae5d-4b4f-8ed6-dd8bd48ae1da,aflame.properties,available,10.99,50.99,high,low,6,name.com,,,
 69158bd5-8754-4c31-89a6-7953391aa92a,leave.properties,available,10.99,,high,low,5,name.com,,,
 ff8e0bdc-bac5-4c38-9246-6b5151bfbba8,roar.properties,available,10.99,,high,low,4,name.com,,,
-a364e4e7-2a86-437d-a067-6abc3cc12848,anemic.properties,available,10.99,50.99,low,low,6,name.com,,,
-6793d235-702b-4a79-9c9f-8f817c8ca274,somekinda.properties,available,10.99,,medium,low,10,name.com,,,
-1aef5866-d54d-471d-8e0a-f6233efd3d05,frozen.properties,available,10.99,,high,low,6,name.com,,,
-ee50a7cf-10fe-4adb-9786-c2e7e7684b98,azonal.properties,available,10.99,50.99,low,low,6,name.com,,,08/08/2026 02:27
+a364e4e7-2a86-437d-a067-6abc3cc12848,anemic.properties,available,10.99,50.99,high,low,6,name.com,,,
+ee50a7cf-10fe-4adb-9786-c2e7e7684b98,azonal.properties,available,10.99,50.99,medium,low,6,name.com,,,08/08/2026 02:27
 0da58dfd-5e92-4c06-a2fe-d4f47421e760,brass.properties,available,10.99,,high,low,5,name.com,,,
 1023cac2-fec1-49f5-833e-ebadaf3e6346,owned.properties,available,10.99,,high,low,5,name.com,,,
 bda0b22e-bc1b-4b82-a113-ed8557a5bc73,facet.properties,available,10.99,,high,low,5,name.com,,,
-2c58c7b4-56c3-4c3f-b33f-3f716f156556,grasping.properties,available,10.99,50.99,low,low,8,name.com,,,07/08/2026 22:04
-79cdbd9f-22b0-496b-996b-261104c033ab,undoubtedly.properties,available,10.99,,medium,low,11,name.com,,,
-697e5ad3-20f7-4945-94f1-e37376c9783d,appeasable.properties,available,10.99,50.99,low,low,10,name.com,,,06/08/2026 05:56
-5c683b16-99b0-419d-b4a0-ff1bf6f3a8db,extempore.properties,available,10.99,50.99,low,low,9,name.com,,,
-cd202909-bcc8-4058-b8af-e5fea8cce1ca,brag.properties,available,10.99,50.99,medium,low,4,name.com,,,23/09/2026 00:49
+2c58c7b4-56c3-4c3f-b33f-3f716f156556,grasping.properties,available,10.99,50.99,high,low,8,name.com,,,07/08/2026 22:04
+79cdbd9f-22b0-496b-996b-261104c033ab,undoubtedly.properties,available,10.99,,high,low,11,name.com,,,
+5c683b16-99b0-419d-b4a0-ff1bf6f3a8db,extempore.properties,available,10.99,50.99,high,low,9,name.com,,,
 11b267af-ed68-4a9b-b721-b6a5b50aa237,extend.properties,available,10.99,,high,low,6,name.com,,,
-33620ac3-e3f1-4b2e-9462-4f999aa5389e,cumulative.properties,available,10.99,50.99,low,low,10,name.com,,,
-bda5ce41-547c-47d4-9557-47665791ad82,lxviii.properties,available,10.99,50.99,low,low,6,name.com,,,
+33620ac3-e3f1-4b2e-9462-4f999aa5389e,cumulative.properties,available,10.99,50.99,high,low,10,name.com,,,
 7061ad61-e980-45b5-8319-d1fa99ed821e,informally.properties,available,10.99,,medium,low,10,name.com,,,
-545d6a89-64a2-47fe-a3f5-34aae704a5a9,purchaseorder.properties,available,10.99,,high,low,14,name.com,,,
-80fdded9-48fb-4f2c-a65e-cd07cc1a1f2a,extensive.properties,available,10.99,50.99,low,low,9,name.com,,,
-207f575d-2968-4a32-a78c-7a48559f4173,funny.properties,available,18.99,39.99,medium,low,5,namesilo,,,23/09/2026 15:21
-fdba7dce-9ed5-4fa5-b00c-79b00916012c,handin.properties,available,10.99,,medium,low,7,name.com,,,
-78d23202-44e4-418f-a94f-e84793bf69df,flash.properties,available,,,medium,low,5,,,,
+80fdded9-48fb-4f2c-a65e-cd07cc1a1f2a,extensive.properties,available,10.99,50.99,high,low,9,name.com,,,
 921dcec7-a877-4629-beea-a9fa3a7c08ce,mothafucka.properties,available,10.99,,medium,low,10,name.com,,,
-5939a085-bab7-4bfe-a53e-f88edb01531c,baronial.properties,available,10.99,50.99,low,low,8,name.com,,,08/08/2026 20:11
+5939a085-bab7-4bfe-a53e-f88edb01531c,baronial.properties,available,10.99,50.99,medium,low,8,name.com,,,08/08/2026 20:11
 0e74eb4f-6da5-4d94-b5b0-cacfc82d1f89,protect.properties,premium,242,242,high,low,7,namesilo,,,
 dfc57fd5-fdcb-49d4-9cea-ec73f45bbcf1,vodka.properties,premium,118.8,118.8,high,low,5,namesilo,,,
-2817789f-9b40-492e-a586-0a5033e862aa,oldgeezer.properties,available,10.99,50.99,low,low,10,name.com,,,05/08/2026 19:25
-68589cca-ff4e-4bc5-860b-987b6cac78a1,nailclipper.properties,available,10.99,,medium,low,12,name.com,,,
-2adf719b-42a2-4cac-9fa9-04fc8670d869,evenif.properties,available,10.99,,medium,low,7,name.com,,,
-481176f8-e53f-411d-8582-000e0b1b9e09,albinal.properties,available,10.99,50.99,low,low,7,name.com,,,
-2171b7ef-9e62-4d89-87bf-5f146eb55da1,longhaired.properties,available,10.99,,low,low,11,name.com,,,
-65f2d288-cfcc-4f7e-bd10-7a70fddea531,generalinsurance.properties,available,10.99,,high,low,17,name.com,,,
-14baea31-3a34-49be-84dc-d2def2662e5b,resume.properties,available,18.99,39.99,medium,low,6,namesilo,,,24/09/2026 04:16
-678ca8ca-2b5a-4389-9b56-6492d167fa68,scratchy.properties,available,10.99,50.99,low,low,8,name.com,,,
-8e27a67f-2585-4cd1-8734-280939de3cea,lawyer.properties,premium,242,242,medium,low,6,namesilo,,,
-a66f4e32-67d0-4f05-bddc-058e14def3be,letout.properties,available,10.99,,high,low,7,name.com,,,
-a07c34da-b961-45e7-882e-f419d3ffccf6,allogeneic.properties,available,10.99,50.99,low,low,10,name.com,,,
+678ca8ca-2b5a-4389-9b56-6492d167fa68,scratchy.properties,available,10.99,50.99,medium,low,8,name.com,,,
+8e27a67f-2585-4cd1-8734-280939de3cea,lawyer.properties,premium,242,242,high,low,6,namesilo,,,
+a07c34da-b961-45e7-882e-f419d3ffccf6,allogeneic.properties,available,10.99,50.99,medium,low,10,name.com,,,
 e983dcd5-3f37-4907-8508-978377dbcebc,dickens.properties,available,10.99,,high,low,7,name.com,,,
-74999067-1ff0-4a14-9842-abda2be253fd,passionately.properties,available,10.99,,medium,low,12,name.com,,,
-0361ee51-49b5-4314-a251-746b59827ffe,amnesiac.properties,available,10.99,50.99,low,low,8,name.com,,,
+74999067-1ff0-4a14-9842-abda2be253fd,passionately.properties,available,10.99,,high,low,12,name.com,,,
+0361ee51-49b5-4314-a251-746b59827ffe,amnesiac.properties,available,10.99,50.99,medium,low,8,name.com,,,
 a2e219d0-1b0b-461e-9a3e-65898c5f8c2a,metric.properties,premium,78.54,78.54,high,low,6,namesilo,,,
 41fb0b34-1127-4e81-9dd2-5208ce5b47a8,services.properties,available,10.99,,high,low,8,name.com,,,
 61dd58af-42ce-4267-94f9-affb0971f5f8,chips.properties,available,,,high,low,5,,,,
-be026fee-7afb-462f-bdab-01359a7e6d57,hypocritically.properties,available,10.99,,medium,low,14,name.com,,,
-c7da2b1e-27ae-452a-b183-2495eeae5698,cherry.properties,available,18.99,39.99,medium,low,6,namesilo,,,22/09/2026 22:25
 fb4bc588-4054-4069-9a0b-1ce22c0d8c6b,greet.properties,available,10.99,,high,low,5,name.com,,,
 607d423c-638a-41d0-bcaf-8a85bd6d0c99,laugh.properties,available,10.99,,high,low,5,name.com,,,
-12fd1750-f76f-4e7c-81a5-05b57c90249e,execution.properties,available,10.99,,medium,low,9,name.com,,,
-ff55befc-d590-44c1-94a7-c74f0d74080a,atthecostof.properties,available,10.99,,medium,low,14,name.com,,,
-7c08dcbb-2ef7-4307-9ed6-b8689b86c3d9,anaglyphic.properties,available,10.99,50.99,low,low,10,name.com,,,
-160c3510-3660-484e-81f5-c84cef593e0b,floor.properties,available,10.99,50.99,medium,low,5,name.com,,,08/09/2026 02:52
-85392398-4a41-43f8-9114-abd168aa9df7,answering.properties,available,18.99,39.99,medium,low,9,namesilo,,,22/09/2026 05:38
-a2971b86-8f18-4197-b8e7-762adaaf752d,seventy.properties,available,10.99,50.99,low,low,7,name.com,,,
+12fd1750-f76f-4e7c-81a5-05b57c90249e,execution.properties,available,10.99,,high,low,9,name.com,,,
+7c08dcbb-2ef7-4307-9ed6-b8689b86c3d9,anaglyphic.properties,available,10.99,50.99,medium,low,10,name.com,,,
+160c3510-3660-484e-81f5-c84cef593e0b,floor.properties,available,10.99,50.99,high,low,5,name.com,,,08/09/2026 02:52
+a2971b86-8f18-4197-b8e7-762adaaf752d,seventy.properties,available,10.99,50.99,high,low,7,name.com,,,
 b18e98ed-e884-4fae-89f4-42f07820e30e,portable.properties,available,10.99,,high,low,8,name.com,,,
-93be9324-2b1a-4c8a-90ad-7a813725fca9,frenchpancake.properties,available,10.99,,high,low,14,name.com,,,
-8e056530-f2e8-4ace-b2cd-fd44ab49be8c,enterinto.properties,available,10.99,,medium,low,10,name.com,,,
 e9bf692b-c715-4a20-a281-3c8c0c0a439a,anaemia.properties,available,10.99,,medium,low,7,name.com,,,
-ea05dee7-3908-4c56-813c-3f366b3f69b9,hard.properties,available,10.99,50.99,low,low,4,name.com,,,06/08/2026 16:55
-911e10bd-7b68-4d3c-8af1-7ad745046ed4,planted.properties,available,15.98,43.98,low,low,7,namecheap,,,24/09/2026 04:59
+ea05dee7-3908-4c56-813c-3f366b3f69b9,hard.properties,available,10.99,50.99,high,low,4,name.com,,,06/08/2026 16:55
 1650de49-dd8c-43d9-b518-9e546d1ff1b3,voting.properties,premium,118.8,118.8,high,low,6,namesilo,,,
 476f7f78-320b-4517-80f8-576418ee5d37,glance.properties,available,10.99,,high,low,6,name.com,,,
-3b95c81c-6be5-4bbc-9cd2-b29d34b062b1,apostate.properties,available,10.99,50.99,low,low,8,name.com,,,06/08/2026 03:35
-a594a4da-e067-43f8-986c-496045b4652f,romantic.properties,available,18.99,39.99,medium,low,8,namesilo,,,22/09/2026 03:28
-94607a0a-b17f-4a82-8237-350593f1fae9,initially.properties,available,10.99,,medium,low,9,name.com,,,
-aefd780b-bf9e-44e4-9417-a949b4174e77,aliform.properties,available,10.99,50.99,low,low,7,name.com,,,
-69fe2c89-e78d-415f-a51f-7c3d6f61aad1,pubichair.properties,available,10.99,,low,low,10,name.com,,,
-c99cdefe-4437-4760-a24c-f409bbc621fa,carcoat.properties,available,10.99,,high,low,8,name.com,,,
+3b95c81c-6be5-4bbc-9cd2-b29d34b062b1,apostate.properties,available,10.99,50.99,medium,low,8,name.com,,,06/08/2026 03:35
+94607a0a-b17f-4a82-8237-350593f1fae9,initially.properties,available,10.99,,high,low,9,name.com,,,
+aefd780b-bf9e-44e4-9417-a949b4174e77,aliform.properties,available,10.99,50.99,medium,low,7,name.com,,,
 13c378b7-47da-426c-98f8-3fd43679b49b,visited.properties,available,10.99,,high,low,7,name.com,,,
 4f8ce00f-08a6-46c4-b8d9-25617f48e447,morning.properties,available,10.99,,high,low,7,name.com,,,
-c08ab449-22bf-4bc9-9ddc-69673521911b,whitevinegar.properties,available,10.99,,low,low,13,name.com,,,
 e7c94bda-e1a6-40a1-8c17-7b7562d095ee,fatigue.properties,available,10.99,,high,low,7,name.com,,,
-ca452c65-913b-4d55-a318-4a03182582b2,debate.properties,available,10.99,50.99,high,low,6,name.com,,,
 dcb32ee5-9740-4d9c-9e83-7bce4c1e18c6,drawing.properties,available,10.99,,high,low,7,name.com,,,
-db3c7263-dc5a-4262-8d4d-fc558a4f4111,andantino.properties,available,10.99,50.99,low,low,9,name.com,,,
-f23d98d5-419d-4fc8-8af7-06b73f3139c6,profitmargin.properties,available,10.99,,high,low,13,name.com,,,
+db3c7263-dc5a-4262-8d4d-fc558a4f4111,andantino.properties,available,10.99,50.99,medium,low,9,name.com,,,
 757f9d45-532e-43b2-b364-2dd9ed89000f,plentiful.properties,available,10.99,,high,low,9,name.com,,,
-ba769475-f96f-4433-b2d8-49703cd13f94,brush.properties,available,10.99,,medium,low,5,name.com,,,
+ba769475-f96f-4433-b2d8-49703cd13f94,brush.properties,available,10.99,,high,low,5,name.com,,,
 0efaf8fd-3aad-4ab7-a51b-10ed109f6649,jacket.properties,available,10.99,,high,low,6,name.com,,,
 752801dc-83ba-4f39-80e5-da5cdb88678b,links.properties,available,10.99,,high,low,5,name.com,,,
-fcab8454-db5e-4ca2-8953-01974186e685,toe.properties,premium,82.5,,medium,low,3,name.com,,,
-6e18b610-deaf-4ddd-bc7e-074482b6a26b,order.properties,available,18.99,39.99,low,low,5,namesilo,,,23/09/2026 20:44
-59f03bee-5a01-498f-a7c9-0b2b9a3979c4,littlejoe.properties,available,10.99,50.99,low,low,10,name.com,,,
-8b1e3355-e7a4-4afe-bfed-ef58d29b6778,quizbowl.properties,available,10.99,,low,low,9,name.com,,,
-836f8277-8b4f-426d-a908-cb138db85b1c,thickandthin.properties,available,10.99,,low,low,14,name.com,,,
-e8a13172-bed8-4a43-91b8-dd8a780958cd,aural.properties,available,18.99,39.99,low,low,5,namesilo,,,22/09/2026 12:49
+fcab8454-db5e-4ca2-8953-01974186e685,toe.properties,premium,82.5,,high,low,3,name.com,,,
 d0caaf2f-67a9-4199-89da-e6f2e95fe975,put.properties,premium,78.54,78.54,high,low,3,namesilo,,,
-ff270f88-978d-411c-8901-3af69480f50f,bears.properties,available,10.99,,medium,low,5,name.com,,,
-4687dc47-6ac5-475a-8a40-be24332f827b,walloping.properties,available,10.99,50.99,low,low,9,name.com,,,08/08/2026 13:19
-8f8725da-7715-45bd-83ee-07a08fa5e942,roomandboard.properties,available,10.99,,medium,low,14,name.com,,,
+ff270f88-978d-411c-8901-3af69480f50f,bears.properties,available,10.99,,high,low,5,name.com,,,
 788fbf1d-fa85-4b9b-9938-da54ded741f0,happiness.properties,available,10.99,,high,low,9,name.com,,,
-d4a1bd85-ba03-45c8-93d3-7c252052c307,manualwork.properties,available,10.99,,medium,low,11,name.com,,,
-9c4d2bc3-526f-452c-84cb-2589bf0af2b4,strongpersonality.properties,available,10.99,,high,low,18,name.com,,,
-275ddcd2-b147-485c-bb76-f58d9d3df706,grandprix.properties,available,,,high,low,10,,,,
-45d2c71d-9561-4239-8f91-af0d7cf93215,playdate.properties,available,10.99,,medium,low,9,name.com,,,
-73814557-1f35-4f90-80c5-d387fafb44b7,converted.properties,available,18.99,39.99,low,low,9,namesilo,,,23/09/2026 00:43
-b22a20b1-6f1a-45a7-b3fb-da2c4fd7e79a,properties.properties,resell,,,medium,low,10,"NameSilo, LLC",21/10/2016 08:00,21/10/2026 08:00,
-6f938002-4e61-475d-b355-b1f314450d05,blueish.properties,available,18.99,39.99,low,low,7,namesilo,,,22/09/2026 22:51
-9da14aac-baa7-4643-9f5a-107b43f932bb,outloud.properties,available,15.98,43.98,low,low,8,namecheap,,,13/09/2026 19:13
-9443f656-a769-4286-97ee-3f2124510f19,generically.properties,available,10.99,,medium,low,11,name.com,,,
+45d2c71d-9561-4239-8f91-af0d7cf93215,playdate.properties,available,10.99,,high,low,9,name.com,,,
+b22a20b1-6f1a-45a7-b3fb-da2c4fd7e79a,properties.properties,resell,,,high,low,10,"NameSilo, LLC",21/10/2016 08:00,21/10/2026 08:00,
 dd5d311d-6829-4576-b25d-8581efe25cb4,dad.properties,premium,242,242,high,low,3,namesilo,,,
 18573bcb-5bd9-495c-96bb-e631098e3853,november.properties,available,10.99,,high,low,8,name.com,,,
 89687576-3ff4-47e4-a9cf-f788cc2deb81,fish.properties,premium,854,854,high,low,4,namesilo,,,
-03313990-48d5-446c-85e4-9a891c180b95,grains.properties,available,10.99,,medium,low,6,name.com,,,
-0d263f4c-6202-4060-a290-e886db0186ab,delay.properties,available,10.99,,medium,low,5,name.com,,,
+03313990-48d5-446c-85e4-9a891c180b95,grains.properties,available,10.99,,high,low,6,name.com,,,
+0d263f4c-6202-4060-a290-e886db0186ab,delay.properties,available,10.99,,high,low,5,name.com,,,
 d9c612c8-9240-415e-9e71-c20477947d9c,north.properties,premium,118.8,118.8,high,low,5,namesilo,,,
-a73bac9d-56af-4be2-8395-11903b174cbb,howsayyou.properties,available,10.99,,medium,low,11,name.com,,,
-6e58db8d-de6c-4a3a-8377-cdf203565eb7,antitumour.properties,available,18.99,39.99,medium,low,10,namesilo,,,22/09/2026 06:44
-38029ad1-639c-44da-b48b-4a913f7921dd,idcard.properties,available,10.99,,high,low,7,name.com,,,
-0b6a11fe-1f42-4ed2-a4c8-35952b3bbd10,run.properties,premium,78.54,78.54,medium,low,3,namesilo,,,19/09/2026 07:07
-4c379ef0-d750-4214-8161-60437796b99d,earlyadopter.properties,available,10.99,,high,low,13,name.com,,,
-afdff0a8-9153-4767-b827-6e24f4ead5a6,accident.properties,available,10.99,,low,low,8,name.com,,,
-4e897651-7e38-4333-961d-9ea78a644747,roughshod.properties,available,10.99,50.99,low,low,9,name.com,,,08/08/2026 15:55
-59787d79-6a47-42d8-846f-83f03547b574,hardcurrency.properties,available,10.99,,high,low,13,name.com,,,
+afdff0a8-9153-4767-b827-6e24f4ead5a6,accident.properties,available,10.99,,high,low,8,name.com,,,
 9ec2c249-b42e-4c05-a77c-7937ab88a90f,multiple.properties,premium,242,242,high,low,8,namesilo,,,
-98f07d07-3d23-4baf-b5dd-78f0a4f8bd80,airheaded.properties,available,10.99,50.99,low,low,9,name.com,,,
-df609788-04eb-46b8-8ea1-aa63dc4541da,temperature.properties,available,10.99,,medium,low,11,name.com,,,
+df609788-04eb-46b8-8ea1-aa63dc4541da,temperature.properties,available,10.99,,high,low,11,name.com,,,
 8e0062f3-93b5-47a3-b2b9-da16cf525013,disapproval.properties,available,10.99,,medium,low,11,name.com,,,
-bde5d73c-b4e8-4b2f-94bd-9e74123b4cce,planetarium.properties,available,10.99,,medium,low,11,name.com,,,
-fcacf9b6-f6be-4a44-b021-3d37bbf4ef07,pearlwhite.properties,available,10.99,,low,low,11,name.com,,,
-596e678f-01e7-479f-9519-a5cc72aa0a89,kit.properties,premium,78.54,78.54,medium,low,3,namesilo,,,
-d24d0870-b3c0-425b-b71a-24a175e654b8,jolly.properties,available,10.99,,medium,low,5,name.com,,,
-bead21ec-d4c4-49fe-8084-5caca42f1db9,wrapped.properties,available,10.99,50.99,low,low,7,name.com,,,
-ecba5be3-6ab6-4ead-b93f-125810ab2c95,price.properties,premium,854,854,medium,low,5,namesilo,,,
-d52673ab-488e-4f76-8102-dd8adf7a394e,adscript.properties,available,10.99,50.99,low,low,8,name.com,,,
+bde5d73c-b4e8-4b2f-94bd-9e74123b4cce,planetarium.properties,available,10.99,,high,low,11,name.com,,,
+596e678f-01e7-479f-9519-a5cc72aa0a89,kit.properties,premium,78.54,78.54,high,low,3,namesilo,,,
+d24d0870-b3c0-425b-b71a-24a175e654b8,jolly.properties,available,10.99,,high,low,5,name.com,,,
+bead21ec-d4c4-49fe-8084-5caca42f1db9,wrapped.properties,available,10.99,50.99,high,low,7,name.com,,,
+ecba5be3-6ab6-4ead-b93f-125810ab2c95,price.properties,premium,854,854,high,low,5,namesilo,,,
+d52673ab-488e-4f76-8102-dd8adf7a394e,adscript.properties,available,10.99,50.99,high,low,8,name.com,,,
 44768d46-8924-42e2-9672-b8b84d6c79f4,fasten.properties,available,10.99,,high,low,6,name.com,,,
-33fae591-417e-4eda-81ca-8a23126eb34e,records.properties,available,10.99,,low,low,7,name.com,,,
-70cf204a-3372-4d0d-b604-cf5f3ecd724f,standout.properties,available,10.99,,medium,low,9,name.com,,,
-2ba43dd1-c428-4616-849d-9c084a8f84a4,just.properties,resell,,,high,medium,4,GoDaddy Online Services Cayman Islands Ltd.,12/09/2015 06:59,12/09/2026 06:59,
-c8a5db63-2d88-4b3c-a018-ce414e7f73f8,bunch.properties,available,10.99,,medium,low,5,name.com,,,
-9b7f4918-09d0-475f-8b5a-7b51c2bdd5b0,widen.properties,available,10.99,,medium,low,5,name.com,,,
-4c3fe205-0c29-4e2c-b3b2-c13e026131c3,berrylike.properties,available,10.99,50.99,low,low,9,name.com,,,08/08/2026 04:08
-68ca44e1-705c-4483-a113-eaad2e9fffce,recognition.properties,available,10.99,,medium,low,11,name.com,,,
+33fae591-417e-4eda-81ca-8a23126eb34e,records.properties,available,10.99,,high,low,7,name.com,,,
+c8a5db63-2d88-4b3c-a018-ce414e7f73f8,bunch.properties,available,10.99,,high,low,5,name.com,,,
+9b7f4918-09d0-475f-8b5a-7b51c2bdd5b0,widen.properties,available,10.99,,high,low,5,name.com,,,
+68ca44e1-705c-4483-a113-eaad2e9fffce,recognition.properties,available,10.99,,high,low,11,name.com,,,
 83f0246f-e898-42e4-a642-bf5e8dc711f4,shelter.properties,available,10.99,,high,low,7,name.com,,,
-9b21c2fd-d81c-48dc-a54f-529b23427d74,spiderweb.properties,available,10.99,,high,low,10,name.com,,,
-0965ce92-beeb-42e1-bcd1-339d69b93a31,singletree.properties,available,10.99,,low,low,11,name.com,,,
-9efb5b79-28e9-44e0-b38c-d993aabfb852,anaplastic.properties,available,10.99,50.99,low,low,10,name.com,,,
+0965ce92-beeb-42e1-bcd1-339d69b93a31,singletree.properties,available,10.99,,medium,low,11,name.com,,,
 502b3b24-6c89-4ab1-ab3a-add0d460c22f,canada.properties,available,,,high,low,6,,,,
-c2e7d328-ac5a-4e56-94d9-1d3adc1cb519,consider.properties,available,18.99,39.99,medium,low,8,namesilo,,,24/09/2026 05:21
 edc5d1cf-6bba-4edc-8f4d-5fe20acc4163,lose.properties,available,10.99,,medium,low,4,name.com,,,
-ace95110-54d1-43f8-9203-ef1a3d86019b,aeriferous.properties,available,10.99,50.99,low,low,10,name.com,,,
+ace95110-54d1-43f8-9203-ef1a3d86019b,aeriferous.properties,available,10.99,50.99,medium,low,10,name.com,,,
 5d5796c3-ab27-45c4-9605-f18f0b58353c,salmon.properties,available,10.99,,high,low,6,name.com,,,
-c2cefb68-1cdc-4a58-846f-bf01e3b303ba,whitesalt.properties,available,10.99,,low,low,10,name.com,,,
-0df82e4e-0979-4afb-9373-84fe0cebcb95,northandsouth.properties,available,10.99,,medium,low,15,name.com,,,
-64f783d1-20fe-4773-a365-a5e732e848b8,aegean.properties,available,10.99,50.99,low,low,6,name.com,,,
+64f783d1-20fe-4773-a365-a5e732e848b8,aegean.properties,available,10.99,50.99,high,low,6,name.com,,,
 62839585-ea9e-4c62-8e3e-7ccd35cc3014,liked.properties,available,10.99,,high,low,5,name.com,,,
 6cf8af97-0fe3-4e42-b73f-0e675d2ebf7d,monitoring.properties,available,10.99,,high,low,10,name.com,,,
-d523a68d-292e-4e0e-9109-93e56040a1f1,overnight.properties,available,18.99,39.99,medium,low,9,namesilo,,,22/09/2026 00:44
-c523b84a-4ad9-4ff2-931d-0e578fc36b8f,division.properties,available,10.99,,medium,low,8,name.com,,,
+c83b0169-1f16-4596-a2d4-7ed0f19ee7ca,ada.properties,available,18.99,39.99,high,medium,3,namesilo,,,24/09/2026 08:18
+c523b84a-4ad9-4ff2-931d-0e578fc36b8f,division.properties,available,10.99,,high,low,8,name.com,,,
 e97db8dd-ed45-4343-8ce6-d066d36d3fac,uml.properties,available,10.99,,high,low,3,name.com,,,
 51319ba1-def6-4ac8-b4b8-8a22ed48927c,friendship.properties,available,10.99,,high,low,10,name.com,,,
 5d91b877-0a2a-44a3-91a5-bb30bdcdb419,pitching.properties,available,10.99,,high,low,8,name.com,,,
-ec06a9d8-1bef-4b25-8d0b-198ebf5800f5,baculiform.properties,available,10.99,50.99,low,low,10,name.com,,,08/08/2026 05:01
-ae93387a-79da-4ce5-9c65-cfb7cf01d59b,almighty.properties,available,10.99,50.99,low,low,8,name.com,,,
-bbc923e5-5331-44ae-b36e-615189602b3f,iamenglish.properties,available,10.99,,medium,low,12,name.com,,,
-a7fc1aa8-6906-4542-b431-ecdc38676c39,surfaces.properties,available,10.99,,low,low,8,name.com,,,
-077c021e-c366-44ce-af6d-86a0f1088e63,allegoric.properties,available,10.99,50.99,low,low,9,name.com,,,
+ae93387a-79da-4ce5-9c65-cfb7cf01d59b,almighty.properties,available,10.99,50.99,high,low,8,name.com,,,
+a7fc1aa8-6906-4542-b431-ecdc38676c39,surfaces.properties,available,10.99,,medium,low,8,name.com,,,
+077c021e-c366-44ce-af6d-86a0f1088e63,allegoric.properties,available,10.99,50.99,high,low,9,name.com,,,
 df59aca5-5cbc-425b-a272-650fe825afd7,sound.properties,premium,38.94,38.94,high,low,5,namesilo,,,
 f2ca69de-d65a-4c8c-878a-8a1696cdea8f,conductor.properties,available,10.99,,high,low,9,name.com,,,
-c0b9aec5-1444-4cce-b39d-98efb110a94f,loopy.properties,available,10.99,50.99,low,low,5,name.com,,,06/08/2026 21:22
-0f2150ed-565b-433b-b8ae-fca0fb89bd38,heroic.properties,available,10.99,,high,low,6,name.com,,,
-3cd2ed31-3398-4cc3-b77c-19e340148c12,postoffice.properties,available,10.99,,medium,low,11,name.com,,,
-a6f8826f-5789-4a4a-91d2-d76d516d38dc,makegoodtime.properties,available,10.99,,high,low,14,name.com,,,
+c0b9aec5-1444-4cce-b39d-98efb110a94f,loopy.properties,available,10.99,50.99,medium,low,5,name.com,,,06/08/2026 21:22
+3cd2ed31-3398-4cc3-b77c-19e340148c12,postoffice.properties,available,10.99,,high,low,11,name.com,,,
 cbf41815-3680-4fa5-baed-1bde04c28669,overtime.properties,available,10.99,,high,low,8,name.com,,,
-c8ed63f7-247e-4ec9-b12c-d2d33aa9c6b0,fabric.properties,available,15.98,43.98,medium,low,6,namecheap,,,08/09/2026 12:34
 af764ee8-9005-4f76-b111-8d995f3c69ff,maybe.properties,available,10.99,,high,low,5,name.com,,,
-6e59c394-1db7-429d-8e08-193645e7216f,inthewakeof.properties,available,10.99,,medium,low,14,name.com,,,
-62fa6913-2d20-41d6-bf68-5235d54f708d,abkhaz.properties,available,10.99,50.99,low,low,6,name.com,,,
-606ac9e5-91f2-49af-b366-9ccfbada0fb3,iknow.properties,available,10.99,,medium,low,6,name.com,,,
-1760c9e9-955f-4a8c-91a5-05582386099a,whole.properties,available,18.99,39.99,medium,low,5,namesilo,,,22/09/2026 00:29
+62fa6913-2d20-41d6-bf68-5235d54f708d,abkhaz.properties,available,10.99,50.99,high,low,6,name.com,,,
 47c85580-d712-4218-9b66-aff5532f7d14,marvel.properties,available,10.99,,high,low,6,name.com,,,
-53946713-5b88-4d58-b500-2e933a1c801d,school.properties,premium,242,242,medium,low,6,namesilo,,,23/09/2026 11:06
 4c4ba889-93d3-4f1e-af5a-06768ef3d946,property.properties,resell,,,high,low,8,"GoDaddy.com, LLC",08/12/2024 10:42,08/12/2026 10:42,
-ede66bb7-6687-426a-8444-ed86e5fac385,nates.properties,available,10.99,50.99,low,low,5,name.com,,,09/08/2026 10:31
-194a90e7-2489-4b44-9ee4-b19ac22f3cc4,naturewriting.properties,available,10.99,,low,low,14,name.com,,,
-23d9ae28-7015-4e3b-8104-e92b0a07bfb6,fleet.properties,available,,,medium,low,5,,,,
-ffa1fc2c-2a6d-45b7-9cda-56cea6d0d7c0,fortyfive.properties,available,10.99,50.99,low,low,10,name.com,,,
-320ad077-5906-4d6d-80e2-c3c3e05f9487,armorclad.properties,available,10.99,50.99,low,low,10,name.com,,,06/08/2026 20:05
+ede66bb7-6687-426a-8444-ed86e5fac385,nates.properties,available,10.99,50.99,medium,low,5,name.com,,,09/08/2026 10:31
 0ec4df8d-2719-42e2-b239-d14590eb2052,appreciate.properties,available,10.99,,high,low,10,name.com,,,
-16ccbaf4-548e-4821-828c-ae5937874719,baptismal.properties,available,10.99,50.99,low,low,9,name.com,,,08/08/2026 15:05
 2383e080-e5da-420b-bf95-32480b999cfe,majestic.properties,available,,,high,low,8,,,,
-6d30f5bd-254e-42b1-abe4-72ff0f81bccc,far.properties,premium,118.8,118.8,high,low,3,namesilo,,,
-51c26cb2-8b58-4424-867e-e13c419eb20b,abdominal.properties,available,18.99,39.99,low,low,9,namesilo,,,21/09/2026 13:47
-8c2c7afb-dd05-4f6b-a23c-33dc693b0e93,soil.properties,premium,118.8,118.8,medium,low,4,namesilo,,,24/09/2026 02:55
-dcf95967-e729-4d83-87b9-9f1f37e24ed9,givealight.properties,available,10.99,,medium,low,12,name.com,,,
-5cd44b21-9e16-49ea-8afb-c7a0c313f4e5,activist.properties,available,15.98,43.98,medium,low,8,namecheap,,,21/09/2026 16:34
 138ad0fd-619b-43b6-9abf-80ef7feafd94,recommend.properties,available,10.99,,high,low,9,name.com,,,
-0d1df86b-35dc-4868-b768-5d10f0af8455,olivejuice.properties,available,10.99,,medium,low,11,name.com,,,
 30997b4b-c5d9-4ae9-8315-4cdd1662ee90,gore.properties,available,10.99,,medium,low,4,name.com,,,
-894c7bc4-804b-4bcc-8efe-05c67d4adfcc,amphoteric.properties,available,10.99,50.99,low,low,10,name.com,,,
-7493900a-553f-446a-98a6-73b9207839cf,appressed.properties,available,10.99,50.99,low,low,9,name.com,,,
-44466644-0823-42e9-be16-3b37fc2449eb,gutcheck.properties,available,10.99,,medium,low,9,name.com,,,
-3cc8378f-897e-4ac2-9faf-b2d7746fc801,apodictic.properties,available,10.99,50.99,low,low,9,name.com,,,06/08/2026 01:27
-c89c6f54-e587-459c-8439-5059420aa87a,unending.properties,available,10.99,50.99,low,low,8,name.com,,,
-54ca5c11-ede9-4018-9d47-1bb79fad4a31,allotropic.properties,available,10.99,50.99,low,low,10,name.com,,,
-05193bc9-ae35-42d3-823a-f3d51fc96b6a,channel.properties,available,10.99,,medium,low,7,name.com,,,
-46abefaf-a432-45ad-991c-11458a6349cc,patient.properties,available,10.99,,medium,low,7,name.com,,,
-3769283b-cb8f-43fc-90c8-599d92bb04e7,howdoyoulike.properties,available,10.99,,medium,low,15,name.com,,,
-df8bf8db-072f-4512-8ff9-2d6a0ac8fcd4,peppermintoil.properties,available,10.99,,low,low,14,name.com,,,
+3cc8378f-897e-4ac2-9faf-b2d7746fc801,apodictic.properties,available,10.99,50.99,medium,low,9,name.com,,,06/08/2026 01:27
+c89c6f54-e587-459c-8439-5059420aa87a,unending.properties,available,10.99,50.99,high,low,8,name.com,,,
+54ca5c11-ede9-4018-9d47-1bb79fad4a31,allotropic.properties,available,10.99,50.99,medium,low,10,name.com,,,
+05193bc9-ae35-42d3-823a-f3d51fc96b6a,channel.properties,available,10.99,,high,low,7,name.com,,,
+46abefaf-a432-45ad-991c-11458a6349cc,patient.properties,available,10.99,,high,low,7,name.com,,,
 6b9dc65e-142c-412b-9302-eaba2670a6e3,baggage.properties,available,10.99,,high,low,7,name.com,,,
-0a92c9df-05af-47a1-8746-5cbed9347ed1,getinto.properties,available,10.99,,high,low,8,name.com,,,
-4ba979d1-036b-4a60-ad5c-09b6b60d9595,bestpractice.properties,available,10.99,,high,low,13,name.com,,,
-f5838e8f-f330-4a56-b012-47b47caa526b,manyatimes.properties,available,10.99,,medium,low,12,name.com,,,
 93e6c5bd-48a3-4493-83ec-a7f09686daf4,categorically.properties,available,10.99,,medium,low,13,name.com,,,
 ba7fbc72-c9b7-42b7-a144-2710242835fd,devote.properties,available,10.99,,high,low,6,name.com,,,
 aab42432-6262-4a29-b345-1d0fd52a46bc,subscribe.properties,available,10.99,,high,low,9,name.com,,,
-b784e302-f4fe-4816-b447-a1d4bcddbc4f,jumping.properties,available,15.98,43.98,medium,low,7,namecheap,,,08/09/2026 06:49
-a4d59d76-ca54-4bb9-9736-3b6c469c387f,indianajones.properties,available,10.99,,high,low,13,name.com,,,
-411f3159-5444-497a-8682-a2f187350c50,bedfast.properties,available,10.99,50.99,low,low,7,name.com,,,09/08/2026 06:56
-ea1b9d91-c944-4e00-a8be-701c3e535478,neighborhood.properties,available,10.99,,medium,low,12,name.com,,,
+b784e302-f4fe-4816-b447-a1d4bcddbc4f,jumping.properties,available,15.98,43.98,high,low,7,namecheap,,,08/09/2026 06:49
+ea1b9d91-c944-4e00-a8be-701c3e535478,neighborhood.properties,available,10.99,,high,low,12,name.com,,,
 175c7f6c-614a-49ce-8612-c8c0bac361d9,bathe.properties,available,10.99,,high,low,5,name.com,,,
 e8b06df5-dc45-4d42-951e-c961d205fcd1,whereas.properties,available,10.99,,high,low,7,name.com,,,
-acd19687-a03f-4802-9df0-781de1cf3637,zestful.properties,available,10.99,50.99,low,low,7,name.com,,,08/08/2026 19:51
-7858266e-907a-4fa9-9366-9a78a840d68d,column.properties,premium,128.7,128.7,medium,low,6,namecheap,,,19/09/2026 04:50
-f772e18c-cd90-45e4-922d-6c929f09923f,sad.properties,premium,123.75,123.75,high,low,3,name.com,,,
-3215234c-9038-4f98-8bec-c07ac05b9c86,emailstorm.properties,available,10.99,,medium,low,11,name.com,,,
-df7977ae-51de-4a54-ba45-dfaf73fbf3e9,sideways.properties,available,15.98,43.98,low,low,8,namecheap,,,24/09/2026 01:14
-6e298ce4-2767-499e-9b6c-b11195773d4a,universally.properties,available,10.99,,medium,low,11,name.com,,,
-2c04239b-35ee-4981-8266-8c3c1115d316,ancestral.properties,available,10.99,50.99,low,low,9,name.com,,,
+acd19687-a03f-4802-9df0-781de1cf3637,zestful.properties,available,10.99,50.99,medium,low,7,name.com,,,08/08/2026 19:51
+6e298ce4-2767-499e-9b6c-b11195773d4a,universally.properties,available,10.99,,high,low,11,name.com,,,
+2c04239b-35ee-4981-8266-8c3c1115d316,ancestral.properties,available,10.99,50.99,high,low,9,name.com,,,
 2204701f-e689-4c4b-83f0-a2b2ba4d7328,hello.properties,premium,38.94,38.94,high,high,5,namesilo,,,
-12213f16-2fee-44ee-8689-46b0fb6ee15f,racist.properties,available,10.99,50.99,low,low,6,name.com,,,
-cf6ce6d1-6553-4570-92ea-9588194abe6e,bce.properties,available,10.99,,medium,low,3,name.com,,,
+12213f16-2fee-44ee-8689-46b0fb6ee15f,racist.properties,available,10.99,50.99,medium,low,6,name.com,,,
+cf6ce6d1-6553-4570-92ea-9588194abe6e,bce.properties,available,10.99,,high,low,3,name.com,,,
 38242a4d-2d5e-4096-be07-d3a8685fc4d6,salad.properties,available,10.99,,high,low,5,name.com,,,
-581a0c31-a246-44b3-9f69-5ce344e6d01a,untoward.properties,available,10.99,50.99,low,low,8,name.com,,,
-07f5b549-c701-428b-85b3-5501fe31bf7d,burnt.properties,available,18.99,39.99,low,low,5,namesilo,,,23/09/2026 11:41
 c82cd99f-a81d-40a4-9170-89f4b02456c6,united.properties,premium,118.8,118.8,high,medium,6,namesilo,,,
-fb485eaf-698a-4b6d-a570-272aa9775c47,two.properties,premium,1040,1040,medium,low,3,namecheap,,,21/09/2026 12:14
 e1206bca-c6f1-4988-97d5-f14e5c7477bd,prison.properties,available,10.99,,high,low,6,name.com,,,
-f6c23610-1302-4657-820a-d1298d74149d,established.properties,available,10.99,,medium,low,11,name.com,,,
-8294df35-e359-4a78-a861-43b025fc7c41,compliant.properties,available,15.98,43.98,medium,low,9,namecheap,,,23/09/2026 17:44
+f6c23610-1302-4657-820a-d1298d74149d,established.properties,available,10.99,,high,low,11,name.com,,,
 0a544822-ed79-4a55-907f-8b900b1dfca3,sunhat.properties,available,10.99,,high,low,6,name.com,,,
-b2c7763f-cc7c-4270-8968-183316c53fd2,xmastree.properties,available,10.99,,high,low,9,name.com,,,
-875347f6-dfc8-49b5-b316-3c2a266342e0,provoking.properties,available,10.99,50.99,low,low,9,name.com,,,
-ce02b12a-607b-44ee-bb17-1ef86e1dcd07,autolytic.properties,available,10.99,50.99,low,low,9,name.com,,,07/08/2026 20:42
-9823ccce-b746-4e28-9cbb-a7a811237c78,lp.properties,premium,242,242,medium,low,3,namesilo,,,
-54ba632d-c40b-4c2c-b1e7-4cff2106d158,nobudy.properties,available,10.99,,medium,low,6,name.com,,,
+875347f6-dfc8-49b5-b316-3c2a266342e0,provoking.properties,available,10.99,50.99,high,low,9,name.com,,,
+ce02b12a-607b-44ee-bb17-1ef86e1dcd07,autolytic.properties,available,10.99,50.99,medium,low,9,name.com,,,07/08/2026 20:42
+9823ccce-b746-4e28-9cbb-a7a811237c78,lp.properties,premium,242,242,high,low,3,namesilo,,,
 c0ce18e1-3783-466a-b623-232fb2d2c66e,awarding.properties,available,10.99,,high,low,8,name.com,,,
-82ccf7fc-97da-4201-a57d-aef5d0765eaa,love.properties,premium,260,260,medium,low,4,namecheap,,,22/09/2026 19:29
-8d250128-e315-4574-9a88-ab4853129a5c,irritate.properties,available,10.99,,medium,low,8,name.com,,,
-f97bc59b-6862-49d0-96ae-1608a490fff4,sunbaked.properties,available,10.99,50.99,low,low,8,name.com,,,
-2493a6dc-c58c-4e12-86ba-0d2969412e3f,letloose.properties,available,10.99,,high,low,9,name.com,,,
-0b8f9513-16c8-48bc-92a1-3af88b1b7897,intheoldtimes.properties,available,10.99,,medium,low,16,name.com,,,
-f99925ba-56c0-454d-8fce-a5bddb42cc64,assorted.properties,available,10.99,50.99,low,low,8,name.com,,,07/08/2026 07:25
-9f70c98f-5073-4d62-a5d1-675fe1e53f04,computer.properties,premium,854,854,medium,low,8,namesilo,,,23/09/2026 09:10
+8d250128-e315-4574-9a88-ab4853129a5c,irritate.properties,available,10.99,,high,low,8,name.com,,,
+f97bc59b-6862-49d0-96ae-1608a490fff4,sunbaked.properties,available,10.99,50.99,medium,low,8,name.com,,,
+f99925ba-56c0-454d-8fce-a5bddb42cc64,assorted.properties,available,10.99,50.99,medium,low,8,name.com,,,07/08/2026 07:25
 79ffc1d7-3c91-4c8b-a0ad-71b9c0024e33,metal.properties,premium,260,260,high,low,5,namecheap,,,
-57e61646-3cc4-4de0-a2e6-828cb9bd7ade,aaa.properties,premium,85.8,85.8,medium,medium,3,namecheap,,,
-e44da4dc-4d4b-41ea-8ad2-c7ae8b1016ad,alopecic.properties,available,10.99,50.99,low,low,8,name.com,,,
-1f439278-2e91-454b-9891-065c2dc7404b,quality.properties,premium,118.8,118.8,medium,low,7,namesilo,,,23/09/2026 14:21
-bea30cf0-d1ed-4c88-a08c-ecaf2fcd5f35,romannumerals.properties,available,10.99,,low,low,14,name.com,,,
-291c4964-b5ec-4719-a3f9-b9c3a2d28ac1,pervert.properties,available,18.99,39.99,low,low,7,namesilo,,,23/09/2026 23:54
-ddae18e1-c9b7-4bfc-90a3-552571399c9a,evaluative.properties,available,10.99,50.99,low,low,10,name.com,,,06/08/2026 08:13
-74dc40d2-e8fe-46bb-83f9-de1d2811d79c,atsixandseven.properties,available,10.99,,medium,low,16,name.com,,,
-6253dd96-0971-4cc2-9827-08d881971cd7,steel.properties,premium,242,242,medium,low,5,namesilo,,,
-b3627f59-e2c2-48ac-9c06-88308d20a577,fifteen.properties,available,18.99,39.99,medium,low,7,namesilo,,,21/09/2026 11:44
-2e7542da-92b2-4e49-8d2a-a44281f39d75,aborigine.properties,available,10.99,50.99,medium,low,9,name.com,,,
-816a4f4f-1acf-44fa-b47f-00d9e592977c,advisor.properties,premium,242,242,high,low,7,namesilo,,,
-cc7a643a-a38a-4ec3-bd59-5308e19ec221,oilandwater.properties,available,10.99,,low,low,13,name.com,,,
-df6047e5-9080-4774-b714-5800971d0344,seriousness.properties,available,10.99,,low,low,11,name.com,,,
-cd54156d-2e5b-4b02-b80c-80775ee2b22a,coffeetablebook.properties,available,10.99,,high,low,17,name.com,,,
-125da401-974b-4dca-a4ec-6ef1e8e31c82,antimonial.properties,available,10.99,50.99,low,low,10,name.com,,,
+57e61646-3cc4-4de0-a2e6-828cb9bd7ade,aaa.properties,premium,85.8,85.8,high,medium,3,namecheap,,,
+ddae18e1-c9b7-4bfc-90a3-552571399c9a,evaluative.properties,available,10.99,50.99,medium,low,10,name.com,,,06/08/2026 08:13
+6253dd96-0971-4cc2-9827-08d881971cd7,steel.properties,premium,242,242,high,low,5,namesilo,,,
+2e7542da-92b2-4e49-8d2a-a44281f39d75,aborigine.properties,available,10.99,50.99,high,low,9,name.com,,,
 0e0ea5ea-3f64-4ec2-ae75-d521a979299a,critic.properties,available,10.99,,high,low,6,name.com,,,
 9a77e0cb-e1da-4db5-a089-d2b95dbe11ee,inspiring.properties,resell,,,high,low,9,"GoDaddy.com, LLC",13/04/2017 18:47,13/04/2027 18:47,
-2589212e-d305-49ff-82e6-4d80825df631,comein.properties,available,10.99,,high,low,7,name.com,,,
-a7ae7cb8-34b2-401f-8504-ef8f4bd9738c,specially.properties,available,10.99,,medium,low,9,name.com,,,
+a7ae7cb8-34b2-401f-8504-ef8f4bd9738c,specially.properties,available,10.99,,high,low,9,name.com,,,
 cdda5cba-8292-4c4f-9376-0e4f9635f015,curry.properties,available,10.99,,high,low,5,name.com,,,
 46d122e0-cb55-4555-92a6-b555dae367d8,camera.properties,premium,242,242,high,low,6,namesilo,,,
-84a78478-c5db-49b8-bf84-ce115b9fcac6,gentle.properties,available,10.99,50.99,medium,low,6,name.com,,,06/08/2026 19:29
+84a78478-c5db-49b8-bf84-ce115b9fcac6,gentle.properties,available,10.99,50.99,high,low,6,name.com,,,06/08/2026 19:29
 3ec510ed-e594-4f42-9c88-32413a20ff6a,llp.properties,premium,118.8,118.8,high,low,3,namesilo,,,
-da173bef-11ae-4041-afcf-471e6c11dd4c,anterior.properties,available,10.99,50.99,low,low,8,name.com,,,
-d3b4b639-59c9-4854-95bf-64e0a2ebb70e,analgesic.properties,available,10.99,50.99,low,low,9,name.com,,,
+da173bef-11ae-4041-afcf-471e6c11dd4c,anterior.properties,available,10.99,50.99,high,low,8,name.com,,,
+d3b4b639-59c9-4854-95bf-64e0a2ebb70e,analgesic.properties,available,10.99,50.99,medium,low,9,name.com,,,
 fe057cbe-77e0-4da0-95a4-85db45b4e5f9,twitter.properties,available,10.99,,high,low,7,name.com,,,
-6b2cdf75-9c41-4ca3-8795-16a3c1f7ae42,timely.properties,available,10.99,50.99,low,low,6,name.com,,,06/08/2026 10:08
-9fae207f-2ea9-4ff8-9879-49fd3f0eb1cc,cut.properties,premium,78.54,78.54,low,low,3,namesilo,,,24/09/2026 04:08
-47656e06-0ef7-4f75-8832-933836f3e00e,motherfukka.properties,available,10.99,,medium,low,11,name.com,,,
-f2440cc2-afd1-4132-9b46-202309ddd7d7,adjective.properties,available,10.99,50.99,low,low,9,name.com,,,
-e6b48a60-1383-4499-8044-2adb2ee71513,leavethedooropen.properties,available,10.99,,high,low,19,name.com,,,
+6b2cdf75-9c41-4ca3-8795-16a3c1f7ae42,timely.properties,available,10.99,50.99,high,low,6,name.com,,,06/08/2026 10:08
+f2440cc2-afd1-4132-9b46-202309ddd7d7,adjective.properties,available,10.99,50.99,high,low,9,name.com,,,
 343a4bb7-fe1f-4f87-b59a-2b1ac7dceca0,mega.properties,resell,,,high,medium,4,Dynadot Inc,23/08/2025 12:10,23/08/2027 12:10,22/09/2026 09:09
-65bc33bc-d659-4461-b37d-de5d46600aaa,buttonlike.properties,available,10.99,50.99,low,low,10,name.com,,,09/08/2026 03:39
+65bc33bc-d659-4461-b37d-de5d46600aaa,buttonlike.properties,available,10.99,50.99,medium,low,10,name.com,,,09/08/2026 03:39
 2a963cba-3797-4eb2-bff0-ca8d8f985936,perceiving.properties,available,10.99,,high,low,10,name.com,,,
-4a2a0550-32c1-444a-a4b6-1c8efb0efb48,musthave.properties,available,10.99,,high,low,9,name.com,,,
 f3390cd5-c430-40f2-949f-927c4273b113,tentative.properties,available,10.99,,high,low,9,name.com,,,
-3bffca67-b142-462f-a8a0-51abc481fa23,intakesystem.properties,available,10.99,,medium,low,13,name.com,,,
-06ccde26-4233-442f-a396-e74e5dc9d001,alphameric.properties,available,18.99,39.99,low,low,10,namesilo,,,22/09/2026 02:12
-0e5dfde1-3f94-472d-88a2-d297720583a8,fortyeight.properties,available,10.99,,high,low,11,name.com,,,
-0b88652c-aa2d-470b-8588-d6cc197168a7,fellowtravel.properties,available,10.99,,medium,low,13,name.com,,,
-53d9d646-c63c-45b1-afff-441c5947347b,seventieth.properties,available,10.99,50.99,low,low,10,name.com,,,
-43082281-0ca2-417a-8648-795103be9615,activation.properties,available,10.99,50.99,low,low,10,name.com,,,
-bc2a0fee-a149-44ca-86b1-3471709e43b0,anamorphic.properties,available,10.99,50.99,low,low,10,name.com,,,
-f3f6cb80-34d4-40a7-841f-a081690cb427,bouncy.properties,available,18.99,39.99,low,low,6,namesilo,,,23/09/2026 01:24
-947952e2-8f1a-459a-b5c6-eeb5bf464585,eyetoeye.properties,available,10.99,,medium,low,10,name.com,,,
-b6adda91-646f-4e22-833c-96322ab6ad64,offof.properties,available,10.99,,medium,low,6,name.com,,,
+43082281-0ca2-417a-8648-795103be9615,activation.properties,available,10.99,50.99,high,low,10,name.com,,,
+bc2a0fee-a149-44ca-86b1-3471709e43b0,anamorphic.properties,available,10.99,50.99,medium,low,10,name.com,,,
 d0b1a716-380c-4c9d-aec8-f60c02f442c3,psychic.properties,available,10.99,,high,low,7,name.com,,,
-a1a8eb18-63f6-4811-9bf6-24c483b7b1ae,beaming.properties,available,10.99,50.99,low,low,7,name.com,,,09/08/2026 04:03
-c9b8d48f-8f65-4bad-882a-232d9e729879,trite.properties,available,10.99,50.99,low,low,5,name.com,,,08/08/2026 11:19
-ef6dc109-d62a-4c86-9232-016f8aff08d5,bringhome.properties,available,10.99,,high,low,10,name.com,,,
+a1a8eb18-63f6-4811-9bf6-24c483b7b1ae,beaming.properties,available,10.99,50.99,high,low,7,name.com,,,09/08/2026 04:03
+c9b8d48f-8f65-4bad-882a-232d9e729879,trite.properties,available,10.99,50.99,medium,low,5,name.com,,,08/08/2026 11:19
 85b6bc5b-349a-4f93-b089-83c193eda41d,daughter.properties,available,10.99,,high,low,8,name.com,,,
 2b3410c9-4e41-4139-88b0-3a457915e16f,yet.properties,premium,78.54,78.54,high,low,3,namesilo,,,
-667c8f1f-e736-4183-bab4-9ff2a1b77b77,fiftysix.properties,available,10.99,50.99,low,low,9,name.com,,,
-156e6b4f-09e8-46f6-aab6-332e3d86ef91,transient.properties,available,10.99,,high,low,9,name.com,,,
-29ad0ad1-1060-49f5-baf6-4e5759166bf1,producing.properties,available,10.99,,low,low,9,name.com,,,
-ab256c8f-9b1a-4000-8202-c538a3b15a0b,later.properties,available,18.99,39.99,medium,low,5,namesilo,,,21/09/2026 22:11
+29ad0ad1-1060-49f5-baf6-4e5759166bf1,producing.properties,available,10.99,,high,low,9,name.com,,,
 2e3fa6ec-0c19-44c2-a6f4-70e64adfe936,tasting.properties,available,10.99,,high,low,7,name.com,,,
 55bad6e1-890a-42bf-97e9-86550e59e8a0,modal.properties,available,10.99,,high,low,5,name.com,,,
-bda40055-a3ad-4ef2-bb4a-1968b9f917d5,lookupon.properties,available,10.99,,high,low,9,name.com,,,
-b5917713-e993-495b-a012-2f82170df656,ancient.properties,available,18.99,39.99,medium,low,7,namesilo,,,22/09/2026 04:21
-80dc40ea-30ce-4816-98cc-d845af3e488d,holder.properties,available,10.99,,medium,low,6,name.com,,,
-f2dbe65d-3367-4519-a264-b27b4fd9ba41,seeabout.properties,available,10.99,,low,low,9,name.com,,,
-b1687c5c-bac0-4cbe-9c08-c9365ca2929f,lowcost.properties,available,10.99,50.99,low,low,8,name.com,,,
-4801486c-94af-4b3c-8f2c-7bf767bc47ba,indigenous.properties,available,10.99,50.99,low,low,10,name.com,,,07/08/2026 19:31
-e448e48b-a060-4d26-9aaa-69f4ee47fca3,archaistic.properties,available,10.99,50.99,low,low,10,name.com,,,06/08/2026 15:21
+80dc40ea-30ce-4816-98cc-d845af3e488d,holder.properties,available,10.99,,high,low,6,name.com,,,
+4801486c-94af-4b3c-8f2c-7bf767bc47ba,indigenous.properties,available,10.99,50.99,high,low,10,name.com,,,07/08/2026 19:31
 9db32ff5-9138-48d7-a43f-e4db797715ff,telecom.properties,available,10.99,,high,low,7,name.com,,,
-05fb1be0-725d-438a-a8b9-a51dc5dc688d,verywell.properties,available,18.99,39.99,low,low,9,namesilo,,,22/09/2026 01:12
-8f9174f9-c34a-4c5f-ae10-16cd3736c922,luxembourg.properties,available,,,medium,low,10,,,,
-a97f2007-41e5-4b61-93d5-2e9fb7379bbf,cup.properties,premium,118.8,118.8,medium,low,3,namesilo,,,19/09/2026 14:42
+8f9174f9-c34a-4c5f-ae10-16cd3736c922,luxembourg.properties,available,,,high,low,10,,,,
 c3e0ad03-a6c6-49c5-ba3f-0e8cc470a1c9,aol.properties,available,,,high,low,3,,,,
-7683b9df-5cf7-442d-ab27-4a5a166b7b91,apsidal.properties,available,10.99,50.99,low,low,7,name.com,,,06/08/2026 10:18
-3455b7aa-b80a-44c7-ab03-5ee4e0b03026,relating.properties,available,10.99,,medium,low,8,name.com,,,
-add22caf-2dc8-4de9-9036-647fe9940cc8,definitely.properties,available,10.99,,medium,low,10,name.com,,,
-52e9b4a4-1ebd-4564-8233-c9ddb88e2ef2,crossroads.properties,available,10.99,,medium,low,10,name.com,,,
-cd332bd2-4fdd-4e72-b2b6-5b2e354c7777,cognisant.properties,available,10.99,50.99,low,low,9,name.com,,,08/08/2026 00:18
+7683b9df-5cf7-442d-ab27-4a5a166b7b91,apsidal.properties,available,10.99,50.99,medium,low,7,name.com,,,06/08/2026 10:18
+3455b7aa-b80a-44c7-ab03-5ee4e0b03026,relating.properties,available,10.99,,high,low,8,name.com,,,
+add22caf-2dc8-4de9-9036-647fe9940cc8,definitely.properties,available,10.99,,high,low,10,name.com,,,
+52e9b4a4-1ebd-4564-8233-c9ddb88e2ef2,crossroads.properties,available,10.99,,high,low,10,name.com,,,
+cd332bd2-4fdd-4e72-b2b6-5b2e354c7777,cognisant.properties,available,10.99,50.99,medium,low,9,name.com,,,08/08/2026 00:18
 ac7d30bd-a799-4efa-9a45-0e04dae4afbf,minuscule.properties,available,10.99,,high,low,9,name.com,,,
-49f642e4-2b9e-4b5d-9467-f45e81c46025,thick.properties,available,18.99,39.99,medium,low,5,namesilo,,,22/09/2026 22:11
-4df66573-a7a1-44ff-867f-dbd9e88c18e6,antarctic.properties,premium,118.8,118.8,low,low,9,namesilo,,,
-6ef820c8-51be-4146-b957-db8a723769bd,diverted.properties,available,10.99,50.99,low,low,8,name.com,,,
-995cdb85-26f1-45dc-91b3-a6a07088a827,annex.properties,available,10.99,,medium,low,5,name.com,,,
-a0e5306e-c5ab-4e43-920a-a870d08904a6,amerindic.properties,available,10.99,50.99,low,low,9,name.com,,,
-e558d796-e7c5-4756-95fe-efc0b5bf5e1f,autophytic.properties,available,10.99,50.99,low,low,10,name.com,,,07/08/2026 20:57
+4df66573-a7a1-44ff-867f-dbd9e88c18e6,antarctic.properties,premium,118.8,118.8,high,low,9,namesilo,,,
+6ef820c8-51be-4146-b957-db8a723769bd,diverted.properties,available,10.99,50.99,high,low,8,name.com,,,
+995cdb85-26f1-45dc-91b3-a6a07088a827,annex.properties,available,10.99,,high,low,5,name.com,,,
 075e59d1-56aa-469d-ac6d-54916a137d66,smile.properties,premium,242,242,high,medium,5,namesilo,,,
-9255d753-4d5f-4515-b3f4-981692d0071a,apocryphal.properties,available,10.99,50.99,low,low,10,name.com,,,06/08/2026 01:11
-b3b23dfb-f212-4e4b-8408-5e822a32b986,sevener.properties,available,10.99,50.99,low,low,7,name.com,,,
-404ba6c8-e00b-42b5-8c30-c914c0d8e066,abovethefold.properties,available,10.99,,low,low,14,name.com,,,
-768f36a3-5835-4448-8fdb-5bacca5bc782,encouraged.properties,available,18.99,39.99,low,low,10,namesilo,,,23/09/2026 10:08
+9255d753-4d5f-4515-b3f4-981692d0071a,apocryphal.properties,available,10.99,50.99,medium,low,10,name.com,,,06/08/2026 01:11
+b3b23dfb-f212-4e4b-8408-5e822a32b986,sevener.properties,available,10.99,50.99,medium,low,7,name.com,,,
 7072a9cc-ebf7-47f1-ba43-829342eb9987,prevent.properties,available,10.99,,high,low,7,name.com,,,
-2443fe76-58e1-43d3-88d0-0564784fb2f2,afghani.properties,available,10.99,50.99,low,low,7,name.com,,,
-1ef065ed-2ad0-41cd-b034-887853b1a6af,collarbone.properties,available,10.99,,medium,low,11,name.com,,,
+2443fe76-58e1-43d3-88d0-0564784fb2f2,afghani.properties,available,10.99,50.99,high,low,7,name.com,,,
+1ef065ed-2ad0-41cd-b034-887853b1a6af,collarbone.properties,available,10.99,,high,low,11,name.com,,,
 f318271d-db97-4865-b91f-ac9bcff173bd,eyes.properties,available,10.99,,high,low,4,name.com,,,
-1b6d8804-320e-412b-8133-0262d37f71f0,bacillary.properties,available,10.99,50.99,low,low,9,name.com,,,08/08/2026 04:56
-d4a46434-bcf4-4afe-9078-2327e08fe563,achiever.properties,available,10.99,,medium,low,8,name.com,,,
-f7ac02f6-c351-4d12-9c96-0c71cf7b4c94,abscessed.properties,available,10.99,50.99,low,low,9,name.com,,,
-f4502abe-9410-40d5-aec2-4d7b92956dd8,stuffy.properties,available,10.99,50.99,low,low,6,name.com,,,
-3c9adf6b-d2f0-4f1e-a988-de09f115fbdb,xix.properties,available,18.99,39.99,medium,low,3,namesilo,,,21/09/2026 12:08
+d4a46434-bcf4-4afe-9078-2327e08fe563,achiever.properties,available,10.99,,high,low,8,name.com,,,
+f7ac02f6-c351-4d12-9c96-0c71cf7b4c94,abscessed.properties,available,10.99,50.99,medium,low,9,name.com,,,
+f4502abe-9410-40d5-aec2-4d7b92956dd8,stuffy.properties,available,10.99,50.99,high,low,6,name.com,,,
 29b2dd8c-f0ae-47a7-b938-6c61d870c57c,dji.properties,premium,78.54,78.54,high,low,3,namesilo,,,
 4dc62d54-0920-4d12-991e-948b678ef72b,she.properties,premium,78.54,78.54,high,low,3,namesilo,,,
-2c1bd08c-74b6-4b2e-b742-0f50b09578ae,beadlike.properties,available,10.99,50.99,low,low,8,name.com,,,09/08/2026 03:28
-214d0b69-9b3e-4fa4-b675-f3ea53935d60,sumbody.properties,available,10.99,,medium,low,7,name.com,,,
+214d0b69-9b3e-4fa4-b675-f3ea53935d60,sumbody.properties,available,10.99,,low,low,7,name.com,,,
 2836c303-aa13-41f8-a0a7-6dcca682b997,dissent.properties,available,10.99,,high,low,7,name.com,,,
-ba9745bf-7fa8-48fd-a5af-ab361fb37cbf,bloodpressure.properties,available,10.99,,high,low,14,name.com,,,
-1b438275-a21e-4f21-8fea-d492a97392ee,continually.properties,available,10.99,,medium,low,11,name.com,,,
+1b438275-a21e-4f21-8fea-d492a97392ee,continually.properties,available,10.99,,high,low,11,name.com,,,
 ba6b9d82-62e0-417f-9184-77fa66d4eb9d,enhance.properties,available,10.99,,high,low,7,name.com,,,
-81500f8a-a7a8-4a5a-9a82-4a3699f9b05c,fourteen.properties,available,15.98,43.98,medium,low,8,namecheap,,,21/09/2026 11:38
-6bfb81f5-6a33-4489-a75b-61cca6261a42,gowithoutsaying.properties,available,10.99,,high,low,17,name.com,,,
 924e5e11-08b5-4d20-8f4a-9efc3ab975fe,taco.properties,available,10.99,,high,low,4,name.com,,,
-e70a87a8-3026-46d2-9572-d2871918f4f5,fewer.properties,available,10.99,,medium,low,5,name.com,,,
-8e51a037-7a2d-4912-83eb-8ef01514be70,acrophobic.properties,available,10.99,50.99,low,low,10,name.com,,,
-dd050889-63f5-4cbb-9528-fb686bbc41cd,allow.properties,available,10.99,50.99,low,low,5,name.com,,,06/08/2026 09:03
+dd050889-63f5-4cbb-9528-fb686bbc41cd,allow.properties,available,10.99,50.99,high,low,5,name.com,,,06/08/2026 09:03
 57bbd395-e4c1-4fff-bf92-df739c6cf04f,formalize.properties,available,10.99,,high,low,9,name.com,,,
 84a94325-7a23-455b-9c84-9d14c157189a,misses.properties,available,10.99,,high,low,6,name.com,,,
-c2fde94a-7390-4bc0-83fc-e0b059f80f4d,apodeictic.properties,available,10.99,50.99,low,low,10,name.com,,,06/08/2026 01:36
-4305e223-bdfd-40e1-b3c0-11ebb9e4f0a8,gingerbreadman.properties,available,10.99,,high,low,15,name.com,,,
-ef02b682-3dfa-44ab-840c-b75f27bb0f74,hearing.properties,available,10.99,,high,low,7,name.com,,,
 32bf520c-31d1-441a-a6a8-449614f3fd0e,lindsay.properties,premium,118.8,118.8,high,low,7,namesilo,,,
-a9fe3188-c83a-4669-918d-5ee372020a43,mobmentality.properties,available,10.99,,medium,low,13,name.com,,,
-9624a535-65a5-4468-8324-cc018f2e3aca,shadow.properties,available,,,medium,low,6,,,,
-e708b3ac-0b8b-4397-84f1-ecc659ab7af7,inkind.properties,available,15.98,43.98,low,low,7,namecheap,,,15/09/2026 04:38
-fea36061-024f-4ab1-a449-a22f700f71a4,sixth.properties,available,10.99,50.99,low,low,5,name.com,,,
+9624a535-65a5-4468-8324-cc018f2e3aca,shadow.properties,available,,,high,low,6,,,,
+fea36061-024f-4ab1-a449-a22f700f71a4,sixth.properties,available,10.99,50.99,high,low,5,name.com,,,
 cd33f5ac-a594-41c5-a8cf-975d4c5e367c,corresponding.properties,available,10.99,,high,low,13,name.com,,,
-8b6b823d-3e79-44c3-b30c-02a1d19bd315,husbandandwife.properties,available,10.99,,high,low,16,name.com,,,
-5a33d45f-b6f6-4f08-ac5f-d741d17b8746,quitean.properties,available,10.99,,medium,low,8,name.com,,,
 dd0495df-224e-4e0b-9db7-bcafc92e3e2f,wanting.properties,available,10.99,,high,low,7,name.com,,,
 7de20b5b-a888-4e73-9833-4f1f8e5ba66e,official.properties,premium,10.99,,high,low,8,name.com,,,
-7faf0f9d-6af0-4a47-816b-10591d4237b0,forthat.properties,available,10.99,,medium,low,8,name.com,,,
-776272b1-4966-4162-893c-135a8c08c28a,facts.properties,available,18.99,39.99,medium,low,5,namesilo,,,23/09/2026 17:41
-45564de1-24bf-4ff6-b205-5a597ddb2036,hole.properties,available,10.99,,medium,low,4,name.com,,,
-e9a6f852-37e8-4785-a135-26bb6872f750,knowwhat.properties,available,10.99,,medium,low,9,name.com,,,
-69e43853-6a93-42f9-88a2-9853f5fc6c68,himself.properties,available,10.99,,medium,low,7,name.com,,,
-e0d589bb-e664-4994-af86-5c6ef2f005de,anti.properties,available,10.99,50.99,medium,low,4,name.com,,,
-46a26004-2621-409d-99af-1209e8811a2e,sloped.properties,available,10.99,50.99,low,low,6,name.com,,,07/08/2026 04:26
-42e666d0-d8b4-4e2c-bd20-3bc6a880ea9f,adnate.properties,available,10.99,50.99,low,low,6,name.com,,,
-cd9fa07c-7f53-45ee-95ff-90d2c3d88cbe,board.properties,available,10.99,,medium,low,5,name.com,,,
-a559dec8-4404-4061-9616-7479d0732429,armillary.properties,available,10.99,50.99,low,low,9,name.com,,,06/08/2026 19:44
-04c7943c-3656-49fe-a3d0-61c10f14f727,inthehopethat.properties,available,10.99,,medium,low,16,name.com,,,
+45564de1-24bf-4ff6-b205-5a597ddb2036,hole.properties,available,10.99,,high,low,4,name.com,,,
+69e43853-6a93-42f9-88a2-9853f5fc6c68,himself.properties,available,10.99,,high,low,7,name.com,,,
+e0d589bb-e664-4994-af86-5c6ef2f005de,anti.properties,available,10.99,50.99,high,low,4,name.com,,,
+46a26004-2621-409d-99af-1209e8811a2e,sloped.properties,available,10.99,50.99,medium,low,6,name.com,,,07/08/2026 04:26
+42e666d0-d8b4-4e2c-bd20-3bc6a880ea9f,adnate.properties,available,10.99,50.99,medium,low,6,name.com,,,
+cd9fa07c-7f53-45ee-95ff-90d2c3d88cbe,board.properties,available,10.99,,high,low,5,name.com,,,
+a559dec8-4404-4061-9616-7479d0732429,armillary.properties,available,10.99,50.99,medium,low,9,name.com,,,06/08/2026 19:44
 944183b8-7a4f-450c-8335-dabfb9474d09,andrew.properties,available,10.99,,high,medium,6,name.com,,,
-0df260f3-751e-4b8f-8258-ccbd5aafef99,acentric.properties,available,10.99,50.99,low,low,8,name.com,,,
-a0d55bdd-a656-482a-9137-6c1c10f90762,travelagency.properties,available,10.99,,high,low,13,name.com,,,
-498e72fb-4fc4-4804-9743-9be4a1732592,cotyloidal.properties,available,10.99,50.99,low,low,10,name.com,,,
-9f026369-c2c4-4aaa-a935-5b60c0e45904,incompanywith.properties,available,10.99,,medium,low,15,name.com,,,
-4e6ebaf9-bd36-4d8c-82e8-a238a6f54bcf,withering.properties,available,10.99,50.99,low,low,9,name.com,,,
-3ec62e18-82bb-445f-93da-9d9a7f98db59,boarded.properties,available,10.99,,medium,low,7,name.com,,,
-f9bea96c-7c1f-4f87-b5c2-2c92dbce00b5,fungicide.properties,available,10.99,50.99,low,low,9,name.com,,,
-645b6019-ae84-4f35-8ccb-98117699312e,ingenuous.properties,available,10.99,50.99,low,low,9,name.com,,,06/08/2026 23:41
+0df260f3-751e-4b8f-8258-ccbd5aafef99,acentric.properties,available,10.99,50.99,medium,low,8,name.com,,,
+4e6ebaf9-bd36-4d8c-82e8-a238a6f54bcf,withering.properties,available,10.99,50.99,medium,low,9,name.com,,,
+3ec62e18-82bb-445f-93da-9d9a7f98db59,boarded.properties,available,10.99,,high,low,7,name.com,,,
+f9bea96c-7c1f-4f87-b5c2-2c92dbce00b5,fungicide.properties,available,10.99,50.99,high,low,9,name.com,,,
+645b6019-ae84-4f35-8ccb-98117699312e,ingenuous.properties,available,10.99,50.99,medium,low,9,name.com,,,06/08/2026 23:41
 60e53932-29b7-4c05-930f-0ba0a9991979,identify.properties,available,10.99,,high,low,8,name.com,,,
 b07b4857-acee-45b7-9461-e2c94e441844,cameroon.properties,available,,,high,low,8,,,,
-eeebe773-a7a8-462f-b729-3455f4479d28,awheel.properties,available,10.99,50.99,low,low,6,name.com,,,08/08/2026 01:05
-7759d8aa-8137-4260-9138-47a91d6bd428,fear.properties,available,10.99,50.99,medium,low,4,name.com,,,
+eeebe773-a7a8-462f-b729-3455f4479d28,awheel.properties,available,10.99,50.99,medium,low,6,name.com,,,08/08/2026 01:05
 e1578c87-2855-4028-b074-dd2991494399,attempt.properties,available,10.99,,high,low,7,name.com,,,
-cf0bcc76-0801-414a-bacf-b1ba34b082e2,hecksno.properties,available,10.99,,medium,low,8,name.com,,,
-8d736ab2-0c0d-4e6c-b94a-54363021701a,publicservant.properties,available,10.99,,high,low,14,name.com,,,
-63af857b-f198-4dd1-af1c-4199d36fcbda,dendriform.properties,available,10.99,50.99,low,low,10,name.com,,,06/08/2026 13:45
 ff81a0bc-cf69-4546-b145-60d3d96a4e80,kingdom.properties,available,,,high,low,7,,,,
-966114c7-fc8a-42df-8083-050be5591f2f,stairs.properties,available,10.99,,medium,low,6,name.com,,,
+966114c7-fc8a-42df-8083-050be5591f2f,stairs.properties,available,10.99,,high,low,6,name.com,,,
 96457b59-2ff9-4928-beac-9b846707c441,kgb.properties,available,10.99,,high,low,3,name.com,,,
 1639ba79-d507-4074-ab2e-1f4ca0b9933a,election.properties,available,10.99,,high,low,8,name.com,,,
 cde3086b-fbcc-4a62-b342-e9efa41a824b,warp.properties,available,10.99,,high,medium,4,name.com,,,
-ad0c855c-4bff-4147-bb7e-26e7d3ded88e,keepitreal.properties,available,10.99,,high,low,12,name.com,,,
-3c0c6c31-c408-4ace-9d7c-40ede723bc88,albinistic.properties,available,10.99,50.99,low,low,10,name.com,,,
-8df679cb-7964-48ff-925f-36a1bdd36740,workethic.properties,available,10.99,,high,low,10,name.com,,,
 5bddb43b-0f76-437f-ba7b-dd232455a8d5,contrast.properties,available,10.99,,high,low,8,name.com,,,
-29575fb8-05f8-44c5-ac16-8f0b4d1b9b81,ststephen.properties,available,10.99,,medium,low,10,name.com,,,
 86c3496d-619d-4777-b66a-d9eff791848b,xmas.properties,available,10.99,,high,low,4,name.com,,,
-3173fe15-0f2c-4d8c-85c2-6cbe7e16cdd9,ammoniac.properties,available,10.99,50.99,low,low,8,name.com,,,
-8523b9b4-9722-43dc-b023-0a9ac310943c,souls.properties,available,10.99,,low,low,5,name.com,,,
-8e36f70e-7707-4dee-951c-c9a5fd285e20,chagrined.properties,available,10.99,50.99,low,low,9,name.com,,,
+3173fe15-0f2c-4d8c-85c2-6cbe7e16cdd9,ammoniac.properties,available,10.99,50.99,medium,low,8,name.com,,,
+8523b9b4-9722-43dc-b023-0a9ac310943c,souls.properties,available,10.99,,high,low,5,name.com,,,
+8e36f70e-7707-4dee-951c-c9a5fd285e20,chagrined.properties,available,10.99,50.99,medium,low,9,name.com,,,
 ad4c90b2-5d3e-402e-bd5b-62f7c72d472f,bars.properties,available,10.99,,high,low,4,name.com,,,
-b2d69f0f-56de-42bf-86c4-2d30a53fd2f3,twothousand.properties,available,10.99,,low,low,12,name.com,,,
 a8e19872-2794-4f7f-9c85-dd49f156a678,screenshot.properties,available,10.99,,high,low,10,name.com,,,
-6a4b34cb-bd4b-4897-ae84-273c2d103a68,silly.properties,available,18.99,39.99,low,low,5,namesilo,,,21/09/2026 23:43
-2b81a6bc-59bc-4f79-a81f-9429da3f060c,esthetic.properties,available,15.98,43.98,medium,low,8,namecheap,,,21/09/2026 21:16
-32c67697-6311-4afd-958f-4744f2a1e608,summertire.properties,available,10.99,,high,low,11,name.com,,,
 2f8b5b02-a311-4b8c-bfaf-4154f0d2c302,couple.properties,available,10.99,,high,low,6,name.com,,,
-0e435dba-f544-4591-aa81-6b3ed2fa095d,gift.properties,premium,118.8,118.8,high,low,4,namesilo,,,
-0ab1dec1-a2ed-465a-a14d-a24a777c450b,ablaze.properties,available,10.99,50.99,low,low,6,name.com,,,
-117372f9-c55a-4912-be5a-09b732405a77,face.properties,available,10.99,,high,low,4,name.com,,,
-a2f02314-8a5d-4b6d-8b4d-072e3bec77a0,sickandtired.properties,available,10.99,,medium,low,14,name.com,,,
-dd70310a-b4ed-4a6f-be47-6002fd9e9ac7,lxiii.properties,available,10.99,50.99,low,low,5,name.com,,,
-3e75cab4-db9c-4dd4-8071-9a9be5aba8e8,display.properties,available,10.99,,high,low,7,name.com,,,
+0ab1dec1-a2ed-465a-a14d-a24a777c450b,ablaze.properties,available,10.99,50.99,high,low,6,name.com,,,
+dd70310a-b4ed-4a6f-be47-6002fd9e9ac7,lxiii.properties,available,10.99,50.99,medium,low,5,name.com,,,
 1f3f4ea1-e88f-46b4-b806-972d95d0c794,brain.properties,resell,,,high,medium,5,"Sav.com, LLC - 28",14/04/2026 15:15,14/04/2027 15:15,
-8b9bce8c-1dc2-4248-9e53-45dd7820a2de,hearable.properties,available,10.99,50.99,low,low,8,name.com,,,07/08/2026 16:35
-7567214c-f9c1-4211-b740-5ce5cf200e4f,absorbent.properties,available,10.99,50.99,medium,low,9,name.com,,,
+8b9bce8c-1dc2-4248-9e53-45dd7820a2de,hearable.properties,available,10.99,50.99,medium,low,8,name.com,,,07/08/2026 16:35
+7567214c-f9c1-4211-b740-5ce5cf200e4f,absorbent.properties,available,10.99,50.99,high,low,9,name.com,,,
 ecf4fe41-b4d4-4653-af8a-f7d213647188,stops.properties,available,10.99,,high,low,5,name.com,,,
-946a7de1-b8b4-4fe9-be4d-69d964febc52,autogamic.properties,available,10.99,50.99,low,low,9,name.com,,,07/08/2026 20:11
 480fa728-86b8-4ed7-a37e-177a0774e70b,onto.properties,available,10.99,,high,low,4,name.com,,,
-ac3a281d-e9c2-4790-b64d-6f735851842d,flaxseedoil.properties,available,10.99,,high,low,12,name.com,,,
-948fa849-3cf9-44a7-9e61-6e7b7e06eb03,nowandthen.properties,available,10.99,,low,low,12,name.com,,,
-d67f8867-5cb7-4a89-aaaf-c582ca7dea02,beatup.properties,available,10.99,50.99,low,low,7,name.com,,,22/09/2026 18:16
-de38d168-4071-4e74-99ac-6665dddd0857,process.properties,available,15.98,43.98,medium,low,7,namecheap,,,23/09/2026 09:17
-90ccf2f4-3e78-4aba-88df-c89aa0b565dc,centralised.properties,available,10.99,,medium,low,11,name.com,,,
-8e6b6f7c-bf83-43cb-95df-d57f022b7ee2,stock.properties,available,10.99,,medium,medium,5,name.com,,,
-40d14ea8-ca33-4425-92a5-70eec81bc962,amount.properties,available,10.99,,high,low,6,name.com,,,
+90ccf2f4-3e78-4aba-88df-c89aa0b565dc,centralised.properties,available,10.99,,high,low,11,name.com,,,
+8e6b6f7c-bf83-43cb-95df-d57f022b7ee2,stock.properties,available,10.99,,high,medium,5,name.com,,,
 73f5ca96-f8d2-4487-ac93-ff30985a579b,friend.properties,premium,854,854,high,low,6,namesilo,,,
-5a49604c-1d2d-4820-af01-dabc081bbffe,skateboarding.properties,available,10.99,,low,low,13,name.com,,,
+5a49604c-1d2d-4820-af01-dabc081bbffe,skateboarding.properties,available,10.99,,high,low,13,name.com,,,
 aeda4ed4-b604-40a0-8ec3-b1c7435a152c,respectively.properties,available,10.99,,medium,low,12,name.com,,,
-3e4260e6-cdbf-42a7-afea-70d2cef114e9,bewildered.properties,available,10.99,50.99,low,low,10,name.com,,,07/08/2026 11:52
-6ed6cf83-0bc6-462e-9a09-9e1ee4a1a751,scrubbed.properties,available,10.99,,medium,low,8,name.com,,,
-a524937f-377b-4538-a97f-bd5d0c76c5aa,slave.properties,available,10.99,,medium,low,5,name.com,,,
-b0d4abae-4757-41bd-ae44-ea593109ca5c,outside.properties,available,18.99,39.99,medium,low,7,namesilo,,,21/09/2026 23:49
-8f4d15e0-180a-4b27-935d-e4f04209d296,bill.properties,available,18.99,39.99,low,low,4,namesilo,,,19/09/2026 17:00
-30ffbbc5-0cdd-4497-9e3f-4617149c79d7,teaplant.properties,available,10.99,,high,low,9,name.com,,,
-e8c64e01-668d-4257-b44d-700fa372d66b,activistic.properties,available,10.99,50.99,low,low,10,name.com,,,
-7857aea8-b55a-4f32-9e31-e9382ebbe9a1,lxvi.properties,available,10.99,50.99,low,low,4,name.com,,,
-06be9813-5615-43c7-807d-7b40df07420d,tabby.properties,available,15.98,43.98,low,low,5,namecheap,,,23/09/2026 09:31
-115138e3-12dd-480c-9e0d-0a93fc62437e,plants.properties,available,10.99,,medium,low,6,name.com,,,
+3e4260e6-cdbf-42a7-afea-70d2cef114e9,bewildered.properties,available,10.99,50.99,medium,low,10,name.com,,,07/08/2026 11:52
+6ed6cf83-0bc6-462e-9a09-9e1ee4a1a751,scrubbed.properties,available,10.99,,high,low,8,name.com,,,
+a524937f-377b-4538-a97f-bd5d0c76c5aa,slave.properties,available,10.99,,high,low,5,name.com,,,
+7857aea8-b55a-4f32-9e31-e9382ebbe9a1,lxvi.properties,available,10.99,50.99,medium,low,4,name.com,,,
+115138e3-12dd-480c-9e0d-0a93fc62437e,plants.properties,available,10.99,,high,low,6,name.com,,,
 d2727f3b-f21d-4c4d-9409-db880a949c29,heat.properties,available,10.99,,high,low,4,name.com,,,
 7111cec6-d82a-4349-9898-30fa48589671,thinking.properties,available,10.99,,high,low,8,name.com,,,
-966016fa-6940-4958-a25d-6094c1a3f8c7,friendly.properties,premium,854,854,medium,low,8,namesilo,,,08/09/2026 09:53
-7aa93c0c-73ff-4057-9f8f-70febef87d65,antepartum.properties,available,18.99,39.99,medium,low,10,namesilo,,,22/09/2026 06:01
-e7decaed-e103-4659-bea0-1c1b21c0dd1b,riveravon.properties,available,10.99,,high,low,10,name.com,,,
 a1cc0a54-2e67-4a72-9313-80590b107a50,possess.properties,available,10.99,,high,low,7,name.com,,,
 a89b7376-1f54-4e7e-bde3-d2131a1532d5,regardless.properties,available,10.99,,high,low,10,name.com,,,
-e47eff1e-7138-49bf-bcdd-48ca43b9ca92,natural.properties,available,15.98,43.98,medium,low,7,namecheap,,,08/09/2026 12:12
-b3edffe9-6d94-446c-bce8-36e1a06b7af5,annualreport.properties,available,10.99,,high,low,13,name.com,,,
-20d04c3c-4e33-4be4-b770-e7db6698ae1d,wondrous.properties,available,10.99,,high,low,8,name.com,,,
-a0d70d03-afb3-47cf-a936-1e2741826ff8,jehovah.properties,available,10.99,50.99,low,low,7,name.com,,,
-3b5ed027-1b1c-4e1c-afac-9cf9f46af874,antidromic.properties,available,10.99,50.99,low,low,10,name.com,,,
-3f99ba21-ded8-4b1b-a9a9-0ac81809dd74,thirtyone.properties,available,10.99,50.99,low,low,10,name.com,,,
-446339e9-27b4-4c28-b3fa-6bbda7cab846,atleast.properties,available,10.99,,medium,low,8,name.com,,,
-25184733-8b3d-4fd5-8ac5-dfe52dacdffb,firstname.properties,available,10.99,,high,low,10,name.com,,,
-ff5f386e-c181-4749-b1f0-ca63af2ec3a2,apraxic.properties,available,10.99,50.99,low,low,7,name.com,,,06/08/2026 09:55
-be13c3fc-cc44-43b2-abdd-be554e5b0134,suspension.properties,available,10.99,,medium,low,10,name.com,,,
-73910690-e549-43e9-8afb-9b4752e92a18,adducent.properties,available,10.99,50.99,low,low,8,name.com,,,
-67a500ae-d414-415b-89b4-e461a018cbef,ternary.properties,available,10.99,50.99,low,low,7,name.com,,,
-3413fa82-1493-4151-a143-8eb7a55093e8,intersection.properties,available,10.99,,medium,low,12,name.com,,,
+e47eff1e-7138-49bf-bcdd-48ca43b9ca92,natural.properties,available,15.98,43.98,high,low,7,namecheap,,,08/09/2026 12:12
+a0d70d03-afb3-47cf-a936-1e2741826ff8,jehovah.properties,available,10.99,50.99,high,low,7,name.com,,,
+be13c3fc-cc44-43b2-abdd-be554e5b0134,suspension.properties,available,10.99,,high,low,10,name.com,,,
+73910690-e549-43e9-8afb-9b4752e92a18,adducent.properties,available,10.99,50.99,medium,low,8,name.com,,,
+67a500ae-d414-415b-89b4-e461a018cbef,ternary.properties,available,10.99,50.99,high,low,7,name.com,,,
+3413fa82-1493-4151-a143-8eb7a55093e8,intersection.properties,available,10.99,,high,low,12,name.com,,,
 64a0e1a7-4dd5-4501-a5dc-ffbbf66e0146,potato.properties,available,10.99,,high,low,6,name.com,,,
-d35d1e74-40f4-45e5-b619-3ae6307cf4e8,ally.properties,available,,,medium,low,4,,,,
+d35d1e74-40f4-45e5-b619-3ae6307cf4e8,ally.properties,available,,,high,low,4,,,,
 52ccbff6-03a3-4ed1-b234-a96f5c25e093,mentioned.properties,available,10.99,,medium,low,9,name.com,,,
-763791fd-b7b6-43be-809b-4e85da82a552,alternate.properties,available,18.99,39.99,low,low,9,namesilo,,,22/09/2026 02:29
-b34a68d4-095e-494f-8ea2-285670710589,analytic.properties,available,10.99,50.99,low,low,8,name.com,,,
-060800e1-8c9b-4a03-a54c-cc85bef62c71,accrued.properties,available,10.99,50.99,low,low,7,name.com,,,
+b34a68d4-095e-494f-8ea2-285670710589,analytic.properties,available,10.99,50.99,high,low,8,name.com,,,
+060800e1-8c9b-4a03-a54c-cc85bef62c71,accrued.properties,available,10.99,50.99,high,low,7,name.com,,,
 d9b77104-18d9-40bd-93af-20ba1fe4b9e7,piss.properties,available,10.99,,high,low,4,name.com,,,
-0db49cde-7c54-4acf-85b5-46e160a574b3,sickly.properties,available,10.99,50.99,low,low,6,name.com,,,
-2265ef97-7926-46d5-82c3-875a7b0e32da,decumbent.properties,available,10.99,50.99,low,low,9,name.com,,,
+0db49cde-7c54-4acf-85b5-46e160a574b3,sickly.properties,available,10.99,50.99,high,low,6,name.com,,,
 177fa75c-f426-40d6-bda2-93a49b56a3cb,circus.properties,available,10.99,,high,low,6,name.com,,,
-8de7178e-6c29-4202-900f-aa842627909c,yesno.properties,available,10.99,,low,low,6,name.com,,,
-105af3a4-4672-4603-8d03-e783866f5a9c,northkorea.properties,available,10.99,,low,low,11,name.com,,,
 b04ad8ff-a810-4b3c-bcc2-b26da9f421a8,allergy.properties,available,10.99,,high,low,7,name.com,,,
 b00135bd-0596-41d1-a491-4cb52f176f96,succeed.properties,available,10.99,,high,low,7,name.com,,,
-e93cf101-e4eb-40b0-afe2-0c74c38327a3,acidotic.properties,available,10.99,50.99,low,low,8,name.com,,,
+e93cf101-e4eb-40b0-afe2-0c74c38327a3,acidotic.properties,available,10.99,50.99,medium,low,8,name.com,,,
 41b8464c-5201-47c6-82dc-36684eea4351,dismiss.properties,available,10.99,,high,low,7,name.com,,,
-1b56f134-fe16-4ff9-9966-2c1189e758f9,trap.properties,available,10.99,,medium,low,4,name.com,,,
-e5905d62-8ef2-442a-bef3-5e9b53f1479c,inthefastlane.properties,available,10.99,,medium,low,16,name.com,,,
-dd281af0-d978-4537-a5c9-d7e56a4c8d02,xxvii.properties,available,10.99,50.99,low,low,5,name.com,,,
-c10782c4-83ad-4923-9671-1996a10f5619,hardcider.properties,available,10.99,,high,low,10,name.com,,,
-2fb607dd-6b9b-42f2-82bb-aed47b91d731,alate.properties,available,10.99,50.99,low,low,5,name.com,,,
+1b56f134-fe16-4ff9-9966-2c1189e758f9,trap.properties,available,10.99,,high,low,4,name.com,,,
+dd281af0-d978-4537-a5c9-d7e56a4c8d02,xxvii.properties,available,10.99,50.99,medium,low,5,name.com,,,
+2fb607dd-6b9b-42f2-82bb-aed47b91d731,alate.properties,available,10.99,50.99,high,low,5,name.com,,,
 125bfb4d-e55b-4f6d-a2b4-d7a780e10306,vegetarian.properties,available,10.99,,high,low,10,name.com,,,
-4547172f-1f75-4c9a-8f1f-218898fa7178,anapestic.properties,available,10.99,50.99,low,low,9,name.com,,,
-f8bb729d-e368-4b3f-8b9b-ad3846807f84,seeingas.properties,available,10.99,,medium,low,9,name.com,,,
-24696a5b-f64b-481c-be60-921f331edf78,flags.properties,available,10.99,,medium,low,5,name.com,,,
+24696a5b-f64b-481c-be60-921f331edf78,flags.properties,available,10.99,,high,low,5,name.com,,,
 4d2bf6f3-ce51-4b4a-9393-6b5ceb49a32c,kilo.properties,available,10.99,,high,low,4,name.com,,,
-d1fbc63b-cdc4-40f2-8818-7aa950524300,anangelpasses.properties,available,10.99,,medium,low,15,name.com,,,
-6b4cb2b7-64db-44d3-8948-c4f689ef61c5,barbellate.properties,available,10.99,50.99,low,low,10,name.com,,,08/08/2026 16:57
-6b6201fe-eeac-421a-8d8d-08b68e8fb6ec,xvi.properties,premium,38.94,38.94,low,low,3,namesilo,,,21/09/2026 11:49
 ccf0be72-0f52-4c91-8b15-985356c34584,erase.properties,available,10.99,,high,low,5,name.com,,,
-60806f3a-663e-47af-a124-4bafdffd438a,awol.properties,available,10.99,50.99,low,low,4,name.com,,,08/08/2026 01:46
-5bed6018-e186-4e8a-9077-76846aa32467,covering.properties,available,10.99,,medium,low,8,name.com,,,
-55e5a784-f959-4720-8828-488f4755125c,thirteen.properties,available,15.98,43.98,medium,low,8,namecheap,,,21/09/2026 11:32
+60806f3a-663e-47af-a124-4bafdffd438a,awol.properties,available,10.99,50.99,high,low,4,name.com,,,08/08/2026 01:46
+5bed6018-e186-4e8a-9077-76846aa32467,covering.properties,available,10.99,,high,low,8,name.com,,,
 8d0833e9-7c99-4a63-9540-11239ec86a39,khakis.properties,available,10.99,,high,low,6,name.com,,,
-849b86c2-766f-4791-9ac9-3c19efe7d380,absolute.properties,available,18.99,39.99,medium,low,8,namesilo,,,21/09/2026 14:42
-db2163c3-6b04-45f9-8305-695d7e21c108,atrocious.properties,available,18.99,39.99,low,low,9,namesilo,,,22/09/2026 11:11
-39dc995b-9da4-4bb5-8e4c-669d6b0b4e5b,suntea.properties,available,10.99,,high,low,7,name.com,,,
 9cb17662-dcab-4374-8f13-8a7262a74317,prudent.properties,available,10.99,,high,low,7,name.com,,,
 2e6f3944-907b-4126-8458-cc4e7ca09f5d,gently.properties,available,10.99,,high,low,6,name.com,,,
-0d2579a4-9be4-4b0d-b75b-ad758f6a29c1,sanative.properties,available,10.99,50.99,low,low,8,name.com,,,
+0d2579a4-9be4-4b0d-b75b-ad758f6a29c1,sanative.properties,available,10.99,50.99,medium,low,8,name.com,,,
 a8ed0186-80e6-42ff-ba7b-76b020f4f1a5,laughter.properties,available,10.99,,high,low,8,name.com,,,
-9746cdfd-3880-4b43-beca-e3611b40561e,buttocks.properties,available,10.99,50.99,low,low,8,name.com,,,09/08/2026 10:25
+9746cdfd-3880-4b43-beca-e3611b40561e,buttocks.properties,available,10.99,50.99,medium,low,8,name.com,,,09/08/2026 10:25
 a035f5f7-1231-4564-bc61-96d968025f49,checklist.properties,available,10.99,,high,low,9,name.com,,,
 0b896a68-3f70-4a0b-a899-a2bea1bd1f89,immense.properties,available,10.99,,high,low,7,name.com,,,
-fc69c5b0-2b1e-43a2-b8fb-3ce2ff1a2a08,inthreedays.properties,available,10.99,,medium,low,13,name.com,,,
-ef8f560d-9c34-4eb3-9cf4-105db7873b75,admissive.properties,available,10.99,50.99,low,low,9,name.com,,,
 cd7485f7-1c63-4480-a9b6-fa710fcbf335,peaking.properties,available,10.99,,high,low,7,name.com,,,
-551a53cd-d14b-46e2-9cc7-7036e1891e86,judgement.properties,available,10.99,,medium,low,9,name.com,,,
+551a53cd-d14b-46e2-9cc7-7036e1891e86,judgement.properties,available,10.99,,high,low,9,name.com,,,
 2573afe3-151e-4b38-bc05-3d96b02b3cc4,cleaner.properties,available,10.99,,high,low,7,name.com,,,
 cc8f4fa2-fc87-4b45-a5b1-88b4da6ff908,educational.properties,available,10.99,,high,low,11,name.com,,,
-13d9bbb1-923c-4d6e-bbd8-880bb8ead954,howwouldiknow.properties,available,10.99,,medium,low,16,name.com,,,
-ade06482-ec81-4040-b27f-be01ed69cf35,drivethru.properties,available,10.99,,high,low,10,name.com,,,
-fdef1ecd-5406-43b7-89ae-6e58d3db64bc,enlivening.properties,available,10.99,50.99,low,low,10,name.com,,,
-5c5e5b23-cd9c-4203-8f69-06971d3a4501,material.properties,premium,78.54,78.54,medium,low,8,namesilo,,,23/09/2026 23:27
-7df92930-5bf6-4b11-88fb-a17639945d46,scientist.properties,available,10.99,,high,low,9,name.com,,,
-c95af6c0-b03d-4c64-b601-aba1fa038167,allometric.properties,available,10.99,50.99,low,low,10,name.com,,,
+fdef1ecd-5406-43b7-89ae-6e58d3db64bc,enlivening.properties,available,10.99,50.99,medium,low,10,name.com,,,
+c95af6c0-b03d-4c64-b601-aba1fa038167,allometric.properties,available,10.99,50.99,medium,low,10,name.com,,,
 8a94fd06-04ee-4518-af5b-24e4a8dc9c61,grip.properties,available,10.99,,high,low,4,name.com,,,
-cc19cde1-fbb5-4eae-a3e8-ecacc8d89736,assonant.properties,available,10.99,50.99,low,low,8,name.com,,,07/08/2026 07:20
-d31cdd74-8a2b-4ce2-b492-fedc7c9c706e,bounce.properties,available,18.99,39.99,medium,low,6,namesilo,,,23/09/2026 01:22
 dfb55c8d-4c69-40a4-8be1-65ee085c187f,usually.properties,available,10.99,,high,low,7,name.com,,,
-2eec06e9-01ac-42cb-ba56-bdaed2db959a,interior.properties,premium,118.8,118.8,medium,low,8,namesilo,,,
-601f34f7-f435-47b8-ad3e-f7266a0e7335,arenaceous.properties,available,10.99,50.99,low,low,10,name.com,,,06/08/2026 17:26
-e2e848f8-f002-4995-9979-01e40dbf4b48,mothahfuckah.properties,available,10.99,,medium,low,12,name.com,,,
-e6917da7-6468-4999-a4a9-7a8deea7fe0e,aminic.properties,available,10.99,50.99,low,low,6,name.com,,,
-179f5131-5ce9-4723-a8c6-588b4dc38c9a,rearwards.properties,available,10.99,50.99,low,low,9,name.com,,,08/08/2026 06:56
-7475eb41-b8b3-4cf8-a5fc-3811940e7474,jewnose.properties,available,10.99,,medium,low,8,name.com,,,
+2eec06e9-01ac-42cb-ba56-bdaed2db959a,interior.properties,premium,118.8,118.8,high,low,8,namesilo,,,
 37ce9be8-8989-481e-9dfd-ae7ba08d6073,under.properties,available,10.99,,high,low,5,name.com,,,
-2a13003a-2609-4802-9b1b-b61ddfd58e93,netherlands.properties,available,,,medium,low,11,,,,
-f5f3f3d4-32d7-4ed7-a4f8-49ea1e34fc15,nutrient.properties,available,15.98,43.98,medium,low,8,namecheap,,,08/09/2026 11:42
-0c53aae4-670f-4cab-add0-33090ad8bc1b,received.properties,available,10.99,,medium,low,8,name.com,,,
-33ca3b9b-f80c-4b6a-891a-c80406063420,intears.properties,available,10.99,,medium,low,8,name.com,,,
-5dbc902a-f3ae-4e7f-aaf0-61bba8b44059,assured.properties,available,10.99,50.99,low,low,7,name.com,,,07/08/2026 08:21
-883b7dbd-7e60-4cef-9b8f-e5d45389397e,blind.properties,available,18.99,39.99,low,low,5,namesilo,,,22/09/2026 21:56
-1c44aaae-49c5-413e-b1fe-19b4192617e5,generalpublic.properties,available,10.99,,high,low,14,name.com,,,
-f82dcf67-83a6-4a91-a6e7-30d1d16ed992,dowhat.properties,available,10.99,,medium,low,7,name.com,,,
-60001eb9-079f-410a-84d2-5c0e056a436c,proof.properties,available,15.98,43.98,medium,low,5,namecheap,,,23/09/2026 16:02
-f7c987c4-f762-44d3-b533-d187d78d1abd,columbia.properties,premium,118.8,118.8,medium,medium,8,namesilo,,,
-20820d68-bfac-4aff-a195-f4802bfd8c6a,generalquarters.properties,available,10.99,,medium,low,16,name.com,,,
+2a13003a-2609-4802-9b1b-b61ddfd58e93,netherlands.properties,available,,,high,low,11,,,,
+f5f3f3d4-32d7-4ed7-a4f8-49ea1e34fc15,nutrient.properties,available,15.98,43.98,high,low,8,namecheap,,,08/09/2026 11:42
+0c53aae4-670f-4cab-add0-33090ad8bc1b,received.properties,available,10.99,,high,low,8,name.com,,,
+5dbc902a-f3ae-4e7f-aaf0-61bba8b44059,assured.properties,available,10.99,50.99,high,low,7,name.com,,,07/08/2026 08:21
+f7c987c4-f762-44d3-b533-d187d78d1abd,columbia.properties,premium,118.8,118.8,high,medium,8,namesilo,,,
 9ff72b60-3fbb-4c79-a59c-0b4acafd71c1,actually.properties,available,10.99,,high,low,8,name.com,,,
-d8f9823b-6140-416f-81ac-57662bab3963,soothing.properties,available,10.99,50.99,low,low,8,name.com,,,07/08/2026 07:40
+d8f9823b-6140-416f-81ac-57662bab3963,soothing.properties,available,10.99,50.99,high,low,8,name.com,,,07/08/2026 07:40
 2e9c0ba7-0a6b-458a-b64a-0d14b524aea4,examine.properties,available,10.99,,high,low,7,name.com,,,
-657c2569-e437-458f-876b-94c42dafdfa5,crack.properties,available,10.99,50.99,medium,low,5,name.com,,,
-959471e3-7157-4c9f-8175-3bf69292d619,abducent.properties,available,10.99,50.99,low,low,8,name.com,,,
+657c2569-e437-458f-876b-94c42dafdfa5,crack.properties,available,10.99,50.99,high,low,5,name.com,,,
+959471e3-7157-4c9f-8175-3bf69292d619,abducent.properties,available,10.99,50.99,medium,low,8,name.com,,,
 de219a3e-b14c-48b0-a7ed-ba0e38b4a011,music.properties,premium,854,854,high,medium,5,namesilo,,,
-998c00ef-1944-4397-913b-ca2e9a4d3993,allergic.properties,available,18.99,39.99,medium,low,8,namesilo,,,22/09/2026 01:25
-3f0738fa-cc82-4751-8022-d8bdb8d549a4,controlled.properties,available,18.99,39.99,low,low,10,namesilo,,,23/09/2026 22:39
-88222ee8-1940-49e4-a6c3-3210cb11f85c,eyeofthestorm.properties,available,10.99,,medium,low,16,name.com,,,
 15a4d8dc-e169-4421-852d-c85ad34a7616,represent.properties,available,10.99,,high,low,9,name.com,,,
-d3921c81-56a7-4c74-8036-0a4b19e2ae0a,gobothways.properties,available,10.99,,medium,low,12,name.com,,,
-f809be04-f039-407d-a230-c6ff71fb8589,abradant.properties,available,10.99,50.99,low,low,8,name.com,,,
-c7d8967d-fa46-42b3-9e53-2567ed564cf9,bemused.properties,available,10.99,50.99,low,low,7,name.com,,,07/08/2026 11:47
+f809be04-f039-407d-a230-c6ff71fb8589,abradant.properties,available,10.99,50.99,medium,low,8,name.com,,,
+c7d8967d-fa46-42b3-9e53-2567ed564cf9,bemused.properties,available,10.99,50.99,medium,low,7,name.com,,,07/08/2026 11:47
 4d01d59c-02a7-40aa-a992-7c8850801125,bargain.properties,premium,854,854,high,low,7,namesilo,,,
 15a9813d-b7a7-4742-8ce9-c1a22c8035f8,diner.properties,available,10.99,,high,low,5,name.com,,,
-ac9f15f7-768c-4ac8-807d-ad8855feee96,criticise.properties,available,10.99,,medium,low,9,name.com,,,
-c2b56b7d-c5aa-4c65-9239-ab580b2c5536,created.properties,available,10.99,,medium,low,7,name.com,,,
-96c693a6-79d0-4fd5-8b18-cb1f024c7347,leaning.properties,available,10.99,50.99,low,low,7,name.com,,,07/08/2026 13:24
-dd70529a-fae5-406e-baf0-939f3cbbc7cf,aspirant.properties,available,10.99,50.99,low,low,8,name.com,,,07/08/2026 05:02
-b76ac2e0-1b73-4a9d-8688-1d1591baaaea,fuckinghell.properties,available,10.99,,medium,low,12,name.com,,,
-9160257e-85e1-4099-9e4f-03a65038ef4f,deserter.properties,available,10.99,50.99,low,low,8,name.com,,,06/08/2026 03:40
-63984f4a-88e3-48b7-971c-28f2ed8d868c,vain.properties,available,18.99,39.99,low,low,4,namesilo,,,22/09/2026 23:50
+ac9f15f7-768c-4ac8-807d-ad8855feee96,criticise.properties,available,10.99,,high,low,9,name.com,,,
+c2b56b7d-c5aa-4c65-9239-ab580b2c5536,created.properties,available,10.99,,high,low,7,name.com,,,
+96c693a6-79d0-4fd5-8b18-cb1f024c7347,leaning.properties,available,10.99,50.99,high,low,7,name.com,,,07/08/2026 13:24
+dd70529a-fae5-406e-baf0-939f3cbbc7cf,aspirant.properties,available,10.99,50.99,medium,low,8,name.com,,,07/08/2026 05:02
+9160257e-85e1-4099-9e4f-03a65038ef4f,deserter.properties,available,10.99,50.99,medium,low,8,name.com,,,06/08/2026 03:40
 f0c868a6-a714-49b2-8c20-ee3b4568d634,gratitude.properties,available,10.99,,high,low,9,name.com,,,
-332c1102-5f27-406d-8e0a-d15a7cf0df39,shy.properties,premium,78.54,78.54,medium,low,3,namesilo,,,
-13295a6a-6f78-4ce5-a913-c8886f985e62,agrologic.properties,available,10.99,50.99,low,low,9,name.com,,,
-357da5c2-8114-4c45-830f-9ed0d9c81e7a,alto.properties,available,10.99,50.99,low,low,4,name.com,,,
-e20bf7e3-2ef8-4d14-9b03-a7329876fb04,sacrificial.properties,available,10.99,,low,low,11,name.com,,,
-b6dcea22-3e2e-4a02-b959-f6fc2f9be5ed,avertable.properties,available,10.99,50.99,low,low,9,name.com,,,07/08/2026 23:01
+332c1102-5f27-406d-8e0a-d15a7cf0df39,shy.properties,premium,78.54,78.54,high,low,3,namesilo,,,
+13295a6a-6f78-4ce5-a913-c8886f985e62,agrologic.properties,available,10.99,50.99,medium,low,9,name.com,,,
+357da5c2-8114-4c45-830f-9ed0d9c81e7a,alto.properties,available,10.99,50.99,high,low,4,name.com,,,
+e20bf7e3-2ef8-4d14-9b03-a7329876fb04,sacrificial.properties,available,10.99,,high,low,11,name.com,,,
 1065209a-6d01-41da-8616-0a82452c6d9c,buzzed.properties,available,10.99,,high,low,6,name.com,,,
-5e22944a-f22e-4843-9822-9ac619b30093,adsorbable.properties,available,10.99,50.99,low,low,10,name.com,,,
-ad9d5ebc-c567-499b-8a95-ec3291f0a742,soaker.properties,available,10.99,50.99,low,low,6,name.com,,,
-e5fffa90-52b1-43d4-a759-88def4f45392,coverup.properties,available,10.99,,medium,low,8,name.com,,,
+ad9d5ebc-c567-499b-8a95-ec3291f0a742,soaker.properties,available,10.99,50.99,medium,low,6,name.com,,,
 4d91ff1e-4eb7-441a-9513-0eaa3cb28e94,coat.properties,available,10.99,,high,low,4,name.com,,,
 a3a41e84-db36-44c6-860f-052f30a7dea7,donation.properties,available,10.99,,high,low,8,name.com,,,
 ca68d3cb-23e9-49b1-8efd-3596c4300c2d,ike.properties,available,10.99,,high,low,3,name.com,,,
-26963d07-24a7-4358-ba3e-816dcad07ab3,noble.properties,resell,,,medium,low,5,"Sav.com, LLC",25/07/2025 17:07,25/07/2027 17:07,08/08/2026 20:18
-f55e95bd-e855-4550-8f52-f35130138c69,groundstaff.properties,available,10.99,,medium,low,12,name.com,,,
-a5000c7d-e663-4b2c-8f64-6128d2038ea1,arouse.properties,available,10.99,50.99,medium,low,6,name.com,,,07/08/2026 23:59
+26963d07-24a7-4358-ba3e-816dcad07ab3,noble.properties,resell,,,high,low,5,"Sav.com, LLC",25/07/2025 17:07,25/07/2027 17:07,08/08/2026 20:18
+a5000c7d-e663-4b2c-8f64-6128d2038ea1,arouse.properties,available,10.99,50.99,high,low,6,name.com,,,07/08/2026 23:59
 286104c3-70cd-4c31-a365-ff40197eb600,attachment.properties,available,10.99,,high,low,10,name.com,,,
-a8a1f0d5-ff9d-4522-857e-7746a232e9c6,seals.properties,available,10.99,,medium,low,5,name.com,,,
+a8a1f0d5-ff9d-4522-857e-7746a232e9c6,seals.properties,available,10.99,,high,low,5,name.com,,,
 6f388ae5-f7b1-4f0f-9c1f-c8a4984a92e9,chime.properties,available,10.99,,high,low,5,name.com,,,
-fdef80dc-535f-4b33-bd7e-38cb46777b9f,head.properties,available,15.98,43.98,low,low,4,namecheap,,,23/09/2026 14:18
-780886b9-1473-42d9-9d5f-a0c7801ac631,sandlike.properties,available,10.99,50.99,low,low,8,name.com,,,06/08/2026 17:36
-4b9ead95-c5a1-4675-8fef-4c46da1e07ed,mixedup.properties,available,10.99,50.99,low,low,8,name.com,,,07/08/2026 12:12
-e626bd8e-647c-4da1-8808-5c4cb92b218d,difficulty.properties,available,10.99,,medium,low,10,name.com,,,
-104cedc6-acba-4e14-ada2-a7954401eae7,genial.properties,available,18.99,39.99,medium,low,6,namesilo,,,21/09/2026 21:42
-b376f91e-355a-4d9b-a8be-3ebdc09c9c71,turned.properties,available,10.99,,medium,low,6,name.com,,,
-e67d1bc8-e383-4384-9d7f-a9d395aadba4,onequarter.properties,available,10.99,,low,low,11,name.com,,,
+e626bd8e-647c-4da1-8808-5c4cb92b218d,difficulty.properties,available,10.99,,high,low,10,name.com,,,
+b376f91e-355a-4d9b-a8be-3ebdc09c9c71,turned.properties,available,10.99,,high,low,6,name.com,,,
 8ac0b4db-521c-442c-b040-74e5901418f5,highlighting.properties,available,10.99,,high,low,12,name.com,,,
-5554ef43-81ac-44f5-8b3d-accebaba04a9,engrossing.properties,available,10.99,50.99,low,low,10,name.com,,,
-d1da05d6-1b42-4e0c-a9b1-0968e38ddb0e,ashgray.properties,available,10.99,50.99,low,low,8,name.com,,,07/08/2026 01:59
+5554ef43-81ac-44f5-8b3d-accebaba04a9,engrossing.properties,available,10.99,50.99,high,low,10,name.com,,,
 779c472e-3609-4257-8983-622120852c15,pointy.properties,available,10.99,,high,low,6,name.com,,,
-65c27592-c9e6-4a66-a0c7-af78186f94da,subrosa.properties,available,10.99,50.99,low,low,8,name.com,,,09/08/2026 12:09
-e77194d7-cacf-4f76-bd0e-06763f88fcdf,affixial.properties,available,10.99,50.99,low,low,8,name.com,,,
-a0c7f0b7-82c2-4eff-a0c7-8e6432b27f31,sob.properties,premium,38.94,38.94,low,low,3,namesilo,,,08/08/2026 23:48
-6b553f5f-4bc8-4c1b-978a-00917601c672,generalsurgery.properties,available,10.99,,high,low,15,name.com,,,
+a0c7f0b7-82c2-4eff-a0c7-8e6432b27f31,sob.properties,premium,38.94,38.94,high,low,3,namesilo,,,08/08/2026 23:48
 40d2ee7d-b675-4baf-933c-a61ff19eb73a,rage.properties,available,10.99,,high,low,4,name.com,,,
 a88b4590-4a23-4b68-9a7d-07eb0e72f5dd,affect.properties,available,10.99,,high,low,6,name.com,,,
-48c25e0e-6860-4e94-a627-3b7e0d78e9d4,antonymous.properties,available,10.99,50.99,low,low,10,name.com,,,05/08/2026 20:16
-cd4bcb5b-3479-462d-b841-5969c50afd2b,sexwork.properties,available,10.99,,low,low,8,name.com,,,
-63ced2cf-602e-4f8c-ba44-222ff44cd8a8,jealous.properties,available,18.99,39.99,low,low,7,namesilo,,,24/09/2026 01:04
+48c25e0e-6860-4e94-a627-3b7e0d78e9d4,antonymous.properties,available,10.99,50.99,medium,low,10,name.com,,,05/08/2026 20:16
 33462405-dd11-418b-a125-62fdbb8f96d4,mention.properties,available,10.99,,high,low,7,name.com,,,
-47ae7ba8-908d-445b-9afa-b982559d3c5d,seven.properties,available,10.99,50.99,low,medium,5,name.com,,,
-c7879ca5-2f8a-49f9-9928-81e7ef23348b,only.properties,resell,,,medium,low,4,Dynadot Inc,28/04/2026 22:01,28/04/2027 22:01,22/09/2026 02:00
-bb0b4170-a20f-40ae-9745-da2ab378cf83,businesstrip.properties,available,10.99,,high,low,13,name.com,,,
-54a3da14-4016-4a3e-97e6-016cc9a49cd7,commonera.properties,available,10.99,,medium,low,10,name.com,,,
-8d45520a-1530-43b3-aba7-ef6e61876ac3,corridor.properties,available,10.99,,medium,low,8,name.com,,,
+47ae7ba8-908d-445b-9afa-b982559d3c5d,seven.properties,available,10.99,50.99,high,medium,5,name.com,,,
+8d45520a-1530-43b3-aba7-ef6e61876ac3,corridor.properties,available,10.99,,high,low,8,name.com,,,
 3c06bfcd-80f7-432c-b959-1ce35d7f1c3b,castellano.properties,available,10.99,,medium,low,10,name.com,,,
-1ea25ae4-90c0-4f51-827e-c0a92932abac,tossout.properties,available,10.99,,medium,low,8,name.com,,,
-882c56f9-b11b-46da-9ffa-95104046dd99,panther.properties,available,10.99,,medium,low,7,name.com,,,
+882c56f9-b11b-46da-9ffa-95104046dd99,panther.properties,available,10.99,,high,low,7,name.com,,,
 5fd09597-4dad-43ed-89a3-1420b8d8efca,qualitative.properties,available,10.99,,high,low,11,name.com,,,
-afc65008-e561-4eaa-b520-a3001c1f882e,cavitied.properties,available,10.99,50.99,low,low,8,name.com,,,
-c1e0e106-f2fb-4a93-9e78-5101054ed5fc,voicemessage.properties,available,10.99,,high,low,13,name.com,,,
-1a07c541-9495-4adf-8385-709f232b99df,goleft.properties,available,10.99,,high,low,7,name.com,,,
 356a4c27-c821-4886-98ad-192474e45cee,martha.properties,available,10.99,,high,low,6,name.com,,,
-dafbb5b3-4992-4ae9-9886-fb14882b24b0,gobad.properties,available,10.99,,high,low,6,name.com,,,
-7e19370e-e815-4791-9bcf-44b4b1072eb0,anarchical.properties,available,10.99,50.99,low,low,10,name.com,,,
 7e85bb9b-d966-4e3c-8075-ecb46da2b88a,dinosaur.properties,available,10.99,,high,low,8,name.com,,,
-25b61299-ab6d-4532-a084-e7a8a5fb168c,violetgold.properties,available,10.99,,low,low,11,name.com,,,
-17b1a75f-8ede-4b0e-b341-b95bb0c2407e,vaticancity.properties,available,10.99,,low,low,12,name.com,,,
-49e553c9-bbf5-4e86-ab41-eba97a2ac0bf,auditive.properties,available,10.99,50.99,low,low,8,name.com,,,07/08/2026 16:49
-b25df54e-5058-423a-b50f-57f2db5fdf3d,howdo.properties,available,10.99,,medium,low,6,name.com,,,
+49e553c9-bbf5-4e86-ab41-eba97a2ac0bf,auditive.properties,available,10.99,50.99,medium,low,8,name.com,,,07/08/2026 16:49
 525c6643-2ae6-486b-88ba-a2c3dbc5fb8c,apology.properties,available,10.99,,high,low,7,name.com,,,
-3cf89188-6834-4905-bd22-2bf769a79fde,sheet.properties,available,10.99,,medium,low,5,name.com,,,
-b31c7265-9ecc-4715-8dac-62ed7a9c2ed9,ampullary.properties,available,10.99,50.99,low,low,9,name.com,,,
+3cf89188-6834-4905-bd22-2bf769a79fde,sheet.properties,available,10.99,,high,low,5,name.com,,,
 56dd50ca-f3c7-4035-85d9-c96ef40b18c1,successful.properties,available,10.99,,high,low,10,name.com,,,
 3b912976-569f-45e4-b6e6-f11d618c2e68,grouping.properties,available,10.99,,high,low,8,name.com,,,
-1c5ff5f3-5e5e-4708-988c-6a5e04c8db75,giveme.properties,available,10.99,,high,low,7,name.com,,,
-9b0eb3c6-7a30-44ce-b5b2-370e27305394,like.properties,resell,,,medium,low,4,Dynadot Inc,22/12/2025 19:25,22/12/2026 19:25,21/09/2026 23:58
 09577ccb-4c42-4cd6-873f-2553b9b3e101,gusto.properties,available,10.99,,high,low,5,name.com,,,
-82be10ed-0e0e-45d8-a948-eb684adb1abe,belated.properties,available,10.99,50.99,low,low,7,name.com,,,09/08/2026 12:37
-6a6ee80f-ac91-4b0a-aad2-d5ef5a4d2006,pillowcase.properties,available,10.99,,low,low,11,name.com,,,
+82be10ed-0e0e-45d8-a948-eb684adb1abe,belated.properties,available,10.99,50.99,medium,low,7,name.com,,,09/08/2026 12:37
+6a6ee80f-ac91-4b0a-aad2-d5ef5a4d2006,pillowcase.properties,available,10.99,,high,low,11,name.com,,,
 8dd24ad8-c46d-41ff-be21-8ada657669ac,derive.properties,available,10.99,,high,low,6,name.com,,,
-3ee859de-4e36-48ed-81f5-7ca5d8ea0b8a,xciv.properties,available,10.99,50.99,low,low,4,name.com,,,
-0abda577-6a05-46c1-9f96-c91609926833,anybudy.properties,available,10.99,,medium,low,7,name.com,,,
-5faf9047-9c29-4586-af7d-721048e027f8,rockmusic.properties,available,10.99,,medium,low,10,name.com,,,
-12fda6fb-579a-458d-8894-c5ee297e099d,distinguished.properties,premium,118.8,118.8,medium,low,13,namesilo,,,
+3ee859de-4e36-48ed-81f5-7ca5d8ea0b8a,xciv.properties,available,10.99,50.99,medium,low,4,name.com,,,
+12fda6fb-579a-458d-8894-c5ee297e099d,distinguished.properties,premium,118.8,118.8,high,low,13,namesilo,,,
 91c6e362-9631-4afb-8485-585cd7f4c747,unfortunately.properties,available,10.99,,medium,low,13,name.com,,,
-87bfeaa4-368a-4a8b-b434-6ca9814b7525,blanket.properties,available,15.98,43.98,medium,low,7,namecheap,,,08/09/2026 07:17
+87bfeaa4-368a-4a8b-b434-6ca9814b7525,blanket.properties,available,15.98,43.98,high,low,7,namecheap,,,08/09/2026 07:17
 02817997-7280-4848-9a4e-a624b5a4fba5,supporting.properties,available,10.99,,high,low,10,name.com,,,
-f5ae13da-8450-43c9-b874-e6498468984e,azido.properties,available,10.99,50.99,low,low,5,name.com,,,08/08/2026 02:06
-ad03061d-453b-4ced-b142-053ac8e29f60,amatory.properties,available,10.99,50.99,low,low,7,name.com,,,
-4c338495-fb9a-4685-bc6c-748cc3b23efa,freezingrain.properties,available,10.99,,medium,low,13,name.com,,,
+ad03061d-453b-4ced-b142-053ac8e29f60,amatory.properties,available,10.99,50.99,medium,low,7,name.com,,,
 78ec8a5e-0bd8-4f89-b656-8f929c0bd1d2,criterion.properties,available,10.99,,high,low,9,name.com,,,
 7c1557b1-8fc2-4747-914a-c0dd813e536c,heal.properties,available,10.99,,high,low,4,name.com,,,
-d5e7cb05-af67-44d4-9cb5-8c598c17f6a2,grilled.properties,available,10.99,50.99,low,low,7,name.com,,,08/08/2026 16:31
+d5e7cb05-af67-44d4-9cb5-8c598c17f6a2,grilled.properties,available,10.99,50.99,high,low,7,name.com,,,08/08/2026 16:31
 f16eb0fb-5f8b-4cee-bbd3-6af0f3bb901a,don.properties,premium,118.8,118.8,high,low,3,namesilo,,,
-381c31c3-6ddd-41e7-ad79-75c324c88b8b,letterofcredit.properties,available,10.99,,high,low,16,name.com,,,
-1893ed75-4492-4bcb-b3e2-1c90f85d50bc,yellowpages.properties,available,10.99,,medium,low,12,name.com,,,
 9a6c43ad-2d4d-436e-bd05-e077b8b89c1e,childhood.properties,available,10.99,,high,low,9,name.com,,,
-56d335ca-b123-4b1e-a233-9892c10cf5a6,changethesubject.properties,available,10.99,,medium,low,18,name.com,,,
 ad394bf4-8e36-41eb-8875-083ce354cede,arm.properties,premium,78.54,78.54,high,medium,3,namesilo,,,
-db98cf4c-e8f8-4286-a041-f1db30e57384,accredited.properties,available,18.99,39.99,low,low,10,namesilo,,,21/09/2026 15:54
-3afacafe-c3dd-4ffd-b05b-73af951e9c6d,inbrief.properties,available,10.99,,medium,low,8,name.com,,,
 ae1407d4-214f-4f92-8432-6993738335a8,loosely.properties,available,10.99,,medium,low,7,name.com,,,
-6643c2ef-c716-4994-9213-6de3c7da89da,ambivalent.properties,available,10.99,50.99,low,low,10,name.com,,,
-8ed6b611-b172-4d48-b313-7d0b76e5fc97,bayesian.properties,available,10.99,50.99,low,low,8,name.com,,,09/08/2026 03:13
-c7a1ad91-cecc-4378-90da-753eb4522b00,invariably.properties,available,10.99,,medium,low,10,name.com,,,
-cafaa0d8-60c8-4703-adf9-bf49acca814c,carefully.properties,available,10.99,,medium,low,9,name.com,,,
-a27c74e5-6800-467d-addb-a0922e3d8c79,corny.properties,available,18.99,39.99,low,low,5,namesilo,,,23/09/2026 23:25
-4fab5176-fb41-4374-8385-baa8ff3610cf,earn.properties,available,10.99,,medium,low,4,name.com,,,
+6643c2ef-c716-4994-9213-6de3c7da89da,ambivalent.properties,available,10.99,50.99,medium,low,10,name.com,,,
+8ed6b611-b172-4d48-b313-7d0b76e5fc97,bayesian.properties,available,10.99,50.99,medium,low,8,name.com,,,09/08/2026 03:13
+c7a1ad91-cecc-4378-90da-753eb4522b00,invariably.properties,available,10.99,,high,low,10,name.com,,,
+cafaa0d8-60c8-4703-adf9-bf49acca814c,carefully.properties,available,10.99,,high,low,9,name.com,,,
+4fab5176-fb41-4374-8385-baa8ff3610cf,earn.properties,available,10.99,,high,low,4,name.com,,,
 6c1df539-0e03-4e57-9146-1416f176b4d2,wishing.properties,available,10.99,,high,low,7,name.com,,,
-c4049508-b827-4101-9d1d-539f368b7ece,keepinmind.properties,available,10.99,,high,low,12,name.com,,,
-e9a1a983-7744-436d-854b-f1ce1e95a447,lamp.properties,available,10.99,,medium,low,4,name.com,,,
-62244c70-2539-4ca0-b4d0-daf336ae818b,expire.properties,available,10.99,,medium,low,6,name.com,,,
-5e63d607-3900-4592-8bb8-3287050da3a7,teal.properties,available,18.99,39.99,medium,low,4,namesilo,,,22/09/2026 23:03
-b2d5f691-16dd-46f5-8bcd-ffbca18cb5d0,alkaline.properties,available,10.99,50.99,medium,low,8,name.com,,,22/09/2026 00:14
-49ccca00-8eb6-4d2c-9a18-735234ad19e6,vomiting.properties,available,10.99,,medium,low,8,name.com,,,
-dab30629-6bc9-4d08-8ee7-0d830df3e2cf,alleyway.properties,available,18.99,39.99,low,low,8,namesilo,,,19/09/2026 04:05
-1f9a2e64-111e-4c8b-a5aa-35f5d180ace1,bravo.properties,available,,,medium,low,5,,,,
-26fd104c-d56e-4035-9584-d9f61b6e6b79,cometoahead.properties,available,10.99,,medium,low,14,name.com,,,
+e9a1a983-7744-436d-854b-f1ce1e95a447,lamp.properties,available,10.99,,high,low,4,name.com,,,
+62244c70-2539-4ca0-b4d0-daf336ae818b,expire.properties,available,10.99,,high,low,6,name.com,,,
+49ccca00-8eb6-4d2c-9a18-735234ad19e6,vomiting.properties,available,10.99,,high,low,8,name.com,,,
+1f9a2e64-111e-4c8b-a5aa-35f5d180ace1,bravo.properties,available,,,high,low,5,,,,
 917eeb68-321c-4706-8a3f-591577fb00d5,jazz.properties,available,10.99,,high,low,4,name.com,,,
-fc61e5a9-23c2-4149-9c75-a8814171d504,walkfree.properties,available,10.99,,medium,low,9,name.com,,,
-ce6e9239-ce99-4f78-bf8c-d7a12c3b2405,touchbase.properties,available,10.99,,medium,low,10,name.com,,,
-132fcb51-dc02-4375-b938-55762a70576b,rigorous.properties,available,10.99,,medium,low,8,name.com,,,
+132fcb51-dc02-4375-b938-55762a70576b,rigorous.properties,available,10.99,,high,low,8,name.com,,,
 bc9ff6a7-9c06-487b-8b11-5657960ec95b,citizen.properties,available,10.99,,high,low,7,name.com,,,
-5877ae11-d1ab-4684-95aa-bbe762ed7855,bowleg.properties,available,10.99,50.99,low,low,6,name.com,,,08/08/2026 11:50
-f71a8118-7a3b-4fe0-843b-8726ba58ea3e,blurry.properties,available,18.99,39.99,low,low,6,namesilo,,,22/09/2026 23:23
-f6ef8b6f-a3d2-4f7a-811e-1e5c9ef02b80,adducting.properties,available,10.99,50.99,low,low,9,name.com,,,
-0b989223-ca76-4446-8a3b-fee23da36d8d,twohanded.properties,available,10.99,50.99,low,low,10,name.com,,,
-b1ad5434-35cc-4b26-b0c4-a5e16a828899,talkto.properties,available,10.99,,medium,low,7,name.com,,,
-8c96f907-0de1-4f58-82c4-27e4040fa876,befogged.properties,available,10.99,50.99,low,low,8,name.com,,,09/08/2026 08:43
-b69018fe-c021-4aed-97e7-0e0452416cd7,spell.properties,available,10.99,,high,low,5,name.com,,,
-56c06fdb-cdee-4182-ba6b-ab5769a79c16,bum.properties,premium,78.54,78.54,low,low,3,namesilo,,,09/08/2026 10:49
-4236d5b0-5502-4b7c-b85f-0455974aafe1,aroid.properties,available,10.99,50.99,low,low,5,name.com,,,06/08/2026 11:30
-68229743-e046-4e3e-815e-1ede96af39b2,balding.properties,available,10.99,50.99,low,low,7,name.com,,,08/08/2026 09:35
+56c06fdb-cdee-4182-ba6b-ab5769a79c16,bum.properties,premium,78.54,78.54,high,low,3,namesilo,,,09/08/2026 10:49
+4236d5b0-5502-4b7c-b85f-0455974aafe1,aroid.properties,available,10.99,50.99,medium,low,5,name.com,,,06/08/2026 11:30
+68229743-e046-4e3e-815e-1ede96af39b2,balding.properties,available,10.99,50.99,medium,low,7,name.com,,,08/08/2026 09:35
+a3d95ebd-8c49-4655-9f38-3329708c359d,verse.properties,available,10.99,,high,low,5,name.com,,,
+34ded640-6a88-49cb-b271-1162386a4465,banked.properties,available,10.99,,medium,low,6,name.com,,,
+afd90714-3c0b-4bb0-99e3-112108964407,ended.properties,available,10.99,50.99,high,low,5,name.com,,,
+c00e6555-3ba2-46f6-b0f6-5c3844a66fc9,xxxviii.properties,available,10.99,50.99,medium,low,7,name.com,,,
+218d9e56-c489-4151-a72c-cca1ca38c431,ohio.properties,premium,118.8,118.8,high,low,4,namesilo,,,
+e1dbf98b-f2cf-4489-9b4f-9345d561e3a8,groovy.properties,available,10.99,50.99,high,low,6,name.com,,,08/08/2026 12:35
+8c705247-34b5-443b-8361-f17121a4aaf1,reticent.properties,available,10.99,,high,low,8,name.com,,,
+7f34e08f-fad8-4386-a884-335e74610ff0,fervent.properties,available,10.99,50.99,high,low,7,name.com,,,06/08/2026 16:14
+75652d5b-508e-4506-9fe6-db4f3d37c631,modeller.properties,available,10.99,,high,low,8,name.com,,,
+5ba7ebd3-3be2-4333-89d9-c98d8a49e26f,acetous.properties,available,10.99,50.99,medium,low,7,name.com,,,
+869b3773-93f7-47ec-a159-aba320f38b6d,hindsight.properties,available,10.99,,high,low,9,name.com,,,
+bfe8d548-9934-4c2a-9375-2482d9eeef51,eliza.properties,available,10.99,,high,low,5,name.com,,,
+ee58319a-43b4-43a7-9aeb-b0fddceda878,sneeze.properties,available,10.99,,high,low,6,name.com,,,
+1a192593-b50c-4c44-a423-e28913673501,agential.properties,available,10.99,50.99,high,low,8,name.com,,,
+10953f1b-b00d-404c-b205-6f69e7ae3de6,soldiers.properties,available,10.99,,medium,low,8,name.com,,,
+cca65bf4-35fd-4ce0-91e1-d31985f18e42,convene.properties,available,10.99,,high,low,7,name.com,,,
+1f3c9def-c9e8-41dd-9e47-ff9278cea3c2,supportive.properties,available,10.99,,high,low,10,name.com,,,
+2bf60a4c-5029-496b-ad97-05b7193ccf6b,pancreas.properties,available,10.99,,high,low,8,name.com,,,
+13a82120-cb4a-4293-8ddd-e61e2b1b3960,sadness.properties,available,10.99,,high,low,7,name.com,,,
+75490ac4-4595-4405-80af-94b8e9ab7b7b,fleshly.properties,available,10.99,50.99,medium,low,7,name.com,,,
+e241f0e9-aa99-465b-bb3d-dd77663214c8,disconnect.properties,available,10.99,,high,low,10,name.com,,,
+dde63fe5-2ceb-42f7-8635-9333e7df1cf6,beads.properties,available,10.99,,high,low,5,name.com,,,
+00ef200d-6695-4c81-8614-289e1e4a4418,strongly.properties,available,10.99,,high,low,8,name.com,,,
+e6c1d7d5-5468-44ff-afb4-78f86f3fc91a,significantly.properties,available,10.99,,medium,low,13,name.com,,,
+17aee441-b1d8-4a06-82bd-5f20f067689d,obviously.properties,available,10.99,,high,low,9,name.com,,,
+d58a72c3-314b-489e-acf4-796b1da0736a,adductive.properties,available,10.99,50.99,medium,low,9,name.com,,,
+99af3690-ab17-40f3-a583-8cc94d24c47c,beatific.properties,available,10.99,50.99,high,low,8,name.com,,,
+43b2bbd2-8dd1-43bf-9f49-01c541127ea1,tennis.properties,premium,242,242,high,low,6,namesilo,,,
+d5d83d81-4817-4bbf-88c3-7fa0c99b48cc,koala.properties,available,10.99,,high,low,5,name.com,,,
+b3ddf0ed-981d-4e54-90e1-8077a394f69e,repugnant.properties,available,10.99,50.99,medium,low,9,name.com,,,
+3d7b720e-051c-46b1-abcb-d86ca80b5a2d,grey.properties,available,15.98,43.98,high,low,4,namecheap,,,08/09/2026 07:08
+4467da3a-045d-461f-8876-9397fc282bb8,cord.properties,available,10.99,,high,low,4,name.com,,,
+e13dc4e5-0692-46b3-bc14-dd1e55e66878,playfield.properties,available,10.99,,high,low,9,name.com,,,
+45b68844-7c75-4e19-a8ec-a7d6212d706d,wax.properties,premium,78.54,78.54,high,low,3,namesilo,,,
+f3ea891a-fd91-4c01-80a1-14e2a97e3afb,newfound.properties,available,15.98,43.98,medium,low,9,namecheap,,,08/09/2026 04:48
+8bc03b58-faf0-44ac-af4a-3558e9819113,somesing.properties,available,10.99,,medium,low,8,name.com,,,
+6360e19c-6e24-46d3-bd87-b8284a136be4,lxxxii.properties,available,10.99,50.99,medium,low,6,name.com,,,
+73a1aa3b-e313-4266-810e-300db63c4756,youtube.properties,available,,,high,medium,7,,,,
+be8f1704-53ba-4588-9139-9350c70e30c3,successfully.properties,available,10.99,,high,low,12,name.com,,,
+23f5875c-f985-47f1-861f-bf016ea9e09a,pilot.properties,available,10.99,,high,low,5,name.com,,,
+6e6434ff-5c85-41e6-b83d-144905964dfc,wrongful.properties,available,10.99,,medium,low,8,name.com,,,
+2303a3ba-a7b4-4fc7-b0ec-edef2c489ef7,criticism.properties,available,10.99,,high,low,9,name.com,,,
+6df2536b-37de-4277-93b9-7a9b8e75d31c,beach.properties,premium,854,854,high,low,5,namesilo,,,
+e8cb0e79-2922-4a60-b557-012d3142ffba,september.properties,available,10.99,,high,low,9,name.com,,,
+fe8a11c4-2601-4d73-8d73-862f747f4cf4,hannukah.properties,available,10.99,,high,low,8,name.com,,,
+646de502-c246-4331-9004-10133ca7a73a,fort.properties,available,10.99,,high,low,4,name.com,,,
+c8bd1225-08c2-4b37-93b7-6d4c05d8b208,uphill.properties,available,10.99,50.99,medium,low,6,name.com,,,
+d56494f4-1bc9-4931-a95e-d8a86f510673,headteacher.properties,available,10.99,,high,low,12,name.com,,,
+2746f605-7fbe-4639-b6bc-2eaf3889a473,wobbly.properties,available,10.99,,high,low,6,name.com,,,
+dea1a8f5-d666-4bef-b317-05d94409ca4f,nitid.properties,available,10.99,50.99,medium,low,5,name.com,,,
+43fc11f2-8512-4ef5-b5db-a9f2b0b218e2,arse.properties,available,10.99,50.99,medium,low,4,name.com,,,09/08/2026 10:35
+b891b934-5b07-42e9-984b-09cbc79f0b79,jacks.properties,available,10.99,,high,low,5,name.com,,,
+c6201144-b242-4103-a005-907a9c9ec648,arbitral.properties,available,10.99,50.99,medium,low,8,name.com,,,06/08/2026 12:48
+16d14472-5d6b-4348-b971-a9c0128cfe59,soul.properties,available,10.99,,high,medium,4,name.com,,,
+796bd233-87d5-4730-8405-cac3c145c06b,condone.properties,available,10.99,,high,low,7,name.com,,,
+262612cc-25c9-454f-bc6f-2eb9af024dff,axe.properties,premium,118.8,118.8,high,low,3,namesilo,,,
+422fe688-3ecb-4139-a328-10c35df97f54,charge.properties,available,10.99,,high,low,6,name.com,,,
+bdefaa1b-9e62-4986-a6b8-2ec9bb1f87b7,roger.properties,available,10.99,,high,low,5,name.com,,,
+23fed170-93fa-4e64-aee8-12386ba994af,went.properties,available,10.99,,high,low,4,name.com,,,
+223abccf-cbec-45fd-9298-cbcd57657564,aunt.properties,available,10.99,,high,low,4,name.com,,,
+40ea89cd-bb02-4f62-8ee5-c5d0ebc21615,stuff.properties,available,10.99,,high,low,5,name.com,,,
+dbedbb2f-1829-4411-8c96-b8348820d608,romance.properties,available,10.99,,high,low,7,name.com,,,
+41d2e575-707e-4e43-9854-e4a08c04fe86,bruce.properties,available,10.99,,high,low,5,name.com,,,
+cd8f9ee5-6aac-4735-ab1a-41bc7ef25be4,exposure.properties,available,15.98,43.98,high,low,8,namecheap,,,08/09/2026 13:44
+9002fe37-db42-48be-8f71-59c26acb596f,bachelor.properties,available,10.99,,high,low,8,name.com,,,
+370cb732-5007-480f-bd20-06d71f93bda0,travelling.properties,available,10.99,,high,low,10,name.com,,,
+a1c09642-6d7d-4bbb-a8ae-12d42ac1158f,avenged.properties,available,10.99,50.99,high,low,7,name.com,,,07/08/2026 22:35
+eb85d1ed-4d72-4bb3-9189-260c1f399f44,prayer.properties,available,10.99,,high,low,6,name.com,,,
+c1d7a413-cc1c-4154-94d3-b1ed89a2b9af,rough.properties,available,10.99,50.99,high,low,5,name.com,,,06/08/2026 09:39
+9a15fc15-9e24-452a-b603-5b089e908b45,azonic.properties,available,10.99,50.99,medium,low,6,name.com,,,08/08/2026 02:32
+db8b00d2-03aa-4d04-aeeb-39d020011ad5,alar.properties,available,10.99,50.99,high,low,4,name.com,,,
+edc8b53d-65aa-4fa8-bae2-2de971031bf0,westminster.properties,premium,118.8,118.8,high,low,11,namesilo,,,
+7c62fb84-24ba-4f4e-9e9b-7bc506be1041,anything.properties,available,10.99,,high,low,8,name.com,,,
+b50157e9-5098-4422-996c-fafc2eea5cc1,authorial.properties,available,10.99,50.99,medium,low,9,name.com,,,07/08/2026 16:19
+46b45e0f-2a64-4084-88ab-a9b7a315745c,fruity.properties,available,10.99,50.99,high,low,6,name.com,,,06/08/2026 21:00
+f58b1e00-dc01-4f31-8da6-a7132feddac3,thrift.properties,available,10.99,,high,low,6,name.com,,,
+1288ee92-9380-48ac-85c2-8dc16ce79b43,pulled.properties,available,10.99,,high,low,6,name.com,,,
+ff068d44-f24f-4659-ac2b-3e15632776da,touring.properties,available,10.99,,high,low,7,name.com,,,
+e3848ad1-a050-4690-9990-e61f3567e854,pyramid.properties,available,10.99,,high,low,7,name.com,,,
+a1d078c4-b001-4da0-a3a9-9e7c919d6df1,retirement.properties,available,,,high,low,10,,,,
+c1aa30ae-7ac5-4964-8510-bc53dbede608,corking.properties,available,10.99,50.99,high,low,7,name.com,,,08/08/2026 12:20
+c1c2b9ed-435b-4a59-bb9a-2553ef479bcb,planning.properties,available,10.99,,high,low,8,name.com,,,
+3aa247e2-890b-493f-aab8-4bb5d9c51c89,boxers.properties,available,10.99,,high,low,6,name.com,,,
+13d0fd4e-7e98-4f44-9eca-9edee9d1261d,bolster.properties,available,10.99,,high,low,7,name.com,,,
+c2bcf477-8b0d-4511-897c-44eb57db66fd,ascensive.properties,available,10.99,50.99,medium,low,9,name.com,,,07/08/2026 00:46
+5293a5f7-79ff-4f6a-8f3f-a11e96b72f98,baseborn.properties,available,10.99,50.99,low,low,8,name.com,,,08/08/2026 21:34
+061c5c22-25ae-402a-b59e-92a223a41c58,scheme.properties,available,10.99,,high,low,6,name.com,,,
+5fc40e4b-7c3e-4c5d-8f93-b858d1a59834,prolife.properties,available,10.99,,high,low,8,name.com,,,
+785f6cc9-995f-4b52-86ed-73664242f45d,participating.properties,available,10.99,,medium,low,13,name.com,,,
+95460084-7529-4751-acfc-c7328e6844b4,invitation.properties,available,10.99,,high,low,10,name.com,,,
+d16bbe60-1dc3-4a90-9946-82b14735d6e1,bedhead.properties,available,10.99,,high,low,8,name.com,,,
+43b7fe74-64db-4ef4-8993-6bff52adbbc9,adding.properties,available,10.99,,high,low,6,name.com,,,
+b36d53b6-e9b0-4bc9-9dcf-cdcc5238adb1,willingness.properties,available,10.99,,high,low,11,name.com,,,
+68eec33d-a3c0-4f03-af20-fb1eb3aa534f,competing.properties,available,10.99,,high,low,9,name.com,,,
+b79c836f-3ab3-4994-852b-05d9a1bbd627,simplify.properties,available,10.99,,high,low,8,name.com,,,
+2f9f0025-f90a-42e4-beef-9fa2e94d72da,meddle.properties,available,10.99,,high,low,6,name.com,,,
+8c388b96-0eb7-4747-a3b7-8551d23a0076,fifth.properties,available,10.99,50.99,high,low,5,name.com,,,
+2604e524-0799-467c-a4d8-29ee446205b5,xxxi.properties,available,10.99,50.99,high,low,4,name.com,,,
+40159cf7-5ad7-46ff-9a7f-cd486717ba0c,arabian.properties,available,10.99,50.99,high,low,7,name.com,,,06/08/2026 11:05
+48ddff5d-8bc8-49d5-8c84-b99b02d0a012,measles.properties,available,10.99,,high,low,7,name.com,,,
+a24d829d-6a8b-4128-aa54-94f0d9a043c6,thanks.properties,available,10.99,,high,low,6,name.com,,,
+76bb04db-0b2d-4dfb-97d0-73f97731a9b6,mushy.properties,available,10.99,50.99,medium,low,5,name.com,,,09/08/2026 00:58
+85637053-0efe-4391-ad79-d400f5e1c898,operose.properties,available,10.99,50.99,medium,low,7,name.com,,,06/08/2026 17:05
+82c6868d-d164-44b4-b4fb-d00c36376550,packed.properties,available,10.99,,high,low,6,name.com,,,
+0b3975d8-f955-447b-96fc-f56e95c8bfc5,hydroponic.properties,available,10.99,50.99,medium,low,10,name.com,,,06/08/2026 10:34
+12dae6bf-2de3-43e6-b858-863780e83d80,bald.properties,available,10.99,50.99,medium,low,4,name.com,,,08/08/2026 09:16
+e47a1f65-546b-4229-838b-862ded9a4cfd,disturb.properties,available,10.99,,high,low,7,name.com,,,
+952d5318-15a3-49b7-be21-d987c894a1a6,yearbook.properties,available,10.99,,high,low,8,name.com,,,
+affc0afb-5db7-410e-813b-3499d3b7afca,typically.properties,available,10.99,,medium,low,9,name.com,,,
+8d376411-dd36-4abc-8852-a990345c6694,toying.properties,available,10.99,,high,low,6,name.com,,,
+a94d3beb-7580-4866-9952-28e5227598c4,sloth.properties,available,10.99,,high,low,5,name.com,,,
+e9d93d68-c7fd-4a9c-bdad-aed68022e981,triad.properties,available,10.99,50.99,high,low,5,name.com,,,
+ddc8bf0d-a39d-42fc-a2b0-1445bcb2f5ef,auric.properties,available,10.99,50.99,high,low,5,name.com,,,07/08/2026 17:36
+fa88fccd-580a-4736-b4f4-d0c151f2090d,travelled.properties,available,10.99,,high,low,9,name.com,,,
+5c46c734-4635-400c-8a2c-e831eaef2d3b,contrasting.properties,available,10.99,,high,low,11,name.com,,,
+3013ee1d-dea7-4b90-a820-b1891873a3a9,most.properties,available,10.99,,high,low,4,name.com,,,
+c1233dff-03f3-490a-9d77-a2eceb949077,hence.properties,available,10.99,,high,low,5,name.com,,,
+2eb0f4aa-c6d4-4b08-a658-dfaa850006e8,aggregate.properties,available,10.99,50.99,high,low,9,name.com,,,
+460037ba-0c37-45f5-b841-4a8bd4f2cfaf,anthropoid.properties,available,10.99,50.99,high,low,10,name.com,,,
+2ca495d9-6bc1-4177-bbad-90ba1c3a528c,lowbrow.properties,available,10.99,50.99,medium,low,7,name.com,,,
+ead6338a-73ef-44a5-aa7a-0aafbe3ac030,agleam.properties,available,10.99,50.99,medium,low,6,name.com,,,
+e5f3cde1-a976-452b-b668-1d8261f76d20,aids.properties,available,10.99,,high,low,4,name.com,,,
+0fa7b4f1-8232-4647-8649-8f9594c57d18,check.properties,premium,854,854,high,medium,5,namesilo,,,04/09/2026 07:44
+929c69a4-5869-4029-8e9f-2ad598bffd3f,opinion.properties,available,10.99,,high,low,7,name.com,,,
+2b2ca025-1314-4b8c-bc33-d73f4b05a6c1,cassette.properties,available,10.99,,high,low,8,name.com,,,
+7774de42-9d86-488f-bd93-adae69883f61,beating.properties,available,10.99,,high,low,7,name.com,,,
+0250e6ee-166f-404e-bb72-7593fc3e5c1f,roast.properties,available,10.99,,high,low,5,name.com,,,
+28d57d24-6b77-4bdd-b30b-0023c020ae22,critique.properties,available,10.99,,high,low,8,name.com,,,
+5e3a087f-dd4b-453b-a99b-db5118c7510f,alated.properties,available,10.99,50.99,medium,low,6,name.com,,,
+0482e750-65ff-43c0-8b1b-10db97c9336a,omnipotent.properties,available,10.99,50.99,high,low,10,name.com,,,
+ba7dc2c2-bdef-4a12-9fcd-6d8efe8826b4,apneic.properties,available,10.99,50.99,medium,low,6,name.com,,,06/08/2026 00:40
+f042e35f-57cb-42e3-95d2-0135a4ba9aa4,ssi.properties,available,10.99,,high,low,3,name.com,,,
+7bd711d3-9e83-4ce8-b2fa-e22e4b64c618,nearer.properties,available,10.99,,medium,low,6,name.com,,,
+9d0100bc-2a3e-4819-9198-f224d9ee6b2e,paste.properties,available,10.99,,high,low,5,name.com,,,
+e7bc697c-db3f-40a9-9610-817f50f9cda9,pass.properties,premium,242,242,high,low,4,namesilo,,,
+edf6f2a4-078e-4793-87a4-c3e8b962a9d0,awhile.properties,available,10.99,,medium,low,6,name.com,,,
+d9b027a0-1374-4936-b609-aac853ff34b3,articled.properties,available,10.99,50.99,medium,low,8,name.com,,,06/08/2026 08:28
+b7c07afe-200c-4680-8dca-08c967cb29d6,ass.properties,premium,118.8,118.8,high,low,3,namesilo,,,09/08/2026 12:05
+7271493e-b4e8-4a3e-8269-b30899d17807,affectionate.properties,available,10.99,,high,low,12,name.com,,,
+86d72c05-9e08-4d38-b9c9-d9511718d50c,topless.properties,available,10.99,50.99,medium,low,7,name.com,,,08/08/2026 18:33
+27524b05-dea1-499a-8911-a5e3070f2f60,captain.properties,available,10.99,,high,low,7,name.com,,,
+7ab852ca-4396-4dfc-8a78-7d081026b121,myspace.properties,available,,,high,low,7,,,,
+d3d0d5a5-8e56-4ed6-8846-de8a447652aa,pound.properties,available,10.99,,high,low,5,name.com,,,
+b8e53ab1-efb2-49ad-9edf-ab8768f16129,deposits.properties,available,10.99,,high,low,8,name.com,,,
+b156ddc5-202d-4a02-8309-2b656bc66f58,hand.properties,available,10.99,,high,low,4,name.com,,,
+d28690fc-a0fb-4d6c-b142-d4d37fc3e6fa,acrobatic.properties,available,10.99,50.99,high,low,9,name.com,,,
+5bcc87b6-b980-4c23-bdd5-c00662a6b5a6,diva.properties,resell,,,high,low,4,"GoDaddy.com, LLC",24/10/2014 21:45,24/10/2026 21:45,
+0b31f9c0-d2e7-4e2c-abb6-b95bcc202451,genuinely.properties,available,10.99,,high,low,9,name.com,,,
+508dba97-21d4-4aa9-b601-a800d98e455d,worsening.properties,available,10.99,,medium,low,9,name.com,,,
+f0772e84-2c32-47fa-b16c-3de4653dd7ac,laundry.properties,available,10.99,,high,low,7,name.com,,,
+c8b65a9b-6eed-4eca-8d53-a1290f155919,unceasing.properties,available,10.99,50.99,high,low,9,name.com,,,
+69088447-3536-4263-a5e8-4b4811d0ccf5,text.properties,available,10.99,,high,medium,4,name.com,,,
+9918720f-3a27-48e9-8859-d75df04207b7,wool.properties,available,10.99,,high,low,4,name.com,,,
+060f07ae-6a12-4b46-812a-a8b385f26e74,constructive.properties,available,10.99,,high,low,12,name.com,,,
+d7e92cc1-1aef-46ba-baea-b9ff84b53d2b,watchful.properties,available,10.99,50.99,high,low,8,name.com,,,
+a9e438ec-4bda-4532-979d-6104366e7d0f,oxfam.properties,available,10.99,,high,low,5,name.com,,,
+231af8f5-c1cd-4fce-a22f-4baf27377b39,accessary.properties,available,10.99,50.99,medium,low,9,name.com,,,
+4565c0a5-d3e7-4d99-8256-a92a8ef51a04,jar.properties,premium,78.54,78.54,high,low,3,namesilo,,,
+0bb70455-deba-4417-9d63-6ae7edac8ef2,bets.properties,available,10.99,,high,low,4,name.com,,,
+55a85daf-8588-4f42-897c-4d7171df0533,tailless.properties,available,10.99,50.99,medium,low,8,name.com,,,05/08/2026 21:33
+20266d21-6249-4688-a173-2dc989d887b4,gregor.properties,available,10.99,,high,low,6,name.com,,,
+5fa737b0-164d-4121-b481-798d6739746d,update.properties,available,10.99,,high,low,7,name.com,,,
+cc308d4a-01da-4473-8f40-d302bb9c1313,trial.properties,available,10.99,,high,low,5,name.com,,,
+0bbdc4f7-7772-4a11-a804-92c3da5e2483,strapping.properties,available,10.99,50.99,medium,low,9,name.com,,,09/08/2026 08:02
+c58cc6d1-699e-46d6-adb8-e25371fe4ada,respects.properties,available,10.99,,high,low,8,name.com,,,
+cc2ebf6b-b862-465d-b83d-d27091ca307a,talent.properties,available,10.99,,high,medium,6,name.com,,,
+4c98dfa6-cc7e-43c3-a6cd-d5ac9a5cbde5,searching.properties,available,10.99,,high,low,9,name.com,,,
+73056f84-a1b2-4c7c-9ce6-e864f4324770,encourage.properties,available,10.99,,high,low,9,name.com,,,
+6d0b3377-6220-4ff7-874f-431cbd3cb8ce,ding.properties,available,10.99,,high,low,4,name.com,,,
+2fcb8925-1330-4435-b1e8-d893eab3be61,hug.properties,premium,118.8,118.8,high,low,3,namesilo,,,
+4d87eb04-674d-45d0-b451-8d8cff46164e,beforehand.properties,available,10.99,50.99,medium,low,10,name.com,,,09/08/2026 08:51
+5a2cc200-e23a-4ba9-80a2-e63e7a259371,profess.properties,available,10.99,,high,low,7,name.com,,,
+2e9e5937-69ce-4460-a5c2-1f45e8c7af88,pointless.properties,available,10.99,,high,low,9,name.com,,,
+caf2ed20-2226-4dea-9392-a2a98b23d4f2,djia.properties,available,10.99,,high,low,4,name.com,,,
+48e4e3fc-c52d-44b2-a054-a6066dfa67e5,anal.properties,available,10.99,50.99,high,low,4,name.com,,,
+da154958-ed05-44c4-be6a-f9a1f3a2928f,scripted.properties,available,10.99,,high,low,8,name.com,,,
+edca709d-5d4f-4cdd-977c-2d55bff85898,intent.properties,available,10.99,50.99,high,low,6,name.com,,,
+79ea1050-f320-488d-98b2-301bbfcfe3de,section.properties,available,10.99,50.99,high,low,7,name.com,,,08/09/2026 06:07
+2b5a5dc5-56d5-432e-99e5-cf465ab5a46e,askant.properties,available,10.99,50.99,high,low,6,name.com,,,07/08/2026 03:05
+2c567916-aeec-423c-a282-f883dd0045cb,occasion.properties,available,10.99,,high,low,8,name.com,,,
+aaab25f3-4f90-4302-87f4-eedc5a599b9f,conjunction.properties,available,10.99,,high,low,11,name.com,,,
+8c5a098a-6483-4b7a-ac64-8dc2603ec6af,autonomic.properties,available,10.99,50.99,high,low,9,name.com,,,07/08/2026 20:52
+3bf742b2-462e-4279-af88-86d1ed16db76,sued.properties,available,10.99,,low,low,4,name.com,,,
+3ea8d490-10bb-495f-aba4-74115b698253,respiratory.properties,available,10.99,,high,low,11,name.com,,,
+d4f3877a-ae5f-4259-a5cc-845df202d7b5,scheduled.properties,available,10.99,,high,low,9,name.com,,,
+d7b20417-ad11-423b-b6e6-254b83e05cca,became.properties,available,10.99,,medium,low,6,name.com,,,
+e7efcedf-8e67-476b-9a76-d75dd6178e3d,valley.properties,resell,,,high,low,6,"Sav.com, LLC - 9",23/04/2025 15:15,23/04/2027 15:15,
+0037c770-47dd-4513-8c01-26e8ccf09979,undeveloped.properties,available,10.99,,high,low,11,name.com,,,
+1ecabd65-8dd5-4a95-98d7-23061e874f21,xcl.properties,available,10.99,50.99,medium,low,3,name.com,,,
+8af3a3a1-6297-4f88-9cb5-247d9b31a560,amused.properties,available,10.99,50.99,high,low,6,name.com,,,
+84510be3-1435-4203-a457-98fbd8fa8000,glory.properties,available,10.99,,high,low,5,name.com,,,
+c9920dd7-8d67-4e48-b038-ada6b1bfcc9f,baptized.properties,available,10.99,50.99,high,low,8,name.com,,,08/08/2026 14:55
+a8f0fee7-8151-42a2-ac9c-1235e482ca9d,walk.properties,available,10.99,,high,low,4,name.com,,,
+69f132fa-fabf-4c80-a038-327023cb5b31,disagree.properties,available,10.99,,high,low,8,name.com,,,
+3e33975b-0238-492e-9c75-7af44252dfd6,had.properties,premium,78.54,78.54,high,low,3,namesilo,,,
+843dc3af-0c77-4263-bd33-f320d1fa399e,feminism.properties,available,10.99,,high,low,8,name.com,,,
+3377b3b9-44fc-474e-a48a-23d8f9719786,razor.properties,available,10.99,,high,low,5,name.com,,,
+12dce226-c9d7-4af1-9a01-ecbb044b9d77,overjoy.properties,available,10.99,,high,low,7,name.com,,,
+23944029-f4b9-46d7-9314-372274d734d8,bruise.properties,available,10.99,,high,low,6,name.com,,,
+e43346ea-a671-43c5-a77f-e5833f4a680b,interviewee.properties,available,10.99,,high,low,11,name.com,,,
+087a7f61-8f15-4d86-b6d3-7aca6c7d4c72,laudable.properties,available,10.99,50.99,high,low,8,name.com,,,06/08/2026 07:01
+8918488b-1190-41cf-a9c7-05b5abf5c4e2,duracell.properties,available,10.99,,high,low,8,name.com,,,
+a67e3b1a-da62-46c1-b7d0-6898a6487e61,bearded.properties,available,10.99,50.99,high,low,7,name.com,,,08/08/2026 16:05
+9d5b3fe2-5b10-444e-a8cf-e831b139a0ac,opt.properties,premium,78.54,78.54,high,low,3,namesilo,,,
+82441fa3-b56c-488a-a7ed-6e831230d0f0,pasta.properties,available,10.99,,high,low,5,name.com,,,
+aa664927-f12d-4a9b-90d0-036d097752cf,lush.properties,available,,,high,low,4,,,,
+a574a5a2-f7ae-49c7-a93a-8c0c8be325b6,dive.properties,available,10.99,,high,low,4,name.com,,,
+363bde21-071d-46bd-86b3-c88dd56aac49,acids.properties,available,10.99,,medium,low,5,name.com,,,
+618896d9-154d-44cc-ba7d-31fb6b9aae81,ruined.properties,available,10.99,,high,low,6,name.com,,,
+8f6443d7-a019-4beb-b153-b9b4c394e1cd,asked.properties,available,10.99,,high,low,5,name.com,,,
+00c4b9e7-d34e-4260-8811-b6b576474748,psychology.properties,available,10.99,,high,low,10,name.com,,,
+d75704ff-5276-4a07-a1bc-fe52acfd6567,amniotic.properties,available,10.99,50.99,medium,low,8,name.com,,,
+38a949ec-ba78-4f83-a917-adbbdddd29ad,inevitable.properties,available,,,high,low,10,,,,
+aba6316a-483e-4d61-b0b5-1597ed2d4574,draw.properties,available,10.99,,high,low,4,name.com,,,
+15fb7c4d-5750-417b-96ca-c3623fea8fe0,thumping.properties,available,10.99,50.99,high,low,8,name.com,,,08/08/2026 13:08
+a09a2952-0c31-4811-9eb5-da17d94f3d9e,february.properties,available,10.99,,high,low,8,name.com,,,
+4e74d422-b0a9-4e48-b019-c792a73863e4,clx.properties,available,10.99,50.99,high,low,3,name.com,,,
+966dcf03-80ad-47a7-beb2-4d9df19f854c,xxiii.properties,available,10.99,50.99,high,low,5,name.com,,,
+d457e6a7-d13e-4260-8d79-be393ee34d24,noncitizen.properties,available,10.99,50.99,high,low,10,name.com,,,
+82464f42-013f-417a-9fa5-53c843aea28f,beginning.properties,available,10.99,50.99,high,low,9,name.com,,,09/08/2026 09:06
+086aa0d4-493e-44ae-9a8f-ec4076a4339a,overhead.properties,available,10.99,,high,low,8,name.com,,,
+499f82a3-005d-4d93-9b45-e010decfb172,occur.properties,available,10.99,,high,low,5,name.com,,,
+b2e2bcef-b34e-4347-9f28-9b158f497917,trophy.properties,resell,,,high,low,6,Dynadot Inc,22/01/2026 17:00,22/01/2027 17:00,
+81c64835-343b-4a1e-919e-77f3b9bac616,respectfully.properties,available,10.99,,high,low,12,name.com,,,
+60392ecc-8c0c-400c-8da1-c3b56bd800b5,incidental.properties,available,10.99,50.99,high,low,10,name.com,,,
+451e604c-c301-48ac-b72a-9be4949d47f2,sunglass.properties,available,10.99,,high,low,8,name.com,,,
+c0b21290-421e-42b5-b7c6-6a05f2a8ec90,tks.properties,available,10.99,,high,low,3,name.com,,,
+46367f25-1c83-4437-b81e-f5876d53574e,turnout.properties,available,10.99,,high,low,8,name.com,,,
+4b979eca-45be-4fd8-94bd-943d784b0cb9,crab.properties,available,10.99,,high,low,4,name.com,,,
+174c7252-6469-4535-bb3f-0aa48b89f265,urban.properties,premium,242,242,high,low,5,namesilo,,,
+d3068f02-b3fe-4210-bb0b-83e4e0f71892,einstein.properties,available,10.99,,high,low,8,name.com,,,
+3c200d15-0163-466a-92f6-2050b3650b56,remington.properties,available,10.99,,high,low,9,name.com,,,
+4e253165-fd34-4647-ab2d-3e03f8b42dc5,mouthfeel.properties,available,10.99,,high,low,10,name.com,,,
+6ec300d8-ccb9-45e5-8c1f-3b94e01c9724,not.properties,premium,242,242,high,medium,3,namesilo,,,
+e9b25a50-81a2-4833-80de-ca42742ee541,mint.properties,available,,,high,low,4,,,,
+c010593a-9df5-40db-bed0-5a2cc3482350,eighth.properties,available,10.99,50.99,high,low,6,name.com,,,
+22fe3cf9-cb66-4f1e-9187-b2b9aea7f908,shouted.properties,available,10.99,,high,low,7,name.com,,,
+481299e5-2bee-4cae-9462-8646c9b06716,bahraini.properties,premium,118.8,118.8,medium,low,8,namesilo,,,08/08/2026 08:36
+942b77aa-3537-445c-9e8d-c3dddccbae50,lake.properties,resell,,,high,low,4,"GoDaddy.com, LLC",21/12/2016 19:03,21/12/2026 19:03,
+92aa5e34-34cd-4492-a5b4-52fe52d141e1,andorran.properties,premium,118.8,118.8,high,low,8,namesilo,,,
+af0cd6b4-c46f-4d04-8e35-ed1ee1fd7955,algebraic.properties,available,10.99,50.99,high,low,9,name.com,,,
+c94f1042-9645-422a-a96b-99b79f9be72f,acquitted.properties,available,10.99,50.99,high,low,9,name.com,,,
+d473efe2-af32-4941-96c4-d43c24f6808b,assumed.properties,available,10.99,50.99,medium,low,7,name.com,,,07/08/2026 07:45
+902b07a1-341b-479c-964f-38925957b224,cannot.properties,available,10.99,,high,low,6,name.com,,,
+f23e2749-810b-4e53-95db-c47928ee4d60,very.properties,available,10.99,,high,low,4,name.com,,,
+52b0f8bd-b596-4975-96f3-1ed3f1d03714,acne.properties,available,10.99,,high,low,4,name.com,,,
+0d8731ad-35aa-427a-9742-362df96b2c30,install.properties,available,10.99,,high,low,7,name.com,,,
+3f079a1f-adb6-4fb6-a606-f80e0c7a48fa,desktop.properties,available,10.99,,high,low,7,name.com,,,
+2eec4732-9a08-45ed-85c0-47bba8b2d663,pestilent.properties,available,10.99,50.99,medium,low,9,name.com,,,08/08/2026 12:06
+309b87ad-8be7-4e04-ad67-5658adc4db19,informal.properties,available,10.99,,high,low,8,name.com,,,
+adc64d61-d6b9-4ccd-aa38-6bf6cb2a6678,matisse.properties,available,10.99,,high,low,7,name.com,,,
+a1d87f1a-e5df-4f4e-a32b-6320103b630b,batty.properties,available,10.99,50.99,medium,low,5,name.com,,,06/08/2026 20:35
+35b90b97-79b2-42f2-b6f1-6c1d72e8b591,antsy.properties,available,10.99,50.99,medium,low,5,name.com,,,05/08/2026 20:27
+63350497-1c00-48c8-9702-f90d65e92678,actively.properties,available,10.99,,high,low,8,name.com,,,
+4dd3db27-14c9-476e-99b6-f2206c5321c2,soup.properties,available,10.99,,high,low,4,name.com,,,
+1b5f094d-f97d-497a-ba94-2f31acb935a6,atonal.properties,available,10.99,50.99,medium,low,6,name.com,,,07/08/2026 13:46
+1d8cdba2-8f77-4f95-b72f-92bdd0bbc87f,rewarding.properties,available,10.99,,high,low,9,name.com,,,
+7b40ea4b-f830-4fbe-b0e7-88680288d308,itchy.properties,available,10.99,50.99,high,low,5,name.com,,,05/08/2026 20:43
+5fe8b200-a6f1-42a5-bb41-4ed974b89b05,intend.properties,available,10.99,,high,low,6,name.com,,,
+54c2b2fd-5911-4da2-980e-247f3e0bb9fc,bandy.properties,available,10.99,50.99,medium,low,5,name.com,,,08/08/2026 11:45
+35b1cc50-cc75-476c-a79b-71f37d8bc5bf,esteem.properties,available,10.99,,high,low,6,name.com,,,
+e6a813eb-03ca-40c7-9cc6-21cfcf8d71bc,beguiled.properties,available,10.99,50.99,medium,low,8,name.com,,,09/08/2026 09:46
+22d46103-1775-4b32-a399-29d3ed38e390,intriguing.properties,available,10.99,,high,low,10,name.com,,,
+65208311-7e01-465f-a8c1-3029b06c41e0,adventive.properties,available,10.99,50.99,medium,low,9,name.com,,,
+87fb7301-012b-4fa5-9ddb-88d093f23270,fiercely.properties,available,10.99,,medium,low,8,name.com,,,
+af938219-9d91-4307-890d-712b75ad94b9,breathe.properties,available,10.99,,high,low,7,name.com,,,
+6b2f1b9d-fe1d-4aa8-ae62-4b6240c130e6,department.properties,available,10.99,,high,low,10,name.com,,,
+50cd5972-bd62-4825-9d44-8fcf4caf7ce1,googler.properties,available,10.99,,high,low,7,name.com,,,
+5d310a03-1283-478e-9639-bc6801669084,cricket.properties,premium,250,,high,low,7,name.com,,,
+f7b9137f-40c9-4aa5-ae6d-41074d268e9b,arena.properties,available,10.99,,high,medium,5,name.com,,,
+0cd2ca27-6d4c-4d56-a789-cafcec05b111,affined.properties,available,10.99,50.99,medium,low,7,name.com,,,
+d088ca3b-c661-444a-947a-32b7cb58a721,neck.properties,available,10.99,,high,low,4,name.com,,,
+18e6fc0b-bb89-4123-b6a9-dfae8465a0e8,disciple.properties,available,10.99,50.99,high,low,8,name.com,,,
+fca4857b-4634-436e-a701-bfc73eae54ea,boxing.properties,available,10.99,,high,low,6,name.com,,,
+4e72e4c9-5e8b-44f4-b5be-006b4aa62291,torn.properties,available,10.99,,high,low,4,name.com,,,
+9cc1f6d3-6a34-43c6-832e-8acb7991edcc,adviser.properties,available,10.99,,high,low,7,name.com,,,
+c0ba126c-8f34-4aa6-b648-23a078d93303,much.properties,available,10.99,,high,low,4,name.com,,,
+c3e93ba9-7d2d-429c-963c-8ac86312e5a5,leadership.properties,available,10.99,,high,low,10,name.com,,,
+af469957-e368-4a1d-b0af-f68a98c6a6d3,duck.properties,premium,854,854,high,low,4,namesilo,,,
+628a5e66-9542-4177-aa9d-e285ff2c1b34,punishing.properties,available,10.99,50.99,high,low,9,name.com,,,06/08/2026 17:10
+727b1cb5-bd38-44d2-9401-107cad48d990,arawak.properties,available,10.99,50.99,high,low,6,name.com,,,06/08/2026 12:38
+1a429e61-4ede-455a-90d7-66761600a972,jolt.properties,available,10.99,,high,low,4,name.com,,,
+639c4728-73dc-4474-87ee-a1b922c8e2d7,gee.properties,premium,78.54,78.54,high,low,3,namesilo,,,
+9e4317bb-7eb1-468b-9559-3edae54dfece,oxford.properties,premium,118.8,118.8,high,low,6,namesilo,,,
+ac7dc2cf-3619-49d1-b595-dca7558889dd,flak.properties,available,10.99,50.99,medium,low,4,name.com,,,
+3dedc450-9289-465d-af95-b1434e2b56a8,precise.properties,available,10.99,,high,low,7,name.com,,,
+f94232c5-ee9d-4b1f-93fa-c7cbb02fc85f,matter.properties,available,10.99,,high,low,6,name.com,,,
+4fce9ab8-f611-456a-86d4-39f16e3d8a4d,sense.properties,available,,,high,low,5,,,,
+045e175b-1640-4ef8-bde4-9348ebfdde13,dentist.properties,premium,242,242,high,low,7,namesilo,,,
+5a4b5bcc-96ef-4e3e-ada3-669dba23f2db,justified.properties,available,10.99,,high,low,9,name.com,,,
+ff5f855a-98bb-4005-ab49-deaa2d508920,thursday.properties,available,10.99,,high,low,8,name.com,,,
+b0f7e6f3-8d92-40a1-8bcd-e6a118c12cb6,awed.properties,available,10.99,50.99,high,low,4,name.com,,,08/08/2026 00:44
+2a79b896-ced8-4d79-b0f4-91099db4a18a,lucrative.properties,available,10.99,,high,low,9,name.com,,,
+3bf6ef8c-3ad5-4c4a-8734-186b11b77f47,theme.properties,available,10.99,,high,low,5,name.com,,,
+2b77ccd2-dddc-49bb-bc0f-1257fb4f58fb,lxxxviii.properties,available,10.99,50.99,medium,low,8,name.com,,,
+5cfdeab5-13bf-483b-b8d1-1f582a427394,praise.properties,available,10.99,,high,low,6,name.com,,,
+03ddb52f-ec3e-4a07-92cb-78b3e1a09d3e,fussy.properties,available,10.99,50.99,medium,low,5,name.com,,,08/08/2026 07:47
+836b6374-7495-4571-a3ff-dc6b684e87a0,resolvable.properties,available,10.99,,high,low,10,name.com,,,
+6e6b3e44-c6c1-457e-9ae3-f17be44f0af2,interesting.properties,available,10.99,,high,low,11,name.com,,,
+e3f63d6f-bac2-4e88-bbc2-f90bd8b12716,oxygen.properties,available,10.99,,high,low,6,name.com,,,
+ee3b04fc-4f64-4c93-98e2-25db07f4face,agnostical.properties,available,10.99,50.99,medium,low,10,name.com,,,
+36180acd-d2e2-4547-abf1-f4c73df1f13e,motivate.properties,available,10.99,,high,low,8,name.com,,,
+5e492dc5-dc14-4fc5-8a25-1b6c65ed37fa,philistine.properties,available,10.99,50.99,medium,low,10,name.com,,,
+2e71d96c-a23c-4038-b787-2e1d56615c2d,ford.properties,available,,,high,low,4,,,,
+45cbbadc-0106-4fb2-96e1-92513aff1492,coruscant.properties,available,10.99,50.99,high,low,9,name.com,,,
+1ac8d1b9-f82e-4c76-aebf-6dc66b0de899,anatomic.properties,available,10.99,50.99,medium,low,8,name.com,,,
+a05a40ed-04ae-41e9-bcac-2a43872a5bfa,clinically.properties,available,10.99,,high,low,10,name.com,,,
+26430b35-a3dc-4dad-9849-26c973f1d7aa,accommodate.properties,available,10.99,,high,low,11,name.com,,,
+070db7b0-80e3-4a46-bd3e-9027eb9900a8,sunbelt.properties,available,10.99,,high,low,7,name.com,,,
+364034dd-c9b7-4afc-9084-289b9c35e5b9,antidotal.properties,available,10.99,50.99,medium,low,9,name.com,,,
+7c0adafa-8f5c-4cc5-b215-6949d2b97425,wages.properties,available,10.99,,high,low,5,name.com,,,
+312dea20-b313-4c67-a78e-6985aa5d9d1d,side.properties,available,10.99,,high,low,4,name.com,,,
+53089f89-c489-4fbb-8e69-c4b699700c37,geometry.properties,available,10.99,,high,low,8,name.com,,,
+13691e23-5e0f-4d90-ad00-2365312ed5c9,dissolve.properties,available,10.99,,high,low,8,name.com,,,
+f0f1bf6f-36d2-427b-a4ad-e89a9da2c279,whacky.properties,available,10.99,50.99,medium,low,6,name.com,,,06/08/2026 21:32
+bb6c7991-b2c4-41fa-9a6c-242853ab77ba,idolized.properties,available,10.99,50.99,high,low,8,name.com,,,
+43b8bcb7-71a2-4d2c-b20b-716eb9a51fe1,nicole.properties,available,10.99,,high,low,6,name.com,,,
+e787a4f0-e5ac-47a5-84ff-a0d1bb54afe2,ser.properties,premium,82.5,,high,low,3,name.com,,,
+d1576055-33e2-4476-aea7-f1a2a394cd27,thief.properties,available,10.99,,high,low,5,name.com,,,
+77fd8c3c-4e00-40c1-9dc5-abb7a188dcd3,gregorio.properties,available,10.99,,high,low,8,name.com,,,
+72ede4f0-a93e-4222-a384-acb1b9d44cf0,passcode.properties,available,10.99,,high,low,8,name.com,,,
+f15d819d-1fbe-41a3-bc82-347a292027b4,saler.properties,available,10.99,,high,low,5,name.com,,,
+e15d0538-d4e5-4308-b876-9afa8bbf571d,situated.properties,available,10.99,,high,low,8,name.com,,,
+2022f2fb-e31f-4c85-861a-bfbdf25d9909,twin.properties,available,10.99,,high,low,4,name.com,,,
+3089d9f3-b0d5-444a-9659-ac368fd9d50c,chart.properties,available,10.99,,high,low,5,name.com,,,
+e99a96fa-1637-40c5-ae7d-b1b7e649c850,amative.properties,available,10.99,50.99,medium,low,7,name.com,,,
+42177df3-2222-41ad-8e07-d72217539847,contend.properties,available,10.99,,high,low,7,name.com,,,
+2d74a1bd-20cb-4ba0-8c13-51c466520ef1,outcome.properties,available,10.99,,high,low,7,name.com,,,
+9be6b7bd-737f-4da5-af41-f39159972293,ballistic.properties,available,10.99,50.99,high,low,9,name.com,,,08/08/2026 10:31
+89f2b001-515b-44a0-ae69-afad1f0bdd06,lunch.properties,available,10.99,,high,low,5,name.com,,,
+d5664e22-279e-4bf5-8b5b-04c3479e8299,progression.properties,available,10.99,,high,low,11,name.com,,,
+790236b7-d0d9-41b7-8d24-d0334926505d,crayola.properties,available,,,high,low,7,,,,
+8c910e10-cb14-46bb-a24b-04dc0702b8f7,jan.properties,premium,118.8,118.8,high,low,3,namesilo,,,
+763c09e8-0b2f-4575-963c-9c5c3cbcbde6,lust.properties,available,10.99,,high,low,4,name.com,,,
+cb7a921d-31f5-44b5-ac0a-e468630f12c4,slowness.properties,available,10.99,,high,low,8,name.com,,,
+71ae3dde-8e5b-4932-9f87-bfee39940618,issue.properties,available,10.99,,high,low,5,name.com,,,
+f4b23ffc-ba2e-4d51-a661-81f22d8ebb48,zest.properties,available,10.99,,high,low,4,name.com,,,
+af8a2ef0-6fc2-49d0-8ff7-5875fcdc7560,speak.properties,available,10.99,,high,low,5,name.com,,,
+a3baabc4-8551-4dde-981b-5b6af8208467,ask.properties,premium,118.8,118.8,high,medium,3,namesilo,,,
+866e5db1-50b2-46c4-99f0-9d033530c50d,shallow.properties,available,10.99,,high,low,7,name.com,,,
+851f4b98-11a4-45af-84a3-9ea5c8813257,flowers.properties,premium,242,242,high,medium,7,namesilo,,,
+de64849e-057c-473e-be12-a3fe460bfb89,astylar.properties,available,10.99,50.99,medium,low,7,name.com,,,07/08/2026 10:15
+69d64365-3e88-4c8b-b2a5-eb3030a2af39,casket.properties,available,10.99,,high,low,6,name.com,,,
+5887d368-5f3b-409c-9c7a-9676ca528bc0,allargando.properties,available,10.99,50.99,medium,low,10,name.com,,,
+c0aa2450-8e38-481b-834f-cb6d9c79013f,bulk.properties,available,10.99,,high,low,4,name.com,,,
+3a803fcb-49f6-4b5e-8729-566856a744b6,personally.properties,available,10.99,,high,low,10,name.com,,,
+299d8cb7-3700-439a-9df9-3bdbdeda9c57,tillable.properties,available,10.99,50.99,high,low,8,name.com,,,06/08/2026 11:25
+7ef05167-3b18-4cfe-b188-0ee3da562a0b,avaricious.properties,available,10.99,50.99,medium,low,10,name.com,,,07/08/2026 21:48
+3f653c63-939a-487d-85ca-8dde27ba7d5c,substantial.properties,available,10.99,,high,low,11,name.com,,,
+22be5217-040e-4c76-94eb-36316b5d22f4,valid.properties,available,10.99,,high,low,5,name.com,,,
+f989f1b2-b7c1-4a99-bd52-6064c5761d57,orleans.properties,available,10.99,,high,low,7,name.com,,,
+18b8644b-23d4-434c-a990-4302a722dc9c,graspable.properties,available,10.99,50.99,medium,low,9,name.com,,,06/08/2026 08:18
+fd10094f-6e94-4faf-ad60-3f69331b2d91,wrestling.properties,available,10.99,,high,low,9,name.com,,,
+c96ff550-2aa3-4025-9053-4c1d0b3638c6,anthropic.properties,available,,,high,low,9,,,,
+820811ad-f570-4421-838f-5109cc9a8c0a,eighteenth.properties,available,10.99,50.99,high,low,10,name.com,,,
+5a17bbfc-2d60-49e3-bfde-57dddabe8353,conducting.properties,available,10.99,,high,low,10,name.com,,,
+739679f9-0621-459e-a4de-f203a33ca835,motley.properties,available,10.99,50.99,medium,low,6,name.com,,,07/08/2026 07:29
+d5dcab13-672d-4370-aa25-a25000e6aade,cxxx.properties,available,10.99,50.99,high,low,4,name.com,,,
+6ac9cc65-13cd-497c-b6f8-85eb1440175f,sloppy.properties,available,10.99,50.99,high,low,6,name.com,,,08/08/2026 08:22
+8f3583e2-b923-4fd6-b2ab-3f741c867601,similarly.properties,available,10.99,,medium,low,9,name.com,,,
+88b951f4-3bc5-4b56-8b4a-ecd6cc307c7f,shorts.properties,available,10.99,,high,low,6,name.com,,,
+e3bd9e3b-ce0b-43c4-b0d6-0d634eee6293,lap.properties,premium,118.8,118.8,high,low,3,namesilo,,,
+787beada-d490-4054-a7ec-f9ebc267a512,asia.properties,available,,,high,low,4,,,,
+01f6cc1f-0296-48fe-92c4-2f6ec57988fa,estival.properties,available,10.99,50.99,medium,low,7,name.com,,,
+be088307-2076-4842-874a-d4f0146d7b1b,adynamic.properties,available,10.99,50.99,medium,low,8,name.com,,,
+c0f08db3-2830-400e-854b-0cefdff53e6a,kilometer.properties,available,10.99,,high,low,9,name.com,,,
+24ccee7a-2fff-4f1e-b912-9b02572a0b08,abounding.properties,available,10.99,50.99,high,low,9,name.com,,,
+4d531af1-5fdc-4b60-b1ff-3aec42c02977,rubber.properties,available,10.99,,high,low,6,name.com,,,
+d93b9599-dee2-419c-8eef-dd44676d1601,speaker.properties,available,10.99,,high,low,7,name.com,,,
+03d95042-0466-45bc-b0ef-98969bcfe27e,acronymous.properties,available,10.99,50.99,medium,low,10,name.com,,,
+20528617-46bc-47ad-8502-545f1a0b3a96,prochoice.properties,available,10.99,,high,low,10,name.com,,,
+11e4e2b8-6088-4ada-9a38-36c0d4736b59,truffle.properties,available,10.99,,high,low,7,name.com,,,
+aecacce2-3d04-4b16-8055-b6aedd886e6c,affected.properties,available,10.99,50.99,high,low,8,name.com,,,
+e8199dac-acc2-471f-9278-9c94aa49f457,may.properties,premium,82.5,,high,low,3,name.com,,,
+3988ed17-cd9a-43f6-8428-8a0d602425f7,pizzeria.properties,available,10.99,,high,low,8,name.com,,,
+327376c9-823b-4eba-a1e6-53f9db2a0561,gotten.properties,available,10.99,,high,low,6,name.com,,,
+d2b4e380-7595-4894-a24b-4759dff05825,policies.properties,available,15.98,43.98,medium,low,8,namecheap,,,04/09/2026 07:55
+2a10b63f-2308-442c-b930-b95c6aa07fe3,fingers.properties,available,10.99,,medium,low,7,name.com,,,
+d0461dfe-b341-4179-a3d7-f29e67b28328,despotic.properties,available,10.99,50.99,medium,low,8,name.com,,,07/08/2026 18:58
+2199c5b5-bdef-448b-90a4-14a39248592a,cocoa.properties,available,10.99,,high,low,5,name.com,,,
+aa88cada-dd2d-49c8-8060-b8b8b31c783d,alimentary.properties,available,10.99,50.99,high,low,10,name.com,,,
+1a3560ab-2012-4950-85a0-2c0fb0d056b9,gaping.properties,available,10.99,50.99,high,low,6,name.com,,,
+ed6c69ce-aef4-4a48-8f97-8df92b41c089,coffeeman.properties,available,10.99,,high,low,9,name.com,,,
+979679c9-f1d5-4320-a758-36bcea03f5d0,kinda.properties,available,10.99,,high,low,5,name.com,,,
+011b5918-b8fc-4840-94d8-e912d007cff9,jot.properties,premium,78.54,78.54,high,low,3,namesilo,,,
+9654d3d5-3e16-4ee0-bb06-c2287f8f6aaf,acrid.properties,available,10.99,50.99,medium,low,5,name.com,,,
+633e7062-75f4-496c-bf23-788791e2eccf,antitrust.properties,available,10.99,50.99,high,low,9,name.com,,,
+7de68797-e7cf-4869-8cfd-87c11d3f28b5,creaky.properties,available,10.99,50.99,medium,low,6,name.com,,,06/08/2026 22:59
+b0d435c0-a1c2-4990-bd6d-5e7f74ce639c,feel.properties,available,10.99,,high,low,4,name.com,,,
+0006021e-8f49-422e-8ac3-9a81abe16b44,vary.properties,available,10.99,,high,low,4,name.com,,,
+d485711d-b85f-4774-a5c5-120f997e6eca,aestival.properties,available,10.99,50.99,medium,low,8,name.com,,,
+f1b6e07f-0158-49c0-a4e5-e7afb3388e41,alsatian.properties,available,10.99,50.99,high,low,8,name.com,,,
+186874d4-4d14-4562-9269-d7776e0ac215,moscow.properties,premium,242,242,high,low,6,namesilo,,,
+a64dd37b-838c-4921-98da-3fc2c7491817,without.properties,available,10.99,,high,low,7,name.com,,,
+c805123d-0f07-466e-86d6-7de35896b992,hate.properties,available,10.99,,high,low,4,name.com,,,
+7d56c06b-297d-43a7-9a4d-266a23ad8622,eyry.properties,available,10.99,50.99,high,low,4,name.com,,,
+64dde722-c09c-403b-bbac-d0308fa0c598,nerd.properties,available,10.99,,high,medium,4,name.com,,,
+ffcf1c95-d102-4630-854b-d49fcea949d6,striking.properties,available,10.99,,high,low,8,name.com,,,
+e1e44875-1b48-4e47-a9e8-0d92c9741a16,smelling.properties,available,10.99,,high,low,8,name.com,,,
+9dbe7b88-e96e-40b7-9b0a-53416b0002b2,pair.properties,available,10.99,,high,low,4,name.com,,,
+27026f45-38bb-4ea7-8d25-043edd20ef25,hedge.properties,available,10.99,,high,low,5,name.com,,,
+870f1eab-b74e-40c7-88b7-941cedb6e862,nassau.properties,premium,118.8,118.8,high,low,6,namesilo,,,
+fafa9a54-f965-4881-8471-639e80d43532,hellish.properties,available,10.99,50.99,medium,low,7,name.com,,,09/08/2026 04:59
+04503fab-adc8-41ac-bc33-4abf3c0ad294,venerable.properties,available,10.99,,high,low,9,name.com,,,
+6408bff4-b875-4dbe-9702-f7b1a6bb009f,secondly.properties,available,10.99,,medium,low,8,name.com,,,
+9afde8c4-949b-457d-85d3-15545ddd9625,pressing.properties,available,10.99,,high,low,8,name.com,,,
+fd27e215-e6f5-41c2-bf6d-0c3f00f7b1e9,teacher.properties,available,10.99,,high,low,7,name.com,,,
+b4d986a4-e639-4493-b335-6b9825b3994e,apolitical.properties,available,10.99,50.99,high,low,10,name.com,,,06/08/2026 02:02
+86fd8122-f5cf-46a2-a988-b05c4f1cf7ca,foreign.properties,premium,854,854,high,low,7,namesilo,,,
+86a7c012-60bb-4a83-831e-8e69c5870b04,comfortably.properties,available,10.99,,high,low,11,name.com,,,
+4dfdf50a-681a-42b2-b076-9cebf9678e0f,analyzed.properties,available,10.99,50.99,high,low,8,name.com,,,
+3ca55041-b667-45e1-b9c2-03da4224e0e8,plus.properties,resell,,,high,low,4,Dynadot Inc,26/06/2025 17:00,26/06/2026 17:00,
+dafc286b-204b-4898-b7fb-7be619e39a71,dominating.properties,available,10.99,50.99,medium,low,10,name.com,,,07/08/2026 19:40
+f51b2fc5-f2ff-4412-ab49-f1dc9c3221a9,globular.properties,available,10.99,50.99,high,low,8,name.com,,,08/08/2026 10:06
+b76d4269-9693-410e-966b-306d2150bba0,facetious.properties,available,10.99,50.99,medium,low,9,name.com,,,08/08/2026 14:39
+bb1d8c62-3295-4ed3-8158-455295e61a7f,unbeatable.properties,available,10.99,,high,low,10,name.com,,,
+12e58d9d-e76c-4848-af5a-407e3bc3aaac,diving.properties,available,10.99,,high,low,6,name.com,,,
+a326ffce-f960-49a3-b4ac-bb299e2b7403,collision.properties,available,10.99,,high,low,9,name.com,,,
+5f62f06e-6c04-4b5c-9568-27e60284e2a9,hoops.properties,available,10.99,,high,low,5,name.com,,,
+275770f6-f314-4802-ab5a-b30d3021bd89,rudderless.properties,available,10.99,50.99,medium,low,10,name.com,,,
+6536548a-091a-4c98-b408-1af88ae3ec45,finalize.properties,available,10.99,,high,low,8,name.com,,,
+162a9f69-63da-4a6d-968f-2caa940e5fc2,anglican.properties,available,10.99,50.99,high,low,8,name.com,,,
+ac221c09-c68b-4c61-a757-caea6c124ba4,grabby.properties,available,10.99,50.99,medium,low,6,name.com,,,07/08/2026 21:58
+b3c45780-bda4-4746-8bd1-da7ea31776ef,kick.properties,available,,,high,low,4,,,,
+24c9548b-6c4b-4c72-a87e-dbfa267ddd46,basketball.properties,premium,242,242,high,low,10,namesilo,,,
+4426c358-8a7c-4fe2-8a42-2278a775e03b,aryan.properties,available,10.99,50.99,high,high,5,name.com,,,07/08/2026 00:01
+68960729-5f26-41de-9ad2-8c5cb557ada4,oreo.properties,available,10.99,,high,low,4,name.com,,,
+33c6d134-e846-4448-81b5-96c3b67d69d8,jewelry.properties,premium,242,242,high,low,7,namesilo,,,
+039507e7-30a7-40cf-b88f-1efd078fff18,lecture.properties,available,10.99,,high,low,7,name.com,,,
+229175e4-0494-4752-955d-8e3d3035be0c,yum.properties,premium,78.54,78.54,high,low,3,namesilo,,,
+6b70ed5d-b204-4b10-9234-1d6bf57ea800,xlii.properties,available,10.99,50.99,high,low,4,name.com,,,
+e2628c0d-e6ca-4512-b182-b4cc8e34c23b,pesky.properties,available,10.99,50.99,high,low,5,name.com,,,
+9676aee2-d440-4179-88d6-d018ac2f18ad,specification.properties,available,10.99,,high,low,13,name.com,,,
