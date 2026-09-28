@@ -1,10 +1,10 @@
-# Available .PROPERTIES One-Word Domains (22,364)
+# Available .PROPERTIES One-Word Domains (22,882)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C364%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C882%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .properties one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **22,364 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,882 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 22,364 domains · **Median ask:** $25.15 · **High-demand under $2,500:** 4
+**Public extract:** 1,000 rows · **Live catalog:** 22,882 domains · **Median ask:** $25.19 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-09-27
+**Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/properties`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| trip.properties       | available | $15.98    | $43.98        | high           | low    | 4      | namecheap        |
-| nothing.properties    | available | $15.98    | $43.98        | high           | low    | 7      | namecheap        |
-| everyday.properties   | resell    | —         | —             | high           | low    | 8      | GoDaddy.com, LLC |
-| internal.properties   | available | $18.99    | $39.99        | high           | low    | 8      | namesilo         |
-| beguiling.properties  | available | $15.98    | $43.98        | high           | low    | 9      | namecheap        |
-| employee.properties   | available | $15.98    | $43.98        | high           | low    | 8      | namecheap        |
-| allegro.properties    | available | $18.99    | $39.99        | high           | low    | 7      | namesilo         |
-| launch.properties     | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC |
-| modern.properties     | premium   | $42.90    | $42.90        | high           | low    | 6      | namecheap        |
-| gripping.properties   | available | $18.99    | $39.99        | high           | low    | 8      | namesilo         |
-| order.properties      | available | $18.99    | $39.99        | high           | medium | 5      | namesilo         |
-| beauty.properties     | premium   | $854      | $854          | high           | low    | 6      | namesilo         |
-| before.properties     | available | $15.98    | $43.98        | high           | low    | 6      | namecheap        |
-| exciting.properties   | available | $18.99    | $39.99        | high           | low    | 8      | namesilo         |
-| firm.properties       | available | $18.99    | $39.99        | high           | low    | 4      | namesilo         |
-| reasonable.properties | available | $15.98    | $43.98        | high           | low    | 10     | namecheap        |
-| alkaline.properties   | available | $10.99    | $50.99        | high           | low    | 8      | name.com         |
-| rented.properties     | premium   | $242      | $242          | high           | low    | 6      | namesilo         |
-| amateur.properties    | available | $15.98    | $43.98        | high           | low    | 7      | namecheap        |
-| someone.properties    | available | $18.99    | $39.99        | high           | low    | 7      | namesilo         |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| aar.properties      | available | $18.99    | $39.99        | medium         | low    | 3      | namesilo         |
+| weed.properties     | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| age.properties      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| aec.properties      | available | $18.99    | $39.99        | high           | low    | 3      | namesilo         |
+| launch.properties   | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC |
+| beg.properties      | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo         |
+| ann.properties      | available | $10.99    | —             | high           | low    | 3      | name.com         |
+| stream.properties   | resell    | —         | —             | high           | medium | 6      | —                |
+| cod.properties      | premium   | $85.80    | $85.80        | high           | low    | 3      | namecheap        |
+| fda.properties      | available | $18.99    | $39.99        | high           | low    | 3      | namesilo         |
+| everyday.properties | resell    | —         | —             | high           | low    | 8      | GoDaddy.com, LLC |
+| den.properties      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| fis.properties      | available | $30.20    | $30.20        | high           | low    | 3      | cloudflare       |
+| hum.properties      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| gyp.properties      | available | $15.98    | $43.98        | medium         | low    | 3      | namecheap        |
+| law.properties      | premium   | $260      | $260          | high           | medium | 3      | namecheap        |
+| ole.properties      | available | $10.99    | —             | high           | low    | 3      | name.com         |
+| man.properties      | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
+| raf.properties      | available | $15.98    | $43.98        | high           | low    | 3      | namecheap        |
+| nth.properties      | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 22,364 live domains                        |
+| 1,000-row public sample | 22,882 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 4 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PROPERTIES One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PROPERTIES One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
