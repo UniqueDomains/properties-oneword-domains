@@ -1,10 +1,10 @@
-# Available .PROPERTIES One-Word Domains (31,116)
+# Available .PROPERTIES One-Word Domains (33,312)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C116%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C312%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .properties one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,116 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **33,312 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,116 domains · **Median ask:** $24.43 · **High-demand under $2,500:** 5
+**Public extract:** 1,000 rows · **Live catalog:** 33,312 domains · **Median ask:** $24.18 · **High-demand under $2,500:** 5
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/properties`
 **Best for:** founders, investors, studios
 
@@ -76,13 +76,13 @@ print(df.head())
 | bev.properties      | available | $14.17    | $31.25        | high           | low    | 3      | spaceship        |
 | everyday.properties | resell    | —         | —             | high           | low    | 8      | GoDaddy.com, LLC |
 | hee.properties      | premium   | $68.51    | $68.51        | high           | low    | 3      | spaceship        |
-| fda.properties      | available | $18.99    | $39.99        | high           | low    | 3      | namesilo         |
+| cso.properties      | available | $15.98    | $43.98        | high           | low    | 3      | namecheap        |
 | hum.properties      | premium   | $72.60    | $72.60        | high           | low    | 3      | dynadot          |
-| fis.properties      | available | $30.20    | $30.20        | high           | low    | 3      | cloudflare       |
+| epp.properties      | available | $14.17    | $31.25        | high           | low    | 3      | spaceship        |
 | ias.properties      | premium   | $72.60    | $72.60        | high           | low    | 3      | dynadot          |
-| gyp.properties      | available | $15.98    | $43.98        | medium         | low    | 3      | namecheap        |
+| fda.properties      | available | $18.99    | $39.99        | high           | low    | 3      | namesilo         |
 | law.properties      | premium   | $260      | $260          | high           | medium | 3      | namecheap        |
-| hpa.properties      | available | $18       | —             | medium         | low    | 3      | unstoppable      |
+| fis.properties      | available | $30.20    | $30.20        | high           | low    | 3      | cloudflare       |
 | pip.properties      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,116 live domains                        |
+| 1,000-row public sample | 33,312 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 5 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PROPERTIES One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PROPERTIES One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
